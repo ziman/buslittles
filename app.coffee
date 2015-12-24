@@ -134,9 +134,31 @@ class Application
 
   skip: (k) ->
     console.log "skip #{k}"
+    console.log "startTs_1 = #{@startTs}"
+    @pause()
+
+    @startTs += k*parseFloat($('#skip-val').val())
+    console.log "startTs_2 = #{@startTs}"
+
+    dt = now() - @startTs
+    while (@pos > 0) and (@srt.events[@pos-1].ts > dt)
+      @pos -= 1
+
+    @play()
+
+    console.log "startTs_3 = #{@startTs}"
 
   speedup: ->
-    console.log "speedup"
+    @pause()
+
+    k = 1.0/parseFloat($('#speedup-val'))
+    console.log "speedup #{k}"
+  
+    dt = now() - @startTs
+    @transform(k, 0.0)
+    @startTs = now() - k*dt
+
+    @play()
 
   showPicker: ->
     if $('#show-picker').prop('checked')
