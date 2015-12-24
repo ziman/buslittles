@@ -1,4 +1,4 @@
-var window.SRTS = [
+window.SRTS = [
   "Drei.Haselnuesse.fuer.Aschenbroedel.(Remastered).DVDRip.German.AC3.by.forever-english.srt",
   "jak-dostat-tatinka-do-polepsovny.eng.srt",
   "Jak vytrhnout velrybe stolicku (1977).eng.srt",
