@@ -51,12 +51,29 @@ parseSrt_typeA = (txt) ->
   }
 
 class Application
-  loadSubtitles: ->
+  reset: ->
+    console.log 'reset'
+    @pos = 0
+
+  load: ->
     fname = 'srt/' + $('#fname').val()
     $.get fname, (data, xhr) ->
       @srt = parseSrt data
       console.log @srt.events
       console.log "duration: #{@srt.duration/60} minutes"
+
+      @reset()
+
+  play: ->
+    console.log 'play'
+
+  pause: ->
+    console.log 'pause'
+
+  stop: ->
+    console.log 'stop'
+    @pause()
+    @reset()
 
   constructor: ->
     @srt = null
@@ -66,7 +83,9 @@ class Application
         $('<option>').attr('value', fname).text(fname)
       )
 
-    $('#load').click =>
-      @loadSubtitles()
+    $('#load').click => @load()
+    $('#play').click => @play()
+    $('#pause').click => @pause()
+    $('#stop').click => @stop()
 
 $ -> new Application()
