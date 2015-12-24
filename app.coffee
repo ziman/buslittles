@@ -50,33 +50,62 @@ parseSrt_typeA = (txt) ->
     duration: events[events.length-1].ts - events[0].ts,
   }
 
+now = ->
+  d = new Date()
+  return d.getTime()
+
 class Application
+  tick: ->
+    curTs = now() - @startTs
+    console.log "tick: #{curTs}"
+
+    while curTs - @srt.events[@pos].ts > -0.2  # also accept 0.2s in future
+      $('#content').text(nextEvent.text)
+      @pos++
+
+    nextDelay = @srt.events[@pos].ts - curTs
+    console.log "nextDelay = #{nextDelay}"
+
+    @clockHandle = window.setTimeout (=> @tick), Math.floor(1000 * nextDelay)
+
   reset: ->
     console.log 'reset'
     @pos = 0
 
   load: ->
+    @stop()
+
     fname = 'srt/' + $('#fname').val()
-    $.get fname, (data, xhr) ->
+    $.get fname, (data, xhr) =>
       @srt = parseSrt data
       console.log @srt.events
       console.log "duration: #{@srt.duration/60} minutes"
 
-      @reset()
-
   play: ->
     console.log 'play'
 
+    if @state == 'stopped'
+      @startTs = now()
+
+    @state = 'playing'
+    @tick()
+
   pause: ->
     console.log 'pause'
+    @state = 'paused'
+    window.clearTimeout @clockHandle
 
   stop: ->
     console.log 'stop'
     @pause()
     @reset()
+    @state = 'stopped'
 
   constructor: ->
     @srt = null
+    @startTs = null
+    @clockHandle = null
+    @state = 'stopped'
 
     for fname in window.SRTS
       $('#fname').append(
