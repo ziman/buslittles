@@ -20,7 +20,7 @@ parseSrt_typeA = (txt) ->
     if line.trim().match(/^\d+$/)
       if content != null
         events.push({ts: startTs, text: content})
-        events.push({ts: endTs, text: ''})
+        #events.push({ts: endTs, text: ''})
         content = ''
 
       # console.debug "event number #{line}"
@@ -43,7 +43,7 @@ parseSrt_typeA = (txt) ->
       # console.debug "plain content: #{line}"
 
   events.push({ts: startTs, text: content})
-  events.push({ts: endTs, text: ''})
+  #events.push({ts: endTs, text: ''})
 
   return {
     events: events,
@@ -59,11 +59,9 @@ class Application
     curTs = (now() - @startTs) / 1000.0
     console.log "tick: #{curTs}"
 
-    console.log this
     while curTs - @srt.events[@pos].ts > -0.2  # also accept 0.2s in future
       $('#content').text(@srt.events[@pos].text)
       @pos++
-      console.log this
 
     nextDelay = @srt.events[@pos].ts - curTs
     console.log "nextDelay = #{nextDelay}"
