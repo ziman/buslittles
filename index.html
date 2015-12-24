@@ -19,9 +19,6 @@
 				<button id="load">Load</button>
 			</div>
 			<div id="controls">
-				<span id="timestamp">
-					00:00:00
-				</span>
 				<button id="play">Play</button>
 				<button id="pause">Pause</button>
 				<button id="stop">Stop</button>
@@ -33,7 +30,15 @@
 
 				<input type="text" id="speedup-val" value="1.0" />
 				<button id="speedup">Speedup</button>
+
+				<input type="checkbox" id="show-picker" name="show-picker" checked="" />
+				<label for="show-picker">Show picker</label>
 			</div>
+		</div>
+		<div id="picker-wrap">
+			<select id="picker" size="10">
+				<option>foo</option>
+			</select>
 		</div>
 		<div id="content">
 			Here be dragons.

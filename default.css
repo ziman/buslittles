@@ -4,3 +4,7 @@
 	text-align: center;
 	margin-top: 40px;
 }
+
+#picker-wrap {
+	display: none;
+}

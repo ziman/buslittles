@@ -81,6 +81,15 @@ class Application
       b: b
     }
 
+  fillPicker: ->
+    picker = $('#picker')
+    picker.empty()
+
+    for e, i in @srt.events
+      picker.append(
+        $('<option>').attr('value', i).text(e.text)
+      )
+
   load: ->
     @stop()
 
@@ -88,6 +97,7 @@ class Application
     $.get fname, (data, xhr) =>
       @rawSrt = parseSrt data
       @transform 1.0, 0.0
+      @fillPicker()
       console.log @srt.events
       console.log "duration: #{@srt.duration/60} minutes"
 
@@ -128,6 +138,12 @@ class Application
   speedup: ->
     console.log "speedup"
 
+  showPicker: ->
+    if $('#show-picker').prop('checked')
+      $('#picker-wrap').show()
+    else
+      $('#picker-wrap').hide()
+
   constructor: ->
     @rawSrt = null
     @srt = null
@@ -149,5 +165,6 @@ class Application
     $('#skip-forward').click => @skip(1.0)
     $('#skip-back').click => @skip(-1.0)
     $('#speedup').click => @speedup()
+    $('#show-picker').click => @showPicker()
 
 $ -> new Application()
