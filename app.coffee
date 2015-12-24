@@ -72,12 +72,20 @@ class Application
     console.log 'reset'
     @pos = 0
 
+  # t' = at + b
+  transform: (a, b) ->
+    @srt = {
+      events: ({ts: a*e.ts + b, text: e.text} for e in @rawSrt.events),
+      duration: a*@rawSrt.duration
+    }
+
   load: ->
     @stop()
 
     fname = 'srt/' + $('#fname').val()
     $.get fname, (data, xhr) =>
-      @srt = parseSrt data
+      @rawSrt = parseSrt data
+      @transform 1.0, 0.0
       console.log @srt.events
       console.log "duration: #{@srt.duration/60} minutes"
 
@@ -102,6 +110,7 @@ class Application
     @state = 'stopped'
 
   constructor: ->
+    @rawSrt = null
     @srt = null
     @startTs = null
     @clockHandle = null
