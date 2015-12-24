@@ -54,6 +54,15 @@ now = ->
   d = new Date()
   return d.getTime() / 1000.0
 
+human = (s) ->
+  min = Math.floor(s/60)
+  sec = Math.round(s - 60*min)
+
+  min = "0#{min}" if min < 10
+  sec = "0#{sec}" if sec < 10
+
+  return "#{min}:#{sec}"
+
 class Application
   tick: ->
     curTs = now() - @startTs
@@ -87,7 +96,9 @@ class Application
 
     for e, i in @srt.events
       picker.append(
-        $('<option>').attr('value', i).text(e.text)
+        $('<option>').attr('value', i).text(
+          "#{human e.ts}: #{e.text}"
+        )
       )
 
   load: ->
@@ -151,7 +162,7 @@ class Application
   speedup: ->
     @pause()
 
-    k = 1.0/parseFloat($('#speedup-val'))
+    k = 1.0/parseFloat($('#speedup-val').val())
     console.log "speedup #{k}"
   
     dt = now() - @startTs
