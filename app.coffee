@@ -1,9 +1,35 @@
 parseSrt = (txt) ->
-  if txt.search /\d+:\d+:\d+([.,]\d+)? -->/
+  if txt.search(/\d+:\d+:\d+([.,]\d+)? -->/) != -1
     console.log "type A"
     return parseSrt_typeA txt
 
+  if txt.search(/^\{\d+\}\{\d+\}/) != -1
+    console.log "type B"
+    return parseSrt_typeB txt
+
   console.error "could not recognise srt format"
+
+parseSrt_typeB = (txt) ->
+  lines = txt.replace('\r', '').split('\n')
+  console.log "#{lines.length} lines"
+
+  fps = 25.0
+  events = []
+  for line in lines
+    xs = line.trim().match(/^\{(\d+)\}\{(\d+)\}(.*)$/)
+    unless xs
+      console.log "unrecognised: #{line}"
+      continue
+
+    events.push({
+      ts: parseFloat(xs[1]) / fps,
+      text: xs[3]
+    })
+
+  return {
+    events: events,
+    duration: events[events.length-1].ts - events[0].ts,
+  }
 
 parseSrt_typeA = (txt) ->
   lines = txt.replace('\r', '').split('\n')
@@ -110,7 +136,7 @@ class Application
       @transform 1.0, 0.0
       @fillPicker()
       console.log @srt.events
-      console.log "duration: #{@srt.duration/60} minutes"
+      console.log "duration: #{human @srt.duration}"
 
   play: ->
     console.log 'play'
