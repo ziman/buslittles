@@ -13,12 +13,12 @@ parseSrt_typeA = (txt) ->
 
   startTs = 0
   endTs = 0
-  content = null
+  content = ''
   for line in lines
     xs = line.replace(',','.').match(/(\d+):(\d+):([\d.]+) --> (\d+):(\d+):([\d.]+)/)
 
     if line.trim().match(/^\d+$/)
-      if content != null
+      if content != ''
         events.push({ts: startTs, text: content})
         #events.push({ts: endTs, text: ''})
         content = ''
