@@ -144,6 +144,10 @@ class Application
     else
       $('#picker-wrap').hide()
 
+  pickerClick: ->
+    @pos = $('#picker').val()
+    @next()
+
   constructor: ->
     @rawSrt = null
     @srt = null
@@ -166,5 +170,6 @@ class Application
     $('#skip-back').click => @skip(-1.0)
     $('#speedup').click => @speedup()
     $('#show-picker').click => @showPicker()
+    $('#picker').click => @pickerClick()
 
 $ -> new Application()
