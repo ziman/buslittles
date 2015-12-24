@@ -1,0 +1,1177 @@
+{1}{1}25.000
+{3124}{3149}Jakub
+{3174}{3199}I've been waiting|for you for so long
+{3224}{3274}and you wanted to escape me
+{3424}{3449}escape
+{3525}{3550}but why?
+{3559}{3601}Don't be afraid come to me..
+{3599}{3626}I got you
+{3638}{3701}let go off me you bastard
+{3701}{3751}let me go
+{3876}{3951}you little....|aren't you scared of DEATH
+{3976}{4026}I soon gonna finish|you off
+{4111}{4153}Just one move with my scythe...
+{4153}{4178}Move you old bag!
+{4178}{4228}Or I will brake your bones
+{4311}{4403}I haven't met anyone|who could break bones to DEATH
+{4418}{4478}I like the boy
+{4514}{4578}I need someone like him
+{4597}{4653}I have to help him
+{4679}{4703}no
+{4711}{4753}Don't you dare using|the scythe DEATH!
+{4772}{4828}and from behind, be ashamed!!!
+{4871}{4928}Hold on tight,|get ready for the ride!
+{4971}{5028}Move, you old bag.|you're in my way
+{5052}{5103}Sister SNOW FAIRY,|you are helping him!
+{5105}{5153}you've got no right to do that!
+{5213}{5278}My scythe....|I've got no power without it!
+{5341}{5378}I've got you!
+{5396}{5428}You spoiled brat!!!
+{5447}{5478}Who can save me now?
+{5495}{5525}HELP!
+{5550}{5600}Snow Fairy, you betrayed me
+{5625}{5650}Snow Fairy!
+{5698}{5775}yes, yes  DEATH!|I will help you
+{5816}{5866}But JAKUB will be mine!
+{6274}{6339}"SNOW FAIRY"
+{6904}{6988}making snow is a very|hard work, JAKUB!
+{7013}{7113}up and down, let's shake this bed
+{7113}{7188}let snow fall all over the land
+{7263}{7313}JAKUB, where are you?
+{7313}{7338}Are you been lazy again?
+{7363}{7388}I'm here SNOW FAIRY
+{7413}{7438}Move aside
+{7488}{7538}Excellent!|You're almost good as me
+{7555}{7638}Up and down, let's shake this bed
+{7663}{7713}Let snow fall over the land!
+{7734}{7763}And now we're going to look
+{7819}{7864}How it's snowing down there
+{7929}{7989}SNOW FAIRY, why's somewhere |snowing and elsewhere raining?
+{8010}{8039}It's how it's ment to be
+{8110}{8164}Can you snow in|the dezert, please!
+{8283}{8339}Please, do it for me
+{8368}{8439}Why you want|me to do it, why?
+{8503}{8564}Because it's gonna be beautiful
+{8564}{8614}But that's not nice
+{8614}{8664}It's gonna turn|the world upside down
+{8682}{8714}please, please
+{8803}{8839}ok
+{9268}{9321}Look what we've done!
+{9346}{9421}These people have never seen|real snow before!
+{9613}{9701}Let's snow only|in places where snow..
+{9701}{9776}..will cover the land|in the white coat
+{9776}{9851}The earth will rest|and will give bread to people
+{9925}{9951}And them?|What are they doing?
+{9967}{10051}Those are children playing games
+{10588}{10663}Look at the window!|Can I draw a picture on it?
+{10663}{10688}Of course you can
+{10690}{10755}but not some silly things
+{10851}{10926}look at the snow flakes
+{11016}{11079}how pleased was the little girl
+{11079}{11126}why she has to go to sleep?
+{11126}{11151}you'll see
+{11201}{11254}sleep Elisabeth|so you can grow up
+{11521}{11571}I want to grow too|SNOW FAIRY
+{11571}{11646}And what for? Before I became |part of this magic world...
+{11646}{11696}I was a human
+{11746}{11796}Humans grow and get older
+{11821}{11846}Was I human too?
+{11871}{11896}yes
+{11946}{12021}but only very short time
+{12068}{12143}why is not good to be human?
+{12143}{12193}why?
+{12193}{12243}people are dying
+{12244}{12293}enough questions-|it's time to work
+{12318}{12343}work again!
+{12368}{12443}we're gonna make|a big snow storm
+{12452}{12555}but you said|the winter is nearly over
+{12583}{12670}Very good! I don't know what|I would do without you!
+{12670}{12720}Yes it's spring time
+{12720}{12770}let's make warm breeze
+{12770}{12918}to wake up the nature|and we can have a rest
+{12926}{13038}Can you see?|the earth was sleeping until now
+{13265}{13328}I know this song
+{13375}{13400}that's Elisabeth!
+{13473}{13510}how much she's grown
+{13535}{13631}wait, I will surprise|you with something
+{13812}{13887}which kid thrown that at me?
+{13907}{13969}by the way,|where the snow is from?
+{13994}{14057}it's already spring
+{14057}{14154}JAKUB!!! you little devil
+{14154}{14191}what are you doing?
+{14191}{14216}nothing!
+{14216}{14308}and who thrown a snow ball|in to Elisabeth?
+{14308}{14391}don't confuse people|it's already spring
+{14391}{14435}Do you see everything?
+{14435}{14476}everything!!!
+{14501}{14552}and what you're|thinking about, too
+{14571}{14634}I know you wanted|to clime to my tower
+{14661}{14723}I'd rather lock the gate
+{14781}{14868}I can see you are|very keen to get there
+{14868}{14946}Is that a way outside?
+{14946}{14971}Don't even think about it
+{14971}{15021}it could cost you your life
+{15229}{15292}SNOW FAIRY, are you sleeping?
+{15365}{15415}I just want to put|blanket on you
+{15415}{15486}so you won't get a cold
+{15561}{15661}go and sleep as well
+{16328}{16416}don't be scared of me|I won't hurt you
+{16886}{16949}so this is the tower|I'm not suppose to go to
+{16985}{17035}what does she hiding|from me?
+{17036}{17080}what's this?
+{17099}{17190}i think it's for watching
+{17197}{17249}but I can't see anything
+{17583}{17630}I should tidy up this place for her
+{17705}{17755}where's the broom
+{17761}{17804}so much clutter
+{17860}{17898}spiderwerbs
+{17944}{18014}my eyes
+{18132}{18186}that's so beautiful
+{18737}{18796}what's wrong with me
+{19103}{19167}welcome to the world JAKUB!
+{19296}{19343}my cloths are too small now
+{19386}{19419}I guess it's true|about growing up
+{19457}{19573}I have grown,|I have grown...
+{19573}{19644}I'm human
+{19693}{19737}human being
+{20049}{20121}what is this shirt doing|in human world?
+{20181}{20223}my dear sister, don't be|so angry
+{20260}{20317}maybe he thrown it out|through the chimney
+{20325}{20372}or maybe it's not even his
+{20372}{20439}why do you think it's his?
+{20454}{20521}let's have a look|if he still has his shirt
+{20686}{20751}be quiet he's still asleep
+{20773}{20906}today it was his shirt and|tomorrow himself
+{20953}{20977}he won't leave me
+{20983}{21002}i bet he will
+{21050}{21121}once he runaway and|becomes a human
+{21121}{21214}I will be the one to|have problems with him
+{21226}{21267}I remember him very well
+{21291}{21343}the day you saved me from him
+{21371}{21441}I don't want to see how many|troubles he's gonna cause me
+{21465}{21517}there's gonna be|no troubles
+{21517}{21542}don't worry
+{21581}{21631}I'm making sure he doesn't grow
+{21638}{21694}didn't he grown?
+{21881}{21909}this will be my death one day
+{21924}{21947}he hasn't ..
+{21947}{21991}he hasn't change at all
+{22012}{22059}so you're lying to me
+{22076}{22112}you both want to destroy me
+{22112}{22169}but I'm much stronger
+{22332}{22383}he hasn't changed
+{22423}{22459}but he's gro..
+{22459}{22503}he's grown
+{22503}{22632}He must have looked outside
+{22672}{22717}ok, he did but only once
+{22717}{22780}he just looked out of|the window on the tower
+{22818}{22906}he's got more brain than|both of us together
+{22952}{23018}i think I need to remove|the ladders
+{23018}{23061}i can't do it on my own!
+{23072}{23111}I can help you if you want
+{23131}{23191}but be careful
+{23192}{23254}there's my astro tools|in the tower
+{23254}{23294}don't worry
+{23325}{23346}gently
+{23416}{23471}my astro tools!
+{23734}{23819}My unfortunate scythe,
+{23846}{23893}it doesn't listen|to me anymore
+{23905}{23959}this is what I call HELP
+{23990}{24055}i said ladders and|you destroyed my tower
+{24084}{24114}I'm so sorry sister
+{24114}{24191}I don't know why|everytime I want|to do something good..
+{24191}{24228}I do the worst
+{24240}{24280}what now?
+{24383}{24433}how can I help you?
+{24450}{24488}enough
+{24536}{24578}I don't need your help anymore!
+{24578}{24628}Take your scythe and go!
+{24685}{24744}Just wanted to help
+{24751}{24791}Everybody hates me
+{24791}{24845}Nobody likes DEATH
+{24845}{24915}but I will show you all!!!
+{25363}{25378}Wind,
+{25399}{25416}don't be crazy
+{25416}{25463}what are you doing|with the leaves?
+{25538}{25569}stop it
+{25569}{25641}can you hear me?|Stop it!
+{25828}{25853}Heart
+{25893}{25978}Sorry Wind I wasn't right,|this is beautiful!
+{26343}{26377}Why are you|spoiling it SNOW FAIRY?
+{26377}{26412}it was beautiful
+{26412}{26465}beautiful
+{26491}{26578}spoiled brat|you keep upseting me
+{26597}{26642}don't you dare to grow again!
+{26737}{26785}I'm SNOW FAIRY!
+{26785}{26845}and you made me a seamstress
+{26947}{26983}don't laugh at me
+{27041}{27118}be glad I let you at least|to have a look at the world
+{27230}{27280}what's wrong Father?
+{27335}{27381}Mother wants to|see you once more
+{27435}{27535}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
+{27332}{27437}yes Father
+{27575}{27615}Elisabeth
+{27632}{27677}Listen to your Father
+{27711}{27766}Everything he'll do|will be ok
+{27766}{27806}yes Mother
+{27806}{27868}It's my time to go with her
+{28006}{28059}I'm coming
+{28107}{28135}good bye
+{28259}{28334}Do you understand why|I don't want you|to be human again?
+{28359}{28428}I'm not scared of DEATH!|Let her come here again!
+{28432}{28501}She won't show|her face here for a while
+{28537}{28565}where is she?
+{28565}{28605}Where's she dissappeared?
+{28612}{28643}who knows
+{28643}{28686}flying in the world
+{28686}{28764}she must be taking|other lives somewhere else
+{28818}{28872}In which mirror?
+{28873}{28928}We could be|searching forever
+{28928}{28998}let me at least cheer up|Elisabeth wit the rainbow
+{28998}{29055}you can do that, JAKUB
+{29101}{29183}I can see you like|the girl so much
+{29224}{29299}She's pretty,|but only a human
+{31144}{31210}Elisabeth, don't cry
+{31261}{31306}don't be sad
+{31350}{31401}Elisabeth
+{31414}{31459}they're looking for you
+{31482}{31528}they punish you,|punish you!!
+{31599}{31649}they punish you,|punish you
+{31733}{31771}pull me fast, pull me
+{31771}{31797}Yes sister DORA
+{31797}{31849}faster, faster
+{31876}{31924}You won't please her now.
+{31924}{31980}She's in mourning now.
+{32006}{32071}Time will heal the pain|and she'll forget.
+{32119}{32159}And she'll get old
+{32186}{32218}Will she outgrow me again?
+{32254}{32295}You'll stay a boy forever
+{32295}{32368}You even gonna see her children.
+{32368}{32411}and her grandchildren
+{32411}{32436}No! I want to grow!!!
+{32436}{32461}grow!!!
+{32466}{32512}That's all I need
+{32547}{32597}You would have to get older
+{32597}{32659}and die like ordinary people
+{32660}{32693}Why not?|I want to be a man..
+{32697}{32743}and I want to merry her!!!
+{32743}{32805}Don't prattle JAKUB!
+{32812}{32918}such little boy|shouldn't be talking|like an adult!
+{32946}{32973}what little boy?
+{32975}{33003}I'm 20 years old!
+{33030}{33063}How do you know that?
+{33075}{33102}I was counting the days
+{33102}{33160}You wasted your time
+{33199}{33265}The time here doesn't move
+{33294}{33371}The time is moving only on Earth
+{33957}{34039}Hey Mayor,|what a pretty bride you have!
+{34089}{34128}What's going on down there?
+{34148}{34185}It's just a wedding
+{34191}{34268}Elisabeth's father|is getting married again!
+{34268}{34306}and Elisabeth....
+{34332}{34363}where is she?
+{34404}{34433}look..
+{34587}{34681}see, you couldn't|even recognize her!
+{34681}{34706}Of course I could
+{34707}{34793}I can't believe|how much she's grown
+{34793}{34843}hurry up with that..
+{34843}{34868}BETY!
+{34886}{34921}how sad she is
+{34950}{34994}they gave her dirty job to do
+{34994}{35053}If I could I would|strike with lightning there
+{35053}{35105}don't you dare!
+{35162}{35212}let's at least bring|her mother to life
+{35239}{35313}we don't have that kind of power
+{35326}{35362}yes we do
+{35578}{35608}Mother
+{35731}{35772}Dear Mother!
+{35822}{35851}You Witch!
+{35937}{35966}Window
+{35966}{36023}she broke the window,|broke the window...
+{36035}{36057}What's this?
+{36057}{36098}Mama, mama
+{36098}{36156}Bety broke the window
+{36179}{36204}You bitch
+{36204}{36256}Do you want to inhibit|your father's wedding?
+{36283}{36326}What did your mother said|when she was dying!
+{36391}{36420}Did somebody hurt|you, daughter?
+{36420}{36487}Nobody Father,I'm happy|when you are happy
+{36505}{36551}I'm happy when you're|happy too
+{36607}{36652}Let's go.|Nothing happened.
+{36773}{36792}Bety!
+{37047}{37094}That's injustice!
+{37113}{37152}I can't look at it anymore
+{37168}{37231}Sometimes It's like|this between people
+{37231}{37314}Be glad you live here and not there
+{37634}{37697}Elisabeth can be difficult sometimes
+{37709}{37740}she's clumsy
+{37760}{37796}maybe you're giving her|too much work
+{37829}{37857}maybe we need a new servant
+{37903}{37950}where can you get|a good servant these days?
+{37950}{37975}you're right
+{37978}{38070}let her work,|work won't hurt her
+{38097}{38136}she'll learn
+{38160}{38188}I think the same
+{38328}{38351}we'll make her mill
+{38351}{38397}yes, yes|she will mill
+{38548}{38601}she will mill.....mill
+{38834}{38862}you're looking up Elisabeth
+{38866}{38905}and you can't see me
+{38925}{38961}and I would like to|help you so much
+{38961}{39004}but I don't know how|to get to you
+{39034}{39056}Eagle....
+{39056}{39088}take me to her
+{39771}{39828}you were flying and flying|dear rooster
+{39828}{39871}and this is where you finished
+{39954}{39992}maybe the wind was too weak
+{40214}{40249}SNOW FAIRY are you asleep?
+{40566}{40608}drink up
+{40681}{40729}sleep tight
+{40729}{40807}this is just a dream
+{41491}{41530}play..
+{42636}{42663}it's a good wind
+{42676}{42717}SNOW FAIRY play...play
+{42883}{42919}good bye
+{42980}{43025}sorry I'm leaving|without telling you
+{43044}{43071}but you were asleep
+{43456}{43486}You ungrateful boy!
+{43512}{43563}You should take care of me|until I die
+{43564}{43611}and you're leaving me instead
+{43631}{43691}but you're never gonna get old
+{43691}{43788}you'll gonna live forever
+{43788}{43830}I see you got smarter
+{43842}{43914}since you've been|living with me JAKUB
+{43914}{43984}But wait , just wait
+{44022}{44089}I'm gonna send such strong wind
+{44089}{44130}you will beg me to come back
+{44136}{44188}you little thief!!
+{44188}{44231}taking my bed cover
+{44265}{44328}so JAKUB how's the flying?
+{44348}{44416}this is punishement from me
+{44461}{44506}I'll add some more
+{44522}{44564}so you won't forget
+{44590}{44625}Help, help
+{44645}{44688}what's happening to me?
+{44688}{44745}it's hurting too much
+{44762}{44801}are you all right?
+{44801}{44847}Help! I'm growing!
+{44891}{44917}I'm a man!
+{44936}{44994}I'm a man!|Can you hear me?
+{45128}{45174}Ok fly away my dear
+{45202}{45234}good luck
+{45288}{45334}I'm human!
+{45334}{45405}JAKUB-the human!
+{45405}{45481}Let my good wind take|you there...
+{45511}{45553}where your heart wants to go
+{45553}{45637}be happy-y-y-y-y
+{45823}{45856}Viva to World!
+{45877}{45943}and Viva to people!
+{46631}{46667}this is it
+{46751}{46775}this is where she lives
+{46944}{46992}I didn't mean to scare you
+{47139}{47191}be quiet and don't worry
+{47210}{47244}I'm human too
+{47308}{47338}quiet
+{47625}{47637}hello
+{48136}{48163}hey! Anybody here?
+{48264}{48290}aah the soap
+{48524}{48576}smells nice
+{48593}{48623}but horrible
+{49219}{49248}Elisabeth!
+{49248}{49290}Who are you?
+{49290}{49315}JAKUB
+{49351}{49383}which JAKUB?
+{49451}{49476}JAKUB from heaven
+{49535}{49568}You dress funny in heaven!
+{49604}{49658}We do other silly things there
+{49690}{49738}Almost the same as|you here on Earth
+{49753}{49779}What are you doing?
+{49779}{49822}I mill the grain for flour
+{49843}{49877}Is there not an  easier way to do it?
+{49889}{49908}Just for you we've been waiting for...
+{49908}{49933}when you come..
+{49948}{49996}and come up with a new invention
+{50009}{50021}Don't worry
+{50041}{50064}I'll come up with something
+{50064}{50089}But I have to be more...
+{50105}{50124}..willing
+{50432}{50453}can you hear?
+{50580}{50600}Who's there with her?
+{50600}{50625}A man, man...
+{50625}{50689}It's a male voice
+{50708}{50743}where did you learn this song?
+{50773}{50820}you'll be surprised but from you
+{50835}{50854}stop
+{50914}{50958}so you let any strangers to come in
+{50985}{51020}what is he doing here?
+{51036}{51065}where you're coming from?
+{51085}{51123}from heaven
+{51138}{51166}what - heaven?
+{51232}{51276}you're gonna make fun of me
+{51411}{51461}you dirty beggar!
+{51490}{51508}do you know who I am?
+{51508}{51533}I'm a mayor's wife!
+{51533}{51570}And I'm JAKUB
+{51622}{51654}We'll put you behind bars
+{51654}{51704}be my guest!
+{51853}{51925}give it to him Mother!
+{52061}{52090}come down you dirty beggar
+{52090}{52159}It suits you when you're angry
+{52178}{52202}Hello Mayor!
+{52202}{52227}What's going on in here?
+{52227}{52257}Who's that fella?
+{52257}{52286}Your new servant!
+{52286}{52311}no
+{52311}{52336}did you hire him?
+{52336}{52361}that's a good idea
+{52399}{52451}Heaven must have sent you to us!
+{52451}{52476}exactly
+{52503}{52525}Mayor is right
+{52555}{52585}yes from heaven
+{52627}{52702}and please give him better clothes
+{53076}{53172}so this is what|we've been doing together
+{53172}{53222}just giving people more work to do
+{53243}{53266}what good does it make?
+{53367}{53462}I know you want to keep them busy
+{53473}{53544}but that's enough for today
+{53590}{53610}Stop snowing
+{53625}{53635}enough!
+{53660}{53682}Good morning!
+{53682}{53714}JAKUB who are you talking to?
+{53719}{53762}Morning!|Can't you guess?
+{53791}{53809}With SNOW FAIRY
+{53809}{53834}you don't say
+{53834}{53859}and you know her I guess!?
+{53882}{53915}Don't you believe I came from heaven?
+{53932}{53982}Yesterday I was making snow
+{53985}{54007}and today I'm clearing it all up
+{54072}{54106}isn't it strange?
+{54106}{54151}everything you say sounds strange
+{54151}{54206}I like listening to you|although I don't believe you
+{54255}{54283}tell me something about her
+{54289}{54322}what does she look like?
+{54322}{54347}How to describe her?
+{54370}{54405}I wish she could show herself
+{54420}{54458}SNOW FAIRY! show yourself!
+{54476}{54504}she doesn't want to
+{54515}{54529}but you know what?
+{54529}{54576}I'll create her
+{54601}{54647}come and help me
+{55381}{55412}she's funny
+{55412}{55437}don't say it loud
+{55437}{55480}or she will hear you
+{55502}{55527}and gets upset
+{55527}{55552}hear me?
+{55552}{55647}oh yes she can hear everything
+{55658}{55696}so make her big ears
+{55753}{55786}what's that?
+{55786}{55811}see, she's upset
+{55817}{55846}Aren't you ashamed?
+{55873}{55911}You're almost as bad as DEATH!
+{55951}{55979}let me help
+{55987}{56020}do you know DEATH?
+{56020}{56067}yes, she's my auntie
+{56079}{56129}she's lovely but|she takes lives from people
+{56130}{56184}DEATH!
+{56221}{56253}Christmas is coming
+{56253}{56303}we need to catch some|fishes for the village
+{56332}{56406}but how if the wolfs|have settled by the river
+{56409}{56477}tell the servant to do it
+{56481}{56520}isn't it dangerous?
+{56536}{56590}if he's so clever, surely|he can deal with them
+{56598}{56615}wolfs, wolfs
+{56615}{56640}wolfs
+{56732}{56764}wolfs
+{56764}{56789}Nothing again
+{56946}{56991}So did you catch any?
+{57010}{57044}no luck so far
+{57070}{57090}I guess they don't like us
+{57114}{57170}I brought you lunch|for hard work
+{57170}{57195}I think we'll|stay hungry then
+{57219}{57256}We'd better eat
+{57256}{57281}it's more sensible
+{57305}{57340}if we don't catch anything
+{57368}{57428}MAYOR will put us|behind bars
+{57441}{57493}and we won't get|much food then
+{57518}{57547}don't worry
+{57559}{57595}my father is fair
+{57622}{57672}he doesn't lock people up|for stupid reasons
+{57712}{57738}fair he is!
+{57738}{57763}it's true
+{57811}{57853}even fair can missjudge
+{57886}{57931}especially when|he's influenced by others
+{57931}{57969}and he's got|someone like that
+{58043}{58074}what's that round your waist?
+{58077}{58112}A whistle
+{58123}{58147}play for us
+{58169}{58194}play
+{58228}{58264}I usually play only to peacocks
+{58275}{58325}let's play to fishes
+{58494}{58519}look!
+{58524}{58554}a fish!
+{58577}{58615}a magic
+{58633}{58659}fishes, fishes
+{58742}{58771}you play!
+{58788}{58818}let's catch them now!
+{58832}{58866}now we won't starve
+{58887}{58930}food for the whole village
+{59226}{59268}they jumping out by themselves
+{59282}{59307}come and dance
+{59307}{59349}i don't know how
+{59595}{59648}carry on dancing
+{59806}{59833}JAKUB are you asleep?
+{59843}{59872}Of course I'm sleeping
+{59874}{59919}And I'm dreaming a nice dream
+{59948}{59976}Aren't you cold?
+{59976}{60001}Cold?
+{60001}{60062}I've got this warm bed cover
+{60106}{60136}I'm always warm
+{60136}{60161}Let's share it
+{60208}{60247}Aren't you scared of wolfs?
+{60293}{60310}Terribly!
+{60329}{60370}But I 've never met wolfs before!
+{60370}{60411}you're always joking
+{60426}{60487}tell me really where you come from?
+{60533}{60588}will ever stop this nonsense?
+{60610}{60649}but still I'm glad you're here
+{60666}{60699}you brought luck to us
+{60752}{60784}real luck this is!
+{60865}{60901}look! Wolfs!
+{61100}{61136}Now its time to dance
+{61189}{61232}who kicked me off the bed
+{61363}{61430}no one will protect us now
+{61430}{61470}so these are the wolfs
+{61500}{61543}I think they're hungry
+{61601}{61637}I'm old, I will sacrify myself
+{61637}{61687}and you runaway
+{61714}{61750}I - I will stop them
+{61768}{61845}You're brave but leave them to me
+{61845}{61915}Go home and don't worry about me
+{62023}{62046}Don't stay here JAKUB!
+{62055}{62091}They will kill you!
+{62104}{62212}Looks like DEATH wants to|feed you with my bones
+{62315}{62351}Follow me
+{62375}{62432}I have better bones for you
+{62502}{62529}Here they are
+{62536}{62572}Welcome dear auntie!
+{62579}{62663}Let me go! I can be|young and beautiful
+{62703}{62737}let me go
+{62737}{62776}beautiful or ugly
+{62776}{62801}you're still DEATH!
+{62809}{62841}you wanted to kill me
+{62866}{62969}let go off me, let me go
+{62969}{62994}stop it
+{63062}{63136}I swear I will get rid off them
+{63180}{63219}Show me
+{63324}{63355}Good job DEATH
+{63355}{63402}next time you'd better avoid me
+{63402}{63457}Did you forget how|I pulled your nose?
+{63457}{63545}Oh yes, yes|I almost forgot about it
+{63624}{63688}My poor old forgetful head
+{63704}{63783}don't you think you've won already!
+{63783}{63845}these wolfs of yours|have really nice fur
+{63859}{63901}Shame my blood is too hot
+{63909}{63977}it will get stiff one day
+{64204}{64240}this is silly
+{64240}{64284}MAYOR's wife|and daughter
+{64284}{64351}sliding slopes and|this is the result
+{64493}{64530}I wonder who's idea was it
+{64530}{64587}the day before Christmas
+{64667}{64707}come closer JAKUB
+{64733}{64762}Take an example from him
+{64778}{64814}chopped wood for the whole winter
+{64838}{64886}caught fishes for the village
+{64937}{64977}escaped the wolfs when|they chased him
+{64977}{65002}what you mean chased me?
+{65002}{65043}I was chasing them!
+{65154}{65165}He's always joking
+{65165}{65190}don't commentate
+{65232}{65260}Elisabeth!
+{65334}{65380}He's aloud to joke|cos he's skilled
+{65408}{65479}ok, ok enough fun
+{65492}{65516}let's open|the presents!
+{65516}{65551}DORA!
+{65551}{65576}Presents
+{65597}{65602}Look!
+{65692}{65777}My present for the|family is outside
+{65847}{65902}1, 2, 3 ,4, 5...
+{65902}{65957}How beautiful furs!
+{65964}{65982}Look!
+{66002}{66044}We're rich
+{66090}{66166}He's giving us a fortune!
+{66201}{66213}Fortune
+{66332}{66366}I have something
+{66414}{66443}for you
+{66490}{66527}don't open it yet
+{66537}{66553}only when you're|on your own
+{66789}{66841}magical whistle?
+{67305}{67331}and what will I give you?
+{67353}{67374}nothing
+{67392}{67423}you already gave us a lot
+{67423}{67503}at least this
+{67695}{67753}I want this moment|to last forever
+{67753}{67778}no way
+{67792}{67829}let this moment go away
+{67869}{67918}there will be new and even better
+{67950}{68011}that's why I came to look for you
+{68062}{68110}We've got a good servant, don't we!
+{68110}{68168}very clever and skilled
+{68168}{68229}I'm sure he's gonna be rich very soon
+{68229}{68276}He would be a very good son in law
+{68310}{68347}quiet
+{69489}{69530}keep on dreaming
+{69598}{69683}see how wonderful life I'm living here
+{69729}{69778}i can't even fall asleep from this happiness
+{69912}{69932}You're right!
+{69932}{69976}it's time to sleep
+{70030}{70065}Good night SNOW FAIRY!
+{70084}{70139}don't get your hopes high as yet
+{70176}{70222}you have to fight for happiness
+{70556}{70587}my fingers
+{70587}{70612}why aren't you more careful!
+{70706}{70738}look what damage you've done
+{70780}{70813}I'm sorry|I didn't mean to...
+{70822}{70844}It's very sharp
+{70873}{70916}I bet you did it on purpose
+{71006}{71034}go and wash it by the well
+{71040}{71079}I want it ready on time
+{71201}{71250}in a minute
+{71355}{71480}our DORA is smart and hard working
+{71480}{71529}who's wife she becomes
+{71529}{71559}they won't be dissapointed
+{71559}{71584}there you go,
+{71606}{71653}but I'd rather leave you two alone
+{71702}{71758}it's your turn go after him
+{71758}{71877}JAKUB it suits you together
+{72110}{72136}Blimey!
+{72142}{72183}DEATH is here
+{72272}{72305}ELISABETH!|Run!!!
+{72344}{72364}Leave her alone!
+{72388}{72407}Let her be!
+{72433}{72467}I didn't even need to push her
+{72487}{72542}but he's always faster
+{72595}{72636}he doesn't want me,|doesn't want me
+{72636}{72661}he wants her
+{72661}{72686}no, he wants you!
+{72722}{72786}don't you ever lay a finger on her!
+{72786}{72827}never, do you hear me!!!
+{72851}{72892}ok, ok
+{72952}{73027}just make sure no one else will instead
+{73346}{73387}you're suppose to be in bed
+{73424}{73449}you caught cold
+{73467}{73504}isn't it enough that|I'm  locking you in
+{73513}{73529}I'm better
+{73550}{73580}good
+{73606}{73645}you can start working then
+{73672}{73704}but you're not going out!
+{73738}{73782}JAKUB is in charge of peacocks
+{73807}{73853}and you'll finish this today
+{74170}{74200}here's your lunch
+{74244}{74279}i made it myself!
+{74309}{74328}really?
+{74328}{74371}and how did you make it
+{74409}{74462}well.....
+{74482}{74515}I can't remember
+{74522}{74540}but it's very good
+{74570}{74625}I've eaten half of it|on the way here
+{74648}{74740}And I would even finish|the half of your half
+{74812}{74867}circus, circus!!
+{75260}{75298}what did he say?
+{75311}{75345}He's inviting us for the performance
+{75374}{75429}and that we should|bring ELISABETH too!
+{75698}{75757}Open the door
+{75786}{75848}How can I open if I'm locked in
+{75968}{75992}Yo'd better go
+{75992}{76059}or she'll punish you as well
+{76060}{76115}She doesn't want to see us together
+{76180}{76209}How did you....
+{76212}{76242}it's locked
+{76242}{76267}not for me
+{76281}{76292}let's go out
+{76316}{76345}it's nice and windy
+{76380}{76408}and what if they catch us
+{76416}{76433}don't worry
+{76458}{76487}nobody's home
+{76498}{76535}they went to see the circus
+{76571}{76604}go and open the window
+{76629}{76651}do it
+{76704}{76734}fully open
+{76936}{76966}it's bigger and bigger
+{77322}{77373}why aren't you screaming?
+{77373}{77398}are you not scared?
+{77398}{77423}no
+{77432}{77448}not with you
+{77957}{78003}look, look up!
+{78019}{78062}there they're flying
+{78062}{78111}fly with us
+{78269}{78303}he can easily hurt her
+{78303}{78328}what a shame on us
+{78368}{78424}see and you said the best about him
+{78424}{78449}but this is too much
+{78486}{78547}Comedian, I will show him!
+{79221}{79267}what are you talking about
+{79267}{79344}he's going to show one special place
+{79377}{79441}how can you understand|that strange language
+{79441}{79466}I'm wondering too.
+{79489}{79514}I guess it's not difficult then
+{79832}{79856}Here it is
+{79867}{79912}You're gonna be happy in here
+{80067}{80105}are we gonna live|so far from my father?
+{80105}{80130}he can visit us
+{80153}{80174}we'll build a wind-mill
+{80174}{80219}so we can mill for the entire village
+{80219}{80266}there's no water here
+{80298}{80328}the wind is here!
+{80390}{80425}Let's stay here
+{80548}{80586}we're gonna be happy in here
+{80763}{80799}shame it's only a dream
+{81062}{81083}peacocks
+{81131}{81160}my peacocks
+{81160}{81192}I forgot to let them out
+{81200}{81241}Somebody's harming them|I can feel it
+{81299}{81357}hurry up
+{81466}{81489}quick
+{82041}{82101}youth is beautiful
+{82101}{82157}I would like to experience it once again
+{82512}{82541}my peacocks
+{82575}{82613}what happened to them?
+{82657}{82715}where were you?
+{82715}{82758}look what you've done
+{82791}{82829}It wasn't him!
+{82829}{82854}shut up!
+{82854}{82909}you could end up the same way too
+{82909}{82953}you were in charge of them
+{82982}{83009}and you didn't let them out
+{83021}{83068}you let them die of hunger
+{83111}{83133}It's not true
+{83133}{83173}somebody killed them
+{83182}{83206}and I know who
+{83206}{83231}you bastard!
+{83344}{83384}what are you trying to say
+{83403}{83437}we wanted to|accept you in our family
+{83463}{83518}poor DORA almost|got married to you
+{83552}{83593}I won't let you fool me again
+{83593}{83641}get away from here
+{83774}{83824}I don't want you to come back
+{83831}{83859}I don't need your house
+{83859}{83894}I'm gonna build my own
+{83910}{83963}I don't even need DORA
+{83968}{83988}I'll come back..
+{83988}{84013}to get ELISABETH!
+{84587}{84630}very good
+{84630}{84655}1 month's gone ..
+{84687}{84722}and the walls are built already
+{84722}{84773}it's growing like from water
+{84773}{84842}The water is what|I'm still missing
+{84850}{84867}How's ELISABETH?
+{84967}{85023}I spoke with MAYOR
+{85023}{85047}what a great job you're doing here
+{85047}{85111}He's strict but fair
+{85137}{85171}They should give her to you
+{85175}{85196}It's good if they do
+{85240}{85273}and if not I'll take her myself
+{85273}{85341}here- drink up
+{85496}{85534}how do I thank you
+{85625}{85667}last time I gave you mushrooms
+{85699}{85744}and now I've got something even better
+{85930}{85961}take it
+{85961}{86020}and next time bring me warm clothes
+{86090}{86105}gold
+{86105}{86164}I can't accept it!
+{86178}{86210}it's very valuable
+{86253}{86283}gold
+{86301}{86332}give my regards to ELISABETH
+{86332}{86357}I will
+{86418}{86461}Where did you find the gold?
+{86477}{86510}here inside the well
+{86539}{86600}soon there might be another
+{86609}{86641}I got it already!
+{86641}{86699}The same?
+{86699}{86746}Even bigger!
+{86781}{86808}I've got water!
+{86808}{86886}who would thought|a water on the hill
+{87086}{87120}DORA learn something
+{87132}{87187}see how well can ELISABETH bake
+{87199}{87258}I see....I seee
+{87387}{87444}take an example from her
+{87450}{87496}I will.....I will
+{87496}{87538}to make it easy for her
+{87539}{87593}we're gonna put the sugar on
+{87602}{87633}we will
+{87761}{87810}so much sugar, like a snow
+{87859}{87890}you put so much on top
+{87909}{87950}It was my stepmother|and DORA who did it
+{87998}{88051}you wouldn't believe|how much they've changed
+{88113}{88156}maybe there's some poison in it
+{88189}{88245}but I don't see DEATH nearby
+{88290}{88331}let's eat it then
+{88346}{88388}they must have really changed then
+{88388}{88444}I feel so tired
+{88444}{88469}me too..
+{88491}{88563}I'll play something|so we don't fall asleep
+{88563}{88615}play, just play
+{88755}{88786}they've eaten the sugar
+{88826}{88860}and now they're sleeping
+{88860}{88915}sleep, sleep
+{89022}{89071}let's throw them inside the well
+{89071}{89126}not him you silly
+{89126}{89159}you know he's got hands of gold
+{89183}{89237}if my plan goes well,|he'll be your husband
+{89237}{89262}but this
+{89280}{89299}could be
+{89313}{89335}very
+{89343}{89368}useful
+{89368}{89393}let's wrap her in it
+{89419}{89485}we'll give him her clothes
+{89539}{89565}we will, we will...
+{89614}{89650}this time he won't save her!
+{89711}{89743}she's fast asleep
+{89743}{89822}fast asleep, fast asleep....
+{89842}{89878}what a sudden wind
+{89908}{89959}quickly
+{90097}{90123}You stupid DORA!
+{90150}{90183}Do you want to sleep as well?
+{90258}{90316}Stop the wind SNOW FAIRY!
+{90363}{90415}Do you want to save her as well?
+{90415}{90451}She belongs to me!
+{90486}{90524}Let me go inside the well!
+{90546}{90593}Stop the wind!
+{90593}{90618}Hear the verdict!
+{90656}{90701}Each of you is claiming|the sheep is yours
+{90732}{90786}we're gonna make a short process
+{90827}{90872}we'll split the sheep in half
+{90894}{90937}and each of you get one half
+{90940}{90973}yes, that's for the best
+{90984}{91010}no! don't do it!
+{91037}{91074}the sheep has to live
+{91074}{91139}let her have it then
+{91139}{91194}It's yours.|You really love her!
+{91290}{91356}see how smart our MAYOR is
+{91362}{91408}and fair too
+{91431}{91473}no one can lie to him
+{91473}{91498}ELISABETH didn't come back
+{91499}{91524}maybe she lost her way
+{91546}{91582}let's look for her
+{91639}{91689}we'll have to find her before night
+{91763}{91785}ELISABETH
+{91985}{92012}Who knows whether |she's even been here
+{92012}{92085}she was! The cakes I gave|her are here
+{92085}{92132}and there's a basket by the well
+{92159}{92192}Maybe she fell in
+{92213}{92244}look inside
+{92462}{92499}that's strange!
+{92532}{92570}he had water
+{92570}{92614}and now he doesn't
+{92640}{92666}pull me up
+{92722}{92757}there's nothing here
+{92757}{92782}wake up man, wake up!
+{92787}{92807}What happened to ELISABETH?
+{92848}{92883}What happened to ELISABETH?
+{92883}{92924}I'm asking you!
+{92924}{92957}She hasn't come home from here
+{92957}{93008}we were sitting|here together and then...
+{93019}{93053}then I fell asleep
+{93072}{93096}She left, right?
+{93136}{93158}without clothes?!
+{93188}{93219}Why without?
+{93219}{93258}So you don't know why|without clothes?
+{93287}{93307}What's this?
+{93343}{93377}This belongs to ELISABETH!
+{93399}{93422}What have you done with her?
+{93422}{93447}Take him away
+{93522}{93548}You've got it wrong
+{93548}{93596}let me go I will find her!
+{94515}{94561}take her SNOW FAIRY
+{94551}{94589}and protect her
+{94620}{94689}but DEATH is stronger than love
+{94724}{94773}My time will come!
+{94965}{95019}ELISABETH!
+{95045}{95075}wake up
+{95075}{95118}am I dreaming or am I dead?
+{95118}{95161}You slept enough!
+{95292}{95338}in here you have to work
+{95338}{95374}are you DEATH?
+{95374}{95425}you really didn't mean that,|did you!?
+{95425}{95476}do I look like DEATH?
+{95476}{95513}I helped you
+{95537}{95581}Why did you help me?
+{95619}{95679}Why did you save me?
+{95754}{95819}I wanted to actually|get my snowbed cover back
+{95819}{95844}You are SNOW FAIRY!
+{95861}{95909}You're a smart girl
+{95958}{95998}I'm glad you brought me|the bed cover back
+{96023}{96119}JAKUB would probably|break his bones from flying
+{96140}{96163}where is he now?
+{96239}{96267}how is he?
+{96267}{96349}stop questioning me!|We've got work to do!
+{96373}{96420}The Christmas is coming and|we haven't made any snow yet!
+{96485}{96554}He took my best Snowcover|and world was without snow
+{96554}{96616}I'll help you. I know everything.
+{96714}{96742}JAKUB told me|all about it
+{96829}{96899}Did he tell you once|he was jumping from..
+{96904}{96964}the chimney and made|so many holes in snow cover
+{96964}{97000}it took me week to fix it back
+{97032}{97128}but you are very well behaved girl
+{97128}{97153}You will stay here with me
+{97153}{97178}we're gonna have fun
+{97178}{97223}with pleasure, but for how long?
+{97223}{97264}there's someone waiting|for me down there
+{97264}{97328}waiting, waiting
+{97328}{97398}You're both the same
+{97421}{97449}so selfish!
+{97421}{97484}and I have to live here alone
+{97492}{97515}I'll keep you forever
+{97656}{97682}come
+{97682}{97726}let's see the snowing
+{97913}{97964}it looks so beautiful
+{98008}{98049}like a big white bedcover
+{98197}{98244}can I see what is JAKUB up to?
+{98244}{98282}you're interested
+{98743}{98772}where is he?
+{98850}{98906}that's a prison
+{98929}{98951}I see him there
+{98951}{98976}behind bars
+{99003}{99071}locked up 'cos of you
+{99124}{99208}I used to bring a much|better food to you before
+{99208}{99263}Not to worry at least I won't be fat!
+{99279}{99373}I'm worried they will hang you up!
+{99448}{99474}I won't die until I find her
+{99474}{99499}dead or alive
+{99522}{99568}what did you do with her?
+{99568}{99621}I believe she's alive
+{99650}{99712}I'm sure DORA and her|mother are to blame
+{99712}{99737}I'm powerless now
+{99737}{99797}Evidence is against you
+{99812}{99841}law is law
+{99861}{99910}have you searched properly?
+{99911}{99935}she wasn't
+{99935}{99960}inside the well
+{99982}{100012}or in the woods
+{100032}{100074}no traces after her..
+{100074}{100109}apart from her clothes
+{100109}{100156}we found with you
+{100190}{100211}eat
+{100270}{100318}let me go out for one night
+{100335}{100375}I must find out|what happened to her
+{100375}{100458}Don't worry I'll be back
+{100458}{100503}If they find out
+{100533}{100568}you know MAYOR
+{100593}{100633}They will hang me instead of you
+{100677}{100724}What am I suppose to do?
+{100724}{100821}There's one other way
+{100850}{100896}On the day of your death
+{100896}{100942}If there's a girl who wishes
+{100957}{100992}to marry you
+{101021}{101053}they give you grace
+{101075}{101132}and you can search for her then
+{101132}{101264}if you don't like the|other one more  of course
+{101362}{101409}There's only ELISABETH for me!
+{101484}{101567}Then you wait for your other bride
+{101583}{101615}THE DEATH!
+{101729}{101790}This is what justice is like|in the world
+{101825}{101879}And your Father is the judge!
+{101908}{101945}I could tell him the truth!
+{101982}{102029}Only if you could let me go there
+{102129}{102169}Don't you know any other way?
+{102169}{102194}think about it
+{102247}{102328}Let him merry someone else then
+{102328}{102365}doesn't need to be mine
+{102380}{102431}I want him to live
+{102496}{102541}Ok then
+{102567}{102642}'cos of your good heart and your love
+{102671}{102768}for giving him up|just to save his life
+{102802}{102868}I'll let you send him a message
+{102886}{102918}the same kind
+{102947}{102994}he used to send you
+{102994}{103046}everytime you were sad
+{103046}{103071}you know how to snow,
+{103091}{103181}and now it's time to learn to make rainbow
+{103399}{103441}JAKUB escape them!
+{103441}{103466}escape
+{103570}{103642}Thank you for the rainbow|SNOW FAIRY
+{103667}{103702}I'd rather if you could find my ELISABETH!
+{103723}{103773}But you never cared about love
+{103820}{103913}and you're gonna die on the gallows
+{103953}{104000}but before that
+{104020}{104080}I'm gonna give you last opportunity
+{104085}{104148}to save your life
+{104236}{104382}This is your last chance
+{104382}{104457}I'm asking you all, is there a girl
+{104473}{104553}who would like to save his life
+{104605}{104649}by merrying him?
+{104649}{104761}If yes, answer before|the bell rings 3 times
+{105242}{105282}me, me
+{105456}{105485}you DORA?
+{105515}{105555}Keep standing!|This is our chance
+{105585}{105615}Yes Father me, me
+{105655}{105704}Our family that's most|affected by this crime
+{105704}{105750}is showing mercy
+{105750}{105865}I have to ask JAKUB if|he's gonna take the offer.
+{105865}{105982}I'm asking you last time|are you gonna take
+{105945}{106021}this virgin as your wife?
+{106098}{106113}never!
+{106113}{106138}are you crazy?
+{106167}{106197}don't cry DORA
+{106347}{106417}wait.....|Yes I will!
+{106479}{106509}He gets mercy!
+{107739}{107773}you ours now!
+{107941}{107993}you should go and get ready
+{107993}{108018}the wedding is almost started
+{108122}{108149}everybody sing!
+{108496}{108521}where you off to?
+{108540}{108590}are you watching me?
+{108621}{108701}where were you going?|Your clothes are upstairs
+{108734}{108755}upstairs
+{108913}{108948}give him the clothes Michael!
+{109146}{109179}everybody is so caring today
+{109189}{109217}I can help you
+{109228}{109284}enough, I'm too shy!
+{109474}{109522}you're protecting me very well
+{109711}{109742}I want to try my horse!
+{109772}{109806}plenty of time later
+{109806}{109909}you can try the horse|and the bride after the wedding
+{109958}{110022}You could fall down,|I'm gonna try it on!
+{110022}{110047}Bring me the horse!
+{110142}{110164}Am I pretty?
+{110180}{110211}Like a holy picture
+{110498}{110522}Hold on tight!
+{110566}{110613}Doeas it suit me, suit me?
+{110628}{110668}You look good like that!
+{111020}{111042}Help mama!
+{111267}{111303}Don't let him get away!
+{111303}{111444}I'll come back to my weeding|when I want!
+{111445}{111469}MAYOR, MAYOR
+{111469}{111494}The groom is escaping
+{111513}{111589}Why you're running away.|STOP
+{111612}{111642}come back
+{111674}{111699}Shall we catch him?
+{111714}{111742}Let him go!
+{112815}{112858}why did you lie to me?
+{112889}{112940}you said we're gonna|be happy on that hill
+{112964}{112999}I didn't lie
+{112999}{113061}How come? I lost everything!
+{113070}{113085}we're gonna be
+{113136}{113160}dancing on your wedding
+{113189}{113217}What are you saying?
+{113247}{113292}dancing
+{113465}{113512}you old witch!
+{113512}{113537}I'll never find out what he predicted!
+{113568}{113626}Don't hurt me and|I'll tell you everything
+{113626}{113651}Where is ELISABETH?
+{113651}{113824}I couldn't help. Dora and|her mother poisoned you!
+{113824}{113849}Poisoned us?
+{113896}{113929}With the sugar!
+{113993}{114093}I thought there was|something strange about it
+{114150}{114197}and they throw her inside the well
+{114197}{114222}but she wasn't found there!
+{114259}{114281}so where is she?
+{114370}{114439}I had to take her like this one
+{114439}{114505}Are you saying she's not alive?
+{114505}{114560}no
+{114618}{114726}then my life has no meaning
+{114726}{114772}tomorrow you can|come and get me too
+{115001}{115068}Finally you'll be mine
+{115140}{115240}you old bag!|You would never get him
+{115267}{115329}if he wouldn't offer his|life to you himself
+{115329}{115354}You lied to him!
+{115387}{115475}ELISABETH! wake up!
+{115632}{115666}I have bad news
+{115666}{115691}what's wrong?
+{115691}{115716}JAKUB's life
+{115739}{115756}is in danger
+{115911}{116004}but you said the DEATH|is scared of him
+{116004}{116049}I said that but not now
+{116086}{116112}the problem is that
+{116130}{116165}JAKUB himself offered|his life to DEATH
+{116165}{116261}You're the only one who can save him
+{116298}{116337}How do I get back?
+{116378}{116441}it's difficult
+{116462}{116518}but if you truly love someone|you can make it!
+{116577}{116615}I'm not scared!
+{116615}{116640}I'll try it!
+{116640}{116690}I'll make spring for you!
+{117183}{117217}The trees are green,|it's gonna be beautiful death
+{117417}{117491}where is DEATH,|she should be here by now
+{117842}{117908}I shouldn't allow you|to have the last wish
+{117945}{118118}you killed my ELISABETH|and betrayed DORA
+{118118}{118288}Despite all of that|I'll grant you your last wish
+{118288}{118370}what it is?
+{118426}{118471}without ELISABETH my life has no meaning
+{118510}{118576}My last wish is to die as soon as possible
+{118576}{118601}Strange wish
+{118634}{118685}I don't feel like to make it true
+{118712}{118813}If you let me live,|then I have a second wish
+{118832}{118884}hang up your wife and DORA
+{118942}{119006}Hang him up at once!
+{119292}{119315}do you have a mirror
+{119436}{119459}I want to check my tie
+{119866}{119931}ELISABETH is back!
+{120517}{120570}You witch! She's still alive!
+{120570}{120595}You lied to me!
+{121173}{121222}This is too much!
+{121223}{121294}He's gonna pay for the damage
+{121320}{121398}And you're scared of him once again
+{121398}{121512}but now he's gonna stay there forever
+{121629}{121656}we'll take everything
+{121656}{121681}everything, everything
+{121768}{121800}they're coming
+{121841}{121877}carry on
+{121907}{121949}we won't leave anything
+{122005}{122060}How could I be so blind?
+{122060}{122085}It's ok father
+{122085}{122110}look at this!
+{122152}{122193}what happened?
+{122241}{122294}they took all the money
+{122427}{122505}How will I explain this to people now?
+{122535}{122594}Let's get them!
+{122729}{122753}SNOW FAIRY was the one who saved you!
+{122777}{122814}not just me, you too..
+{122814}{122881}'cos if I wouldn't fly here|with her snow cover
+{122881}{122906}you wouldn't be alive
+{122928}{122952}I'll wash it and ..
+{122952}{122998}after our wedding we can |sleep underneath it
+{123101}{123138}we'll be flying with it
+{123204}{123289}we can see the whole world
+{123712}{123753}we haven't find them
+{123753}{123778}they completly vanished!
+{123802}{123826}I don't know what to do
+{123888}{123963}This mill will bring|the lost money back
+{123963}{123988}when it's gonna be ready?
+{124002}{124013}it's finished
+{124070}{124102}when you're gonna test it?
+{124127}{124166}we've been waiting|for you return
+{124252}{124332}SNOW FAIRY send|us some good wind
+{124432}{124460}did you hear?
+{124460}{124501}the wind is good
+{124866}{124949}it's working well
+{125144}{125192}that's gonna make|many loafs of bread
+{125192}{125217}this is not for bread!
+{125232}{125257}what else?
+{125257}{125282}ask JAKUB!
+{125322}{125355}wedding cakes
+{125355}{125380}Circus is here!
+{126030}{126079}hold it stronger
+{126313}{126353}I'm gonna fall
+{126481}{126523}we're flying
+{126593}{126634}try to catch us now!
+{126785}{126873}the money,|we're loosing the money!
+{126996}{127084}didn't I say the mill will|bring the money back!
+{127377}{127402}we're lost the money!
+{127402}{127427}why didn't you|hold it better
+{127427}{127477}how am I gonna get married now?
+{127523}{127627}without money we don't|need your clothes either
+{127627}{127740}that was my|wedding dress
+{127740}{127794}you crazy, stupid mother!
+{127794}{127885}You are clumsy....
+{127991}{128033}DORA, DORA
+{128033}{128070}wait for me....
+{128264}{128311}what's this?|what it is?
+{128311}{128360}it's filthy water
+{128516}{128553}what does she want?
+{128615}{128678}you,|you
+{130207}{130317}and I prepared|this special wedding snow
+{130373}{130444}snow from flowers!
+{130596}{130645}Hey SNOW FAIRY!|Are you snowing in the summer again?
+{130652}{130701}Finally you've learned something!
+{130719}{130778}Thank you SNOW FAIRY for everything!
+{131642}{131774}subtitles created by CLAMA|romanuk@btinternet.com

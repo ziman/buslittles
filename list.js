@@ -1,5 +1,6 @@
 window.SRTS = [
   "_test.srt",
+  "Morozko_Eng_1964.Srt",
   "Drei.Haselnuesse.fuer.Aschenbroedel.(Remastered).DVDRip.German.AC3.by.forever-english.srt",
   "jak-dostat-tatinka-do-polepsovny.eng.srt",
   "Jak vytrhnout velrybe stolicku (1977).eng.srt",
