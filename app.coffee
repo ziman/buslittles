@@ -56,17 +56,19 @@ now = ->
 
 class Application
   tick: ->
-    curTs = now() - @startTs
+    curTs = (now() - @startTs) / 1000.0
     console.log "tick: #{curTs}"
 
+    console.log this
     while curTs - @srt.events[@pos].ts > -0.2  # also accept 0.2s in future
-      $('#content').text(nextEvent.text)
+      $('#content').text(@srt.events[@pos].text)
       @pos++
+      console.log this
 
     nextDelay = @srt.events[@pos].ts - curTs
     console.log "nextDelay = #{nextDelay}"
 
-    @clockHandle = window.setTimeout (=> @tick), Math.floor(1000 * nextDelay)
+    @clockHandle = window.setTimeout (=> @tick()), Math.floor(1000 * nextDelay)
 
   reset: ->
     console.log 'reset'
