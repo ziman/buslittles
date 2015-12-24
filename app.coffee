@@ -1,6 +1,3 @@
-fail = (msg) ->
-  alert(msg)
-
 parseSrt = (txt) ->
   if txt.search /\d+:\d+:\d+([.,]\d+)? -->/
     console.log "type A"
@@ -53,17 +50,23 @@ parseSrt_typeA = (txt) ->
     duration: events[events.length-1].ts - events[0].ts,
   }
 
-loadSubtitles = ->
-  fname = 'srt/' + $('#fname').val()
-  $.get fname, (data, xhr) ->
-    srt = parseSrt data
-    console.log srt.events
-    console.log "duration: #{srt.duration/60} minutes"
+class Application
+  loadSubtitles: ->
+    fname = 'srt/' + $('#fname').val()
+    $.get fname, (data, xhr) ->
+      @srt = parseSrt data
+      console.log @srt.events
+      console.log "duration: #{@srt.duration/60} minutes"
 
-$ ->
-  for fname in window.SRTS
-    $('#fname').append(
-      $('<option>').attr('value', fname).text(fname)
-    )
+  constructor: ->
+    @srt = null
 
-  $('#load').click loadSubtitles
+    for fname in window.SRTS
+      $('#fname').append(
+        $('<option>').attr('value', fname).text(fname)
+      )
+
+    $('#load').click =>
+      @loadSubtitles()
+
+$ -> new Application()

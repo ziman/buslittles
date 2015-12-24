@@ -3,6 +3,7 @@
 	<head>
 		<title>Buslittles</title>
 		<meta charset="utf8" />
+		<link rel="stylesheet" href="default.css" />
 	</head>
 
 	<script src="jquery-2.1.4.min.js"></script>
@@ -11,10 +12,23 @@
 
 	<body>
 		<div id="menu">
-			<label for="fname">File name</label>
-			<select id="fname" name="fname">
-			</select>
-			<button id="load">Load</button>
+			<div id="file-selector">
+				<label for="fname">File name</label>
+				<select id="fname" name="fname">
+				</select>
+				<button id="load">Load</button>
+			</div>
+			<div id="controls">
+				<span id="timestamp">
+					00:00:00
+				</span>
+				<button id="play">Play</button>
+				<button id="pause">Pause</button>
+				<button id="stop">Stop</button>
+			</div>
+		</div>
+		<div id="content">
+			Here be dragons.
 		</div>
 	</body>
 </html>
