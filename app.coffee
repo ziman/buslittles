@@ -52,11 +52,11 @@ parseSrt_typeA = (txt) ->
 
 now = ->
   d = new Date()
-  return d.getTime()
+  return d.getTime() / 1000.0
 
 class Application
   tick: ->
-    curTs = (now() - @startTs) / 1000.0
+    curTs = now() - @startTs
     console.log "tick: #{curTs}"
 
     while curTs - @srt.events[@pos].ts > -0.2  # also accept 0.2s in future
@@ -95,12 +95,16 @@ class Application
     if @state == 'stopped'
       @startTs = now()
 
+    if @state == 'paused'
+      @startTs += now() - @pauseTs
+
     @state = 'playing'
     @tick()
 
   pause: ->
     console.log 'pause'
     @state = 'paused'
+    @pauseTs = now()
     window.clearTimeout @clockHandle
 
   stop: ->
@@ -112,6 +116,9 @@ class Application
   next: ->
     console.log "next"
     @pause()
+    @pauseTs = @startTs + @srt.events[@pos].ts
+    $('#content').text(@srt.events[@pos].text)
+    @pos++
 
   skip: (k) ->
     console.log "skip #{k}"
@@ -124,6 +131,7 @@ class Application
     @srt = null
     @startTs = null
     @clockHandle = null
+    @pauseTs = null
     @state = 'stopped'
 
     for fname in window.SRTS
