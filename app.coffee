@@ -98,6 +98,8 @@ class Application
       $('#content').text(@srt.events[@pos].text)
       @pos++
 
+    $('#picker').val(@pos-1)
+
     nextDelay = @srt.events[@pos].ts - curTs
     console.log "nextDelay = #{nextDelay}"
 
