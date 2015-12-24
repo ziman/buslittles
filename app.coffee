@@ -26,7 +26,7 @@ parseSrt_typeA = (txt) ->
         events.push({ts: endTs, text: ''})
         content = ''
 
-      console.debug "event number #{line}"
+      # console.debug "event number #{line}"
 
     else if xs
       startTs = \
@@ -39,11 +39,11 @@ parseSrt_typeA = (txt) ->
         + parseInt(xs[5]) * 60 \
         + parseFloat(xs[6])
 
-      console.debug "timestamp! #{startTs} --> #{endTs}"
+      # console.debug "timestamp! #{startTs} --> #{endTs}"
 
     else
       content = content + ' ' + line
-      console.debug "plain content: #{line}"
+      # console.debug "plain content: #{line}"
 
   events.push({ts: startTs, text: content})
   events.push({ts: endTs, text: ''})
@@ -58,7 +58,7 @@ loadSubtitles = ->
   $.get fname, (data, xhr) ->
     srt = parseSrt data
     console.log srt.events
-    console.log "duration: #{srt.duration} s"
+    console.log "duration: #{srt.duration/60} minutes"
 
 $ ->
   for fname in window.SRTS
