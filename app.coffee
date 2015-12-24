@@ -76,7 +76,9 @@ class Application
   transform: (a, b) ->
     @srt = {
       events: ({ts: a*e.ts + b, text: e.text} for e in @rawSrt.events),
-      duration: a*@rawSrt.duration
+      duration: a*@rawSrt.duration,
+      a: a,
+      b: b
     }
 
   load: ->
