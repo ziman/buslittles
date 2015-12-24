@@ -109,6 +109,16 @@ class Application
     @reset()
     @state = 'stopped'
 
+  next: ->
+    console.log "next"
+    @pause()
+
+  skip: (k) ->
+    console.log "skip #{k}"
+
+  speedup: ->
+    console.log "speedup"
+
   constructor: ->
     @rawSrt = null
     @srt = null
@@ -125,5 +135,9 @@ class Application
     $('#play').click => @play()
     $('#pause').click => @pause()
     $('#stop').click => @stop()
+    $('#next').click => @next()
+    $('#skip-forward').click => @skip(1.0)
+    $('#skip-back').click => @skip(-1.0)
+    $('#speedup').click => @speedup()
 
 $ -> new Application()
