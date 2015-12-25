@@ -17,5 +17,8 @@ window.SRTS = [
   "vesnicko.ma.strediskova.cd1-xvidcz.english.sub",
   "vesnicko.ma.strediskova.cd1-xvidcz.sub",
   "vesnicko.ma.strediskova.cd2-xvidcz.sub",
-  "Vesnicko Ma Strediskova (1985).srt"
+  "Vesnicko Ma Strediskova (1985).srt",
+  "kral.sokolu.dvdrip.xvid.czdub.cd1.srt",
+  "kral.sokolu.dvdrip.xvid.czdub.cd2.srt",
+  "sokoliar-tomas.srt"
 ];
