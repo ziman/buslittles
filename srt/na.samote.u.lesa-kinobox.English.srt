@@ -1,0 +1,5347 @@
+1
+00:00:06,360 --> 00:00:08,476  X1:127 X2:590 Y1:484 Y2:516
+Come on, you need your vitamins!
+
+2
+00:00:11,120 --> 00:00:13,190  X1:154 X2:563 Y1:484 Y2:516
+- A titchy Trabant overtook us.
+
+3
+00:00:13,880 --> 00:00:16,348  X1:111 X2:608 Y1:484 Y2:516
+- Did I shut the sitting-room window?
+
+4
+00:00:17,480 --> 00:00:20,199  X1:099 X2:618 Y1:484 Y2:516
+- Old cow can't keep to the sidewalk...!
+
+5
+00:00:20,280 --> 00:00:21,793  X1:254 X2:463 Y1:484 Y2:515
+- I shut it, Mom!
+
+6
+00:00:21,880 --> 00:00:23,552  X1:167 X2:552 Y1:484 Y2:516
+- Good girl, and the kitchen?
+
+7
+00:00:23,640 --> 00:00:25,710  X1:290 X2:427 Y1:448 Y2:510
+- That too.
+- Good.
+
+8
+00:00:25,800 --> 00:00:29,110  X1:167 X2:551 Y1:448 Y2:510
+- Does a worm have a head?
+- A worm?
+
+9
+00:00:29,200 --> 00:00:32,476  X1:140 X2:578 Y1:484 Y2:515
+Not a head, but a front and back.
+
+10
+00:00:33,920 --> 00:00:38,869  X1:300 X2:420 Y1:485 Y2:516
+Presents
+
+11
+00:00:41,200 --> 00:00:43,395  X1:141 X2:577 Y1:448 Y2:510
+We're not taking them a present.
+- Never mind.
+
+12
+00:00:43,480 --> 00:00:46,438  X1:110 X2:609 Y1:448 Y2:510
+- How d'you know which is the front?
+- Of what?
+
+13
+00:00:46,520 --> 00:00:50,149  X1:117 X2:600 Y1:448 Y2:516
+- The worm.
+- According to the way it's crawling.
+
+14
+00:00:50,720 --> 00:00:53,917  X1:202 X2:516 Y1:448 Y2:510
+- What if it's reversing?
+- Worms don't reverse.
+
+15
+00:00:54,000 --> 00:00:56,150  X1:154 X2:564 Y1:484 Y2:516
+A black car wouldn't be pretty.
+
+16
+00:00:57,040 --> 00:01:00,077  X1:204 X2:514 Y1:448 Y2:516
+- In summer...
+- A Trabant overtaking!
+
+17
+00:01:00,160 --> 00:01:03,277  X1:234 X2:483 Y1:448 Y2:510
+- It would be hot...
+...in a black car.
+
+18
+00:01:03,360 --> 00:01:05,191  X1:219 X2:500 Y1:484 Y2:510
+- Is a worm a snake?
+
+19
+00:01:05,280 --> 00:01:07,236  X1:245 X2:472 Y1:484 Y2:515
+- No, it's a worm.
+
+20
+00:01:07,320 --> 00:01:11,074  X1:126 X2:592 Y1:448 Y2:516
+- Another Trabant overtaking, Dad!
+- Snakes are larger!
+
+21
+00:01:11,160 --> 00:01:16,109  X1:292 X2:427 Y1:484 Y2:510
+In the film
+
+22
+00:01:22,600 --> 00:01:25,433  X1:201 X2:518 Y1:484 Y2:516
+What if it's a big worm?
+
+23
+00:01:25,520 --> 00:01:27,397  X1:243 X2:474 Y1:484 Y2:510
+- It's still a worm.
+
+24
+00:01:27,480 --> 00:01:29,994  X1:125 X2:593 Y1:484 Y2:516
+- Clean up, Susie, you're all sticky!
+
+25
+00:01:30,080 --> 00:01:32,355  X1:216 X2:502 Y1:484 Y2:516
+- What if it's this big?
+
+26
+00:01:32,440 --> 00:01:34,829  X1:243 X2:474 Y1:448 Y2:516
+- It's still a worm.
+- And this big?
+
+27
+00:01:34,920 --> 00:01:37,388  X1:293 X2:424 Y1:448 Y2:510
+- A worm!
+Idiot!
+
+28
+00:01:37,600 --> 00:01:40,990  X1:156 X2:562 Y1:448 Y2:516
+- Who, Dad?
+- That Fiat could have passed.
+
+29
+00:01:41,080 --> 00:01:46,029  X1:172 X2:548 Y1:484 Y2:510
+A COTTAGE BY THE WOOD
+
+30
+00:01:49,960 --> 00:01:52,076  X1:177 X2:542 Y1:484 Y2:516
+Hm. Now you remember...!
+
+31
+00:01:58,280 --> 00:02:03,229  X1:192 X2:526 Y1:484 Y2:516
+Story and Screenplay by
+
+32
+00:02:05,360 --> 00:02:09,319  X1:152 X2:564 Y1:448 Y2:516
+You said no Trabant
+would ever overtake you, Dad!
+
+33
+00:02:09,560 --> 00:02:11,516  X1:164 X2:554 Y1:484 Y2:510
+- Wait till we're out of town...!
+
+34
+00:02:12,640 --> 00:02:14,119  X1:183 X2:535 Y1:484 Y2:510
+- I didn't take the thermos.
+
+35
+00:02:17,240 --> 00:02:18,992  X1:208 X2:510 Y1:484 Y2:516
+- He's crying, Mummy!
+
+36
+00:02:20,040 --> 00:02:21,155  X1:223 X2:495 Y1:484 Y2:510
+- What's the matter?
+
+37
+00:02:21,240 --> 00:02:23,800  X1:223 X2:494 Y1:448 Y2:510
+- I don't understand.
+- What?
+
+38
+00:02:23,880 --> 00:02:26,838  X1:156 X2:564 Y1:448 Y2:510
+- You said a snake was bigger
+than a worm.
+
+39
+00:02:26,920 --> 00:02:31,835  X1:125 X2:593 Y1:448 Y2:516
+- It is.
+- A worm this big must be a snake!
+
+40
+00:02:32,360 --> 00:02:35,955  X1:187 X2:530 Y1:448 Y2:516
+- All right, so it's a snake,
+and stop bothering me!
+
+41
+00:02:55,360 --> 00:02:57,555  X1:251 X2:467 Y1:484 Y2:515
+Visitors, Radim!
+
+42
+00:03:05,880 --> 00:03:07,154  X1:274 X2:445 Y1:484 Y2:510
+A double nil!
+
+43
+00:03:10,840 --> 00:03:13,149  X1:256 X2:462 Y1:448 Y2:510
+Who?
+- The Lavickas.
+
+44
+00:03:17,320 --> 00:03:19,515  X1:111 X2:608 Y1:484 Y2:516
+Where's the stork you told us about?
+
+45
+00:03:19,600 --> 00:03:21,079  X1:251 X2:467 Y1:484 Y2:515
+- Here, children.
+
+46
+00:03:21,600 --> 00:03:24,398  X1:151 X2:566 Y1:484 Y2:516
+Storks build nests near ponds.
+
+47
+00:03:27,520 --> 00:03:30,080  X1:283 X2:435 Y1:484 Y2:510
+- Welcome!
+
+48
+00:03:39,000 --> 00:03:42,151  X1:237 X2:481 Y1:448 Y2:510
+- Excuse the dust.
+A mill's a mill...
+
+49
+00:03:42,560 --> 00:03:44,039  X1:285 X2:435 Y1:484 Y2:515
+Well, kids?
+
+50
+00:03:44,120 --> 00:03:46,156  X1:182 X2:536 Y1:484 Y2:516
+- Good morning, Mr. Zvon!
+
+51
+00:03:46,240 --> 00:03:49,789  X1:175 X2:543 Y1:484 Y2:510
+- Here I'm called The Miller!
+
+52
+00:03:51,880 --> 00:03:55,316  X1:181 X2:540 Y1:448 Y2:516
+I had that wheel made.
+But it looks antique, what?
+
+53
+00:03:55,400 --> 00:03:57,550  X1:137 X2:580 Y1:484 Y2:515
+- Children, the wheel is imitation.
+
+54
+00:03:58,640 --> 00:04:00,949  X1:151 X2:567 Y1:484 Y2:516
+- But the balustrade is original.
+
+55
+00:04:01,720 --> 00:04:03,517  X1:240 X2:477 Y1:484 Y2:516
+- Really, Radim...
+
+56
+00:04:03,600 --> 00:04:06,273  X1:135 X2:583 Y1:484 Y2:516
+- We try to keep up the traditions.
+
+57
+00:04:06,960 --> 00:04:09,713  X1:250 X2:467 Y1:484 Y2:510
+So this is a mill.
+
+58
+00:04:12,160 --> 00:04:13,957  X1:119 X2:599 Y1:484 Y2:516
+This is where they ground the flour.
+
+59
+00:04:14,720 --> 00:04:16,995  X1:153 X2:565 Y1:484 Y2:516
+The grain was poured in there.
+
+60
+00:04:17,080 --> 00:04:19,196  X1:202 X2:514 Y1:448 Y2:516
+- You see, children,
+the grain went in there,
+
+61
+00:04:19,280 --> 00:04:21,840  X1:233 X2:485 Y1:448 Y2:516
+was ground here.
+- Mind your heads!
+
+62
+00:04:21,920 --> 00:04:23,399  X1:233 X2:485 Y1:484 Y2:516
+- Mind your heads!
+
+63
+00:04:23,720 --> 00:04:27,554  X1:204 X2:514 Y1:448 Y2:516
+- That's the groats mill,
+the plain flour mill,
+
+64
+00:04:27,640 --> 00:04:29,915  X1:250 X2:467 Y1:448 Y2:515
+the peeling mill.
+- So, children!
+
+65
+00:04:30,000 --> 00:04:33,549  X1:124 X2:594 Y1:448 Y2:516
+The groats mill, the plain flour mill,
+the wheeling mill.
+
+66
+00:04:33,840 --> 00:04:35,751  X1:294 X2:423 Y1:448 Y2:516
+- Peeling!
+- Peeling.
+
+67
+00:04:35,840 --> 00:04:39,355  X1:111 X2:606 Y1:484 Y2:516
+- Groats were used to feed pigs with.
+
+68
+00:04:39,680 --> 00:04:41,318  X1:168 X2:550 Y1:484 Y2:516
+- Groats were fed to piggies.
+
+69
+00:04:41,400 --> 00:04:45,757  X1:116 X2:601 Y1:448 Y2:510
+- Here the flour sacks were stacked.
+- All this is flour?
+
+70
+00:04:45,840 --> 00:04:50,789  X1:184 X2:535 Y1:448 Y2:516
+- I put in sawdust,
+but the sacks are original.
+
+71
+00:04:52,640 --> 00:04:54,756  X1:132 X2:587 Y1:484 Y2:516
+I'll show you something, children!
+
+72
+00:04:57,520 --> 00:05:02,230  X1:148 X2:571 Y1:448 Y2:510
+When the water-level gets high,
+we'll ask the Miller
+
+73
+00:05:02,680 --> 00:05:05,592  X1:180 X2:537 Y1:484 Y2:510
+to set the wheel in motion.
+
+74
+00:05:05,880 --> 00:05:08,474  X1:114 X2:604 Y1:484 Y2:516
+- And I'll tell you an interesting story
+
+75
+00:05:08,560 --> 00:05:12,075  X1:165 X2:555 Y1:448 Y2:516
+about the local water-sprite
+and how he helped the Miller
+
+76
+00:05:12,160 --> 00:05:13,798  X1:216 X2:502 Y1:484 Y2:516
+fight the local squire.
+
+77
+00:05:14,000 --> 00:05:18,949  X1:109 X2:610 Y1:448 Y2:516
+Whenever I tell that story people say:
+,, You must tell us again!".
+
+78
+00:05:19,760 --> 00:05:24,675  X1:097 X2:620 Y1:448 Y2:510
+The groats went in here, the flour here,
+and here the semolina.
+
+79
+00:05:24,880 --> 00:05:26,871  X1:221 X2:497 Y1:448 Y2:516
+- Attention, children!
+This was for groats,
+
+80
+00:05:26,960 --> 00:05:29,474  X1:149 X2:567 Y1:484 Y2:515
+this for flour, this for semolina,
+
+81
+00:05:30,040 --> 00:05:34,352  X1:102 X2:617 Y1:448 Y2:515
+and this for double zero flour I guess?
+- No, that's the toilet.
+
+82
+00:05:34,800 --> 00:05:37,951  X1:168 X2:552 Y1:484 Y2:516
+But I refuse to keep animals.
+
+83
+00:05:39,200 --> 00:05:40,633  X1:251 X2:467 Y1:484 Y2:516
+We had a dog...
+
+84
+00:05:43,640 --> 00:05:47,599  X1:225 X2:493 Y1:484 Y2:516
+...that kept barking.
+
+85
+00:05:50,000 --> 00:05:51,558  X1:227 X2:491 Y1:484 Y2:516
+- What kind of dog?
+
+86
+00:05:51,720 --> 00:05:53,199  X1:308 X2:409 Y1:484 Y2:516
+- Harry.
+
+87
+00:05:54,120 --> 00:05:56,076  X1:257 X2:461 Y1:484 Y2:516
+I got rid of him.
+
+88
+00:05:56,640 --> 00:06:00,155  X1:101 X2:617 Y1:484 Y2:516
+A cottage is difficult to find nowadays.
+
+89
+00:06:00,280 --> 00:06:02,840  X1:208 X2:511 Y1:484 Y2:510
+Easier said than done!
+
+90
+00:06:03,360 --> 00:06:05,590  X1:150 X2:569 Y1:484 Y2:516
+Maybe Kos would know of one.
+
+91
+00:06:06,080 --> 00:06:08,036  X1:285 X2:435 Y1:484 Y2:510
+How's life?
+
+92
+00:06:08,160 --> 00:06:09,115  X1:248 X2:469 Y1:448 Y2:516
+- Good morning!
+- Good morning!
+
+93
+00:06:09,200 --> 00:06:11,395  X1:256 X2:461 Y1:484 Y2:515
+- Ah, the Miller!
+
+94
+00:06:11,760 --> 00:06:14,718  X1:190 X2:527 Y1:448 Y2:516
+What an honour!
+- Getting on with it, I see!
+
+95
+00:06:14,800 --> 00:06:17,268  X1:249 X2:469 Y1:484 Y2:516
+- We never stop.
+
+96
+00:06:17,360 --> 00:06:19,316  X1:148 X2:571 Y1:484 Y2:516
+- You're building it yourselves?
+
+97
+00:06:19,400 --> 00:06:20,992  X1:327 X2:391 Y1:484 Y2:510
+- No.
+
+98
+00:06:21,080 --> 00:06:23,958  X1:205 X2:513 Y1:484 Y2:516
+We've got a bricklayer.
+
+99
+00:06:24,680 --> 00:06:27,035  X1:144 X2:574 Y1:448 Y2:516
+He charges ten crowns an hour.
+A good one, and cheap!
+
+100
+00:06:27,120 --> 00:06:30,078  X1:223 X2:495 Y1:448 Y2:516
+- Ten crowns?!
+- A rarity nowadays!
+
+101
+00:06:30,200 --> 00:06:32,555  X1:180 X2:539 Y1:484 Y2:516
+- What was this originally?
+
+102
+00:06:32,920 --> 00:06:35,753  X1:301 X2:417 Y1:484 Y2:510
+- A barn.
+
+103
+00:06:36,720 --> 00:06:38,950  X1:183 X2:535 Y1:484 Y2:516
+I left only the foundations!
+
+104
+00:06:39,480 --> 00:06:40,913  X1:192 X2:525 Y1:484 Y2:510
+- You sure remodelled it!
+
+105
+00:06:41,000 --> 00:06:44,959  X1:127 X2:591 Y1:484 Y2:516
+- Comes more expensive this way,
+
+106
+00:06:45,600 --> 00:06:48,194  X1:167 X2:552 Y1:448 Y2:516
+but you have what you want.
+Where you want it.
+
+107
+00:06:49,400 --> 00:06:54,349  X1:086 X2:632 Y1:484 Y2:516
+Whether it's a doorway, stairs, bedroom,
+
+108
+00:06:55,840 --> 00:06:59,355  X1:201 X2:518 Y1:484 Y2:516
+kitchen, bathroom, yes,
+
+109
+00:06:59,480 --> 00:07:03,473  X1:224 X2:494 Y1:484 Y2:516
+living room, garage,
+
+110
+00:07:05,160 --> 00:07:07,958  X1:268 X2:448 Y1:484 Y2:516
+toilet, pantry,
+
+111
+00:07:08,480 --> 00:07:11,597  X1:246 X2:472 Y1:484 Y2:515
+cellar, hall, bath!
+
+112
+00:07:11,680 --> 00:07:14,069  X1:261 X2:457 Y1:448 Y2:511
+- Yes, it's true!
+Quite a villa!
+
+113
+00:07:14,200 --> 00:07:16,919  X1:136 X2:582 Y1:448 Y2:516
+- The amount of building material
+this eats up, though!
+
+114
+00:07:17,000 --> 00:07:21,357  X1:177 X2:540 Y1:448 Y2:515
+- The sand, lime, cement...
+- Look, Radim!
+
+115
+00:07:21,440 --> 00:07:25,911  X1:175 X2:542 Y1:448 Y2:510
+...Bricks, shaped ones...
+- Nice!
+
+116
+00:07:26,000 --> 00:07:29,834  X1:181 X2:538 Y1:448 Y2:516
+...lintel, trusses,
+I don't have them here yet,
+
+117
+00:07:30,040 --> 00:07:32,190  X1:204 X2:514 Y1:484 Y2:516
+nails, screws, wiring...
+
+118
+00:07:32,680 --> 00:07:36,593  X1:263 X2:455 Y1:484 Y2:515
+drains, tiles...
+
+119
+00:07:37,280 --> 00:07:39,953  X1:259 X2:460 Y1:484 Y2:516
+pipes, binding!
+
+120
+00:07:40,520 --> 00:07:45,469  X1:131 X2:585 Y1:448 Y2:516
+You've got your twin leads,
+triple leads, guttering, sheeting...
+
+121
+00:07:45,600 --> 00:07:46,669  X1:264 X2:453 Y1:484 Y2:510
+- Problems...!
+
+122
+00:07:46,760 --> 00:07:51,709  X1:200 X2:518 Y1:448 Y2:516
+...an electricity meter,
+a lighting conductor,
+
+123
+00:07:52,480 --> 00:07:54,789  X1:178 X2:539 Y1:484 Y2:516
+switch and wiring boxes...
+
+124
+00:07:54,880 --> 00:07:56,836  X1:127 X2:592 Y1:484 Y2:516
+- You understand all these things?
+
+125
+00:07:56,920 --> 00:07:59,150  X1:179 X2:539 Y1:484 Y2:516
+- We've got this bricklayer.
+
+126
+00:08:00,640 --> 00:08:03,154  X1:179 X2:539 Y1:484 Y2:516
+The cheapest man around.
+
+127
+00:08:03,760 --> 00:08:05,830  X1:156 X2:562 Y1:484 Y2:516
+Asks only 10 Crowns an hour!
+
+128
+00:08:06,920 --> 00:08:10,117  X1:163 X2:555 Y1:448 Y2:510
+Including transport and food!
+- Where's the mortar?!
+
+129
+00:08:10,200 --> 00:08:12,760  X1:163 X2:556 Y1:448 Y2:515
+- Coming right up!
+Here it comes, Mr. Lawrence!
+
+130
+00:08:13,240 --> 00:08:14,719  X1:308 X2:411 Y1:484 Y2:515
+Kids...!
+
+131
+00:08:15,280 --> 00:08:18,158  X1:232 X2:487 Y1:448 Y2:510
+Enough sand in it?
+- Too thin!
+
+132
+00:08:18,240 --> 00:08:21,357  X1:282 X2:437 Y1:484 Y2:510
+- And now?
+
+133
+00:08:21,680 --> 00:08:23,238  X1:320 X2:397 Y1:484 Y2:510
+- O.K.
+
+134
+00:08:25,160 --> 00:08:29,278  X1:207 X2:510 Y1:448 Y2:516
+- He can't hold a brick,
+but he's a real expert!
+
+135
+00:08:29,400 --> 00:08:31,277  X1:248 X2:469 Y1:484 Y2:516
+- He's an expert!
+
+136
+00:08:31,360 --> 00:08:33,396  X1:145 X2:575 Y1:448 Y2:516
+He's built three big houses here
+this way!
+
+137
+00:08:33,880 --> 00:08:36,633  X1:096 X2:621 Y1:448 Y2:516
+- Listen, Robert.
+The Lavickas are looking for a cottage.
+
+138
+00:08:36,720 --> 00:08:39,188  X1:159 X2:560 Y1:484 Y2:516
+Would you know of anything?
+
+139
+00:08:39,280 --> 00:08:41,077  X1:277 X2:442 Y1:484 Y2:516
+- A cottage?
+
+140
+00:08:41,160 --> 00:08:45,950  X1:212 X2:505 Y1:448 Y2:510
+- These kids of ours...
+- Fresh air for them...
+
+141
+00:08:47,480 --> 00:08:49,869  X1:181 X2:536 Y1:448 Y2:516
+- But something habitable,
+no remodelling job.
+
+142
+00:08:49,960 --> 00:08:50,631  X1:205 X2:513 Y1:484 Y2:510
+Because von Olda is...
+
+143
+00:08:50,720 --> 00:08:53,359  X1:131 X2:586 Y1:448 Y2:516
+- Can I manage these?
+...not the type for building work!
+
+144
+00:08:53,640 --> 00:08:55,119  X1:327 X2:391 Y1:484 Y2:510
+- No.
+
+145
+00:08:55,280 --> 00:08:58,989  X1:209 X2:508 Y1:448 Y2:516
+- It needn't be big.
+Just - away from it all.
+
+146
+00:08:59,520 --> 00:09:02,353  X1:282 X2:437 Y1:448 Y2:510
+- And now?
+- Yes.
+
+147
+00:09:02,880 --> 00:09:04,757  X1:122 X2:596 Y1:484 Y2:516
+- Some place good for the children.
+
+148
+00:09:05,480 --> 00:09:08,358  X1:241 X2:476 Y1:484 Y2:516
+- Yeah, a cottage.
+
+149
+00:09:11,760 --> 00:09:14,991  X1:143 X2:576 Y1:484 Y2:510
+What about that one over there?
+
+150
+00:09:15,080 --> 00:09:16,957  X1:090 X2:629 Y1:484 Y2:516
+It should be up for grabs by the autumn.
+
+151
+00:09:17,040 --> 00:09:19,110  X1:138 X2:579 Y1:484 Y2:516
+Old Ma Jerabkova's sinking fast,
+
+152
+00:09:19,200 --> 00:09:22,112  X1:152 X2:566 Y1:484 Y2:516
+it should be free by Christmas.
+
+153
+00:09:22,200 --> 00:09:25,590  X1:198 X2:520 Y1:448 Y2:516
+- Breathe deeply, Susie,
+so your chest expands!
+
+154
+00:09:25,680 --> 00:09:27,910  X1:195 X2:524 Y1:448 Y2:516
+- So you could have that
+when she goes.
+
+155
+00:09:28,000 --> 00:09:31,629  X1:204 X2:516 Y1:484 Y2:516
+But it's probably damp.
+
+156
+00:09:31,720 --> 00:09:33,711  X1:144 X2:574 Y1:484 Y2:516
+Maybe that one would be better,
+
+157
+00:09:33,800 --> 00:09:35,358  X1:243 X2:474 Y1:448 Y2:510
+with the red roof.
+- Which one?
+
+158
+00:09:35,440 --> 00:09:36,555  X1:219 X2:498 Y1:448 Y2:516
+- There, the red roof
+with the white gable.
+
+159
+00:09:36,640 --> 00:09:38,631  X1:151 X2:566 Y1:448 Y2:510
+- Do you know which one?
+The one with the wooden barn.
+
+160
+00:09:38,720 --> 00:09:40,676  X1:178 X2:540 Y1:484 Y2:515
+- The Cervenkas live there,
+
+161
+00:09:40,760 --> 00:09:42,352  X1:123 X2:595 Y1:484 Y2:516
+a motorbike ran over him last year.
+
+162
+00:09:42,440 --> 00:09:44,032  X1:162 X2:556 Y1:484 Y2:516
+And he's in pretty bad shape,
+
+163
+00:09:44,120 --> 00:09:45,792  X1:186 X2:530 Y1:484 Y2:516
+won't be here long either.
+
+164
+00:09:45,880 --> 00:09:47,552  X1:237 X2:481 Y1:484 Y2:516
+She's going blind,
+
+165
+00:09:47,640 --> 00:09:50,473  X1:109 X2:608 Y1:484 Y2:516
+will be going to a Home for the Aged.
+
+166
+00:09:50,560 --> 00:09:54,269  X1:113 X2:606 Y1:448 Y2:516
+But that's right in the village. You
+probably wouldn't like it there either.
+
+167
+00:09:55,320 --> 00:09:59,074  X1:172 X2:548 Y1:448 Y2:516
+Hey! Did you ask Komarek?
+- Over by the wood?
+
+168
+00:09:59,160 --> 00:10:01,310  X1:248 X2:470 Y1:448 Y2:510
+- Yes, that's it.
+Go and ask him!
+
+169
+00:10:01,400 --> 00:10:05,279  X1:156 X2:563 Y1:448 Y2:516
+He wants to move to Slovakia,
+to join his son.
+
+170
+00:10:05,360 --> 00:10:07,555  X1:146 X2:573 Y1:484 Y2:516
+It's all getting too much for him,
+
+171
+00:10:07,640 --> 00:10:11,269  X1:195 X2:521 Y1:484 Y2:516
+the milking, the feeding,
+
+172
+00:10:11,480 --> 00:10:16,156  X1:174 X2:542 Y1:448 Y2:516
+the cleaning, the chopping,
+the cooking,
+
+173
+00:10:16,560 --> 00:10:20,758  X1:203 X2:514 Y1:484 Y2:516
+the loading, unloading,
+
+174
+00:10:20,960 --> 00:10:25,192  X1:167 X2:550 Y1:448 Y2:516
+the ploughing, the sowing...
+- What a lovely place!
+
+175
+00:10:28,840 --> 00:10:31,513  X1:238 X2:479 Y1:448 Y2:516
+- God help ye!
+- Thank ye kindly!
+
+176
+00:10:31,600 --> 00:10:33,272  X1:247 X2:470 Y1:448 Y2:510
+- God bless you!
+- Hello!
+
+177
+00:10:33,360 --> 00:10:35,510  X1:240 X2:478 Y1:484 Y2:510
+- Good afternoon!
+
+178
+00:10:36,920 --> 00:10:39,354  X1:230 X2:488 Y1:484 Y2:516
+- Mowing, are you?
+
+179
+00:10:39,920 --> 00:10:41,876  X1:213 X2:504 Y1:484 Y2:516
+- Mowing, that's right.
+
+180
+00:10:43,400 --> 00:10:46,710  X1:192 X2:526 Y1:448 Y2:515
+- Coming along all right?
+- Yeah, it is.
+
+181
+00:10:46,840 --> 00:10:49,115  X1:275 X2:443 Y1:484 Y2:516
+- Nice place.
+
+182
+00:10:49,280 --> 00:10:51,589  X1:287 X2:430 Y1:484 Y2:510
+- That it is.
+
+183
+00:10:56,200 --> 00:10:59,715  X1:185 X2:534 Y1:448 Y2:516
+- How old are you, friend?
+- Seventy.
+
+184
+00:10:59,840 --> 00:11:02,673  X1:192 X2:525 Y1:448 Y2:515
+- Wow, that's something!
+- Nice, isn't it?
+
+185
+00:11:02,760 --> 00:11:06,150  X1:185 X2:533 Y1:448 Y2:516
+- I say!
+- You don't look your age!
+
+186
+00:11:07,160 --> 00:11:10,118  X1:152 X2:567 Y1:448 Y2:516
+- You live alone, Mr. Komarek?
+- Yes, yes.
+
+187
+00:11:10,200 --> 00:11:13,112  X1:119 X2:599 Y1:448 Y2:510
+- His hearing's bad, you must shout
+at him.
+
+188
+00:11:14,920 --> 00:11:19,152  X1:234 X2:486 Y1:448 Y2:510
+Do you live alone?
+- I do.
+
+189
+00:11:19,960 --> 00:11:22,599  X1:105 X2:613 Y1:484 Y2:516
+- We hear you have a son in Slovakia!
+
+190
+00:11:22,720 --> 00:11:26,395  X1:203 X2:516 Y1:448 Y2:516
+- In Presov.
+- Don't you miss them?
+
+191
+00:11:27,040 --> 00:11:29,474  X1:229 X2:489 Y1:484 Y2:516
+- If you miss them?
+
+192
+00:11:30,240 --> 00:11:34,199  X1:126 X2:592 Y1:484 Y2:516
+- They're asking if you miss them?
+
+193
+00:11:34,360 --> 00:11:37,158  X1:163 X2:555 Y1:484 Y2:516
+- I hear you, but I don't know!
+
+194
+00:11:38,480 --> 00:11:40,152  X1:187 X2:530 Y1:484 Y2:516
+- But this is a lovely spot.
+
+195
+00:11:40,280 --> 00:11:43,238  X1:118 X2:601 Y1:448 Y2:516
+- Ask him straight out
+if he'd consider moving to Slovakia,
+
+196
+00:11:43,320 --> 00:11:45,675  X1:130 X2:588 Y1:484 Y2:516
+and letting them have the cottage.
+
+197
+00:11:45,760 --> 00:11:48,877  X1:199 X2:519 Y1:484 Y2:516
+- You want the cottage?
+
+198
+00:11:49,000 --> 00:11:52,675  X1:204 X2:513 Y1:448 Y2:515
+- We would consider it,
+we like it here, what?
+
+199
+00:11:53,320 --> 00:11:55,834  X1:152 X2:565 Y1:484 Y2:516
+- We haven't seen it inside yet!
+
+200
+00:11:56,360 --> 00:11:58,669  X1:206 X2:511 Y1:484 Y2:515
+- Come and look, then!
+
+201
+00:12:22,320 --> 00:12:24,629  X1:266 X2:452 Y1:484 Y2:516
+A lovely spot!
+
+202
+00:12:25,520 --> 00:12:28,353  X1:218 X2:499 Y1:484 Y2:516
+- A fairy-tale cottage.
+
+203
+00:12:29,120 --> 00:12:32,317  X1:130 X2:587 Y1:448 Y2:510
+- We'll be quite envious, won't we,
+Radim?
+
+204
+00:12:34,080 --> 00:12:35,672  X1:184 X2:534 Y1:484 Y2:516
+- Peter, don't cut yourself!
+
+205
+00:12:35,760 --> 00:12:38,320  X1:179 X2:540 Y1:448 Y2:510
+- What's your dog's name?
+- Isha.
+
+206
+00:12:38,400 --> 00:12:39,594  X1:230 X2:489 Y1:484 Y2:516
+- May I stroke him?
+
+207
+00:12:39,680 --> 00:12:43,150  X1:198 X2:520 Y1:448 Y2:510
+- He's never hurt a soul.
+- Isha!
+
+208
+00:12:46,400 --> 00:12:48,197  X1:314 X2:403 Y1:484 Y2:510
+- Kids!
+
+209
+00:12:49,120 --> 00:12:51,918  X1:271 X2:447 Y1:484 Y2:516
+- The quiet...
+
+210
+00:12:52,480 --> 00:12:56,598  X1:188 X2:530 Y1:448 Y2:516
+- Don't step in that, Peter.
+- Like a picture!
+
+211
+00:12:56,720 --> 00:13:00,349  X1:248 X2:469 Y1:448 Y2:516
+- So romantic!
+- Come along in.
+
+212
+00:13:04,440 --> 00:13:06,954  X1:223 X2:494 Y1:484 Y2:516
+- An old Czech idyll!
+
+213
+00:13:07,560 --> 00:13:10,552  X1:179 X2:539 Y1:448 Y2:515
+- I have some stuff in here!
+But I'd clear it out,
+
+214
+00:13:10,640 --> 00:13:13,029  X1:125 X2:593 Y1:484 Y2:510
+restuff the straw mattresses and...
+
+215
+00:13:13,120 --> 00:13:15,350  X1:186 X2:534 Y1:448 Y2:516
+...you'd have a nice room
+for your vacations!
+
+216
+00:13:16,720 --> 00:13:20,838  X1:210 X2:507 Y1:448 Y2:510
+- It's very damp, Olda!
+- It's not that bad.
+
+217
+00:13:21,200 --> 00:13:24,670  X1:202 X2:515 Y1:448 Y2:516
+Just needs more airing
+to make a pretty room.
+
+218
+00:13:26,000 --> 00:13:27,592  X1:201 X2:516 Y1:484 Y2:516
+- See, damp and rotten!
+
+219
+00:13:30,840 --> 00:13:35,118  X1:152 X2:566 Y1:448 Y2:516
+- Well, a couple of planks need
+replacing.
+
+220
+00:13:35,960 --> 00:13:38,633  X1:163 X2:554 Y1:484 Y2:516
+- A very nice place you have.
+
+221
+00:13:38,720 --> 00:13:41,154  X1:267 X2:451 Y1:484 Y2:516
+- Cozy, what?
+
+222
+00:13:41,640 --> 00:13:44,950  X1:224 X2:494 Y1:448 Y2:510
+- How does it flush?
+- Just leave it!
+
+223
+00:13:47,040 --> 00:13:50,669  X1:177 X2:541 Y1:448 Y2:516
+- Beneath the rustic beams
+of yeasteryear...
+
+224
+00:13:50,840 --> 00:13:52,831  X1:269 X2:448 Y1:484 Y2:516
+- That's right.
+
+225
+00:13:55,080 --> 00:13:57,992  X1:171 X2:547 Y1:448 Y2:516
+- Are there mice?
+- Why would there be mice?
+
+226
+00:13:58,080 --> 00:14:01,356  X1:131 X2:587 Y1:484 Y2:516
+- It really breathes rustic poetry...
+
+227
+00:14:01,440 --> 00:14:03,351  X1:225 X2:493 Y1:484 Y2:510
+- It's mildew I smell.
+
+228
+00:14:03,440 --> 00:14:06,159  X1:156 X2:563 Y1:484 Y2:516
+- Why would there be mildew?
+
+229
+00:14:11,440 --> 00:14:13,670  X1:272 X2:446 Y1:484 Y2:510
+- Come here!
+
+230
+00:14:15,640 --> 00:14:19,076  X1:167 X2:551 Y1:484 Y2:516
+- At least 100 years old, this.
+
+231
+00:14:19,640 --> 00:14:21,756  X1:263 X2:455 Y1:484 Y2:515
+- Older, chum.
+
+232
+00:14:23,200 --> 00:14:25,589  X1:188 X2:529 Y1:484 Y2:516
+- What a pretty wardrobe!
+
+233
+00:14:26,160 --> 00:14:28,230  X1:271 X2:446 Y1:448 Y2:510
+- Let's buy it.
+- Yes.
+
+234
+00:14:28,320 --> 00:14:31,949  X1:109 X2:610 Y1:448 Y2:516
+Heavens, Mr. Komarek, when did you
+last wash your dishes?
+
+235
+00:14:32,040 --> 00:14:35,555  X1:197 X2:521 Y1:448 Y2:516
+- When I run out of pots,
+I do it in one go.
+
+236
+00:14:36,400 --> 00:14:38,550  X1:198 X2:519 Y1:484 Y2:516
+- Let's get it done, Vera!
+
+237
+00:14:39,520 --> 00:14:41,954  X1:269 X2:449 Y1:484 Y2:515
+Mr. Komarek,
+
+238
+00:14:43,480 --> 00:14:46,040  X1:251 X2:467 Y1:448 Y2:515
+what about...
+- Get out, beast!
+
+239
+00:14:46,360 --> 00:14:47,793  X1:272 X2:447 Y1:484 Y2:516
+I'll tie her up.
+
+240
+00:14:47,880 --> 00:14:49,996  X1:105 X2:613 Y1:484 Y2:516
+- Mr. Komarek, what would you say to
+
+241
+00:14:50,080 --> 00:14:53,390  X1:142 X2:576 Y1:484 Y2:516
+letting the room to the Lavickas,
+
+242
+00:14:53,600 --> 00:14:57,388  X1:160 X2:558 Y1:484 Y2:510
+for weekends and vacations?
+
+243
+00:14:57,480 --> 00:14:59,755  X1:238 X2:481 Y1:448 Y2:510
+What do you say?
+- O.K.
+
+244
+00:15:00,280 --> 00:15:03,795  X1:097 X2:622 Y1:448 Y2:510
+A musician from Prague used to spend
+his time here.
+
+245
+00:15:03,880 --> 00:15:06,155  X1:219 X2:499 Y1:484 Y2:510
+And he loved it here!
+
+246
+00:15:06,960 --> 00:15:08,678  X1:247 X2:470 Y1:484 Y2:510
+That viola is his.
+
+247
+00:15:09,400 --> 00:15:12,233  X1:143 X2:575 Y1:448 Y2:510
+I keep waiting for him to fetch it,
+I've waited and waited.
+
+248
+00:15:13,120 --> 00:15:14,758  X1:226 X2:493 Y1:484 Y2:516
+But he'll be coming.
+
+249
+00:15:14,840 --> 00:15:17,229  X1:171 X2:548 Y1:484 Y2:510
+- When did he leave it here?
+
+250
+00:15:17,320 --> 00:15:19,072  X1:251 X2:467 Y1:484 Y2:515
+- Wait, when...?
+
+251
+00:15:19,160 --> 00:15:21,674  X1:164 X2:554 Y1:484 Y2:516
+During the first... World War.
+
+252
+00:15:26,400 --> 00:15:30,757  X1:256 X2:463 Y1:484 Y2:516
+Beams, planks,
+
+253
+00:15:31,760 --> 00:15:33,352  X1:308 X2:408 Y1:484 Y2:515
+tiles...
+
+254
+00:15:35,080 --> 00:15:36,513  X1:315 X2:403 Y1:484 Y2:510
+Damn!
+
+255
+00:15:36,920 --> 00:15:38,911  X1:124 X2:594 Y1:484 Y2:516
+Look, they would be here with you,
+
+256
+00:15:39,000 --> 00:15:43,357  X1:140 X2:577 Y1:448 Y2:516
+and when you decide to sell out,
+you'd make them the first offer.
+
+257
+00:15:44,400 --> 00:15:48,109  X1:132 X2:585 Y1:448 Y2:510
+- What would the monthly rent be,
+now?
+
+258
+00:15:48,200 --> 00:15:51,033  X1:117 X2:601 Y1:484 Y2:516
+- How much would you care to pay?
+
+259
+00:15:51,280 --> 00:15:55,558  X1:193 X2:526 Y1:484 Y2:510
+- What about a hundred?
+
+260
+00:15:55,760 --> 00:15:59,070  X1:124 X2:594 Y1:448 Y2:516
+- O.K.
+To cover the insurance and things.
+
+261
+00:15:59,160 --> 00:16:01,549  X1:181 X2:537 Y1:484 Y2:515
+- And a bottle or so, what?
+
+262
+00:16:02,840 --> 00:16:05,991  X1:097 X2:622 Y1:484 Y2:516
+- And when would you think of selling?
+
+263
+00:16:06,080 --> 00:16:08,230  X1:191 X2:527 Y1:448 Y2:516
+- Well...
+- Mr. Lavicka is asking...
+
+264
+00:16:08,320 --> 00:16:10,914  X1:215 X2:503 Y1:448 Y2:516
+- I heard!
+- When do you think?
+
+265
+00:16:11,000 --> 00:16:15,755  X1:194 X2:523 Y1:448 Y2:510
+- I'd bring in the harvest,
+sell the cow in winter
+
+266
+00:16:16,640 --> 00:16:19,029  X1:132 X2:585 Y1:484 Y2:516
+and do no more sowing in spring.
+
+267
+00:16:54,600 --> 00:16:56,272  X1:272 X2:445 Y1:484 Y2:516
+Say 'please'!
+
+268
+00:17:00,200 --> 00:17:01,952  X1:233 X2:487 Y1:484 Y2:516
+Where's your cap?
+
+269
+00:17:03,000 --> 00:17:04,558  X1:289 X2:429 Y1:484 Y2:516
+- Forgot it.
+
+270
+00:17:07,800 --> 00:17:09,677  X1:230 X2:488 Y1:448 Y2:516
+Go!
+- He forgot his cap!
+
+271
+00:17:14,320 --> 00:17:17,118  X1:231 X2:487 Y1:448 Y2:516
+You're sitting on it!
+He's got it, Dad!
+
+272
+00:17:54,280 --> 00:17:56,111  X1:239 X2:479 Y1:484 Y2:515
+Well, here we are.
+
+273
+00:17:56,880 --> 00:17:59,758  X1:248 X2:469 Y1:448 Y2:516
+Good morning!
+- Good morning!
+
+274
+00:18:00,360 --> 00:18:02,874  X1:172 X2:547 Y1:484 Y2:515
+Heavens, what a lot of stuff!
+
+275
+00:18:02,960 --> 00:18:05,110  X1:176 X2:542 Y1:448 Y2:510
+- Here's something for you,
+Mr. Komarek.
+
+276
+00:18:05,200 --> 00:18:07,794  X1:241 X2:477 Y1:448 Y2:510
+- But there was...
+- Hello!
+
+277
+00:18:07,880 --> 00:18:09,791  X1:214 X2:504 Y1:448 Y2:510
+- Hello!
+There was no need...!
+
+278
+00:18:09,880 --> 00:18:11,950  X1:216 X2:501 Y1:448 Y2:516
+- We've arrived, Isha!
+- Good morning!
+
+279
+00:18:12,040 --> 00:18:13,758  X1:283 X2:435 Y1:484 Y2:510
+- Welcome!
+
+280
+00:18:14,400 --> 00:18:19,110  X1:146 X2:572 Y1:448 Y2:510
+- May we auntie Isha, Grandad?
+- No!
+
+281
+00:18:19,200 --> 00:18:21,236  X1:193 X2:525 Y1:484 Y2:516
+- Susie, don't be cheeky,
+
+282
+00:18:21,320 --> 00:18:23,356  X1:148 X2:570 Y1:448 Y2:510
+Mr. Komarek isn't our Grandad.
+- Just let them be!
+
+283
+00:18:23,440 --> 00:18:25,476  X1:137 X2:582 Y1:484 Y2:516
+I'm a Grandad anyway, so what...
+
+284
+00:18:25,560 --> 00:18:27,357  X1:151 X2:569 Y1:484 Y2:516
+But leave the dog on the chain!
+
+285
+00:18:27,440 --> 00:18:30,159  X1:152 X2:568 Y1:448 Y2:516
+He'd get used to running about
+and would't want to go back
+
+286
+00:18:31,280 --> 00:18:34,989  X1:176 X2:541 Y1:448 Y2:516
+to his kennel.
+- I hope he hasn't got fleas.
+
+287
+00:18:35,080 --> 00:18:37,878  X1:193 X2:525 Y1:448 Y2:516
+- He'll have a flea or two.
+But they're dog fleas,
+
+288
+00:18:37,960 --> 00:18:39,632  X1:193 X2:524 Y1:484 Y2:516
+they leave people alone!
+
+289
+00:18:40,000 --> 00:18:42,150  X1:248 X2:469 Y1:448 Y2:516
+Good morning!
+- Good morning!
+
+290
+00:18:42,240 --> 00:18:44,515  X1:227 X2:491 Y1:448 Y2:510
+- This is Tony.
+He catches snakes.
+
+291
+00:18:44,600 --> 00:18:47,068  X1:190 X2:528 Y1:448 Y2:516
+- There are snakes here?
+- I should say!
+
+292
+00:18:47,160 --> 00:18:49,469  X1:229 X2:489 Y1:448 Y2:516
+- I summer, mostly.
+Vipers, too.
+
+293
+00:18:49,840 --> 00:18:51,193  X1:222 X2:496 Y1:484 Y2:516
+- Do they nest here?
+
+294
+00:18:51,280 --> 00:18:54,033  X1:167 X2:551 Y1:448 Y2:516
+- Not here!
+In the wood, or on the paths.
+
+295
+00:18:54,200 --> 00:18:57,590  X1:168 X2:550 Y1:448 Y2:516
+- You're preparing the floor?
+How kind of you!
+
+296
+00:18:57,800 --> 00:19:00,189  X1:206 X2:512 Y1:484 Y2:516
+- Tony's a handy chap.
+
+297
+00:19:00,280 --> 00:19:04,910  X1:109 X2:609 Y1:484 Y2:516
+He'll show you how he catches them.
+
+298
+00:19:05,000 --> 00:19:06,558  X1:228 X2:491 Y1:484 Y2:516
+- How do you do it?
+
+299
+00:19:07,160 --> 00:19:09,037  X1:188 X2:529 Y1:484 Y2:516
+- Tell them how you do it!
+
+300
+00:19:09,120 --> 00:19:11,475  X1:210 X2:507 Y1:484 Y2:516
+- There's nothing to it!
+
+301
+00:19:13,800 --> 00:19:15,472  X1:180 X2:538 Y1:484 Y2:516
+- Say how you catch them!
+
+302
+00:19:15,560 --> 00:19:17,312  X1:270 X2:447 Y1:484 Y2:516
+- In my hand!
+
+303
+00:19:17,400 --> 00:19:19,516  X1:127 X2:592 Y1:484 Y2:516
+- Aren't you afraid they'll bite you?
+
+304
+00:19:19,600 --> 00:19:21,192  X1:219 X2:499 Y1:484 Y2:516
+- They won't bite me.
+
+305
+00:19:21,280 --> 00:19:23,236  X1:182 X2:536 Y1:484 Y2:516
+- I guess you wear gloves.
+
+306
+00:19:23,320 --> 00:19:25,959  X1:100 X2:617 Y1:484 Y2:516
+- No, I catch them with my bare hands.
+
+307
+00:19:26,040 --> 00:19:28,156  X1:293 X2:426 Y1:448 Y2:510
+- A viper?
+- Yeah.
+
+308
+00:19:28,600 --> 00:19:32,559  X1:110 X2:608 Y1:448 Y2:516
+- Don't try telling me you take
+a poisonous viper in your bare hand!
+
+309
+00:19:32,840 --> 00:19:35,673  X1:266 X2:453 Y1:448 Y2:510
+- He does.
+I've seen him.
+
+310
+00:19:36,240 --> 00:19:37,673  X1:321 X2:398 Y1:484 Y2:510
+Look!
+
+311
+00:19:40,600 --> 00:19:43,353  X1:214 X2:504 Y1:448 Y2:510
+When I see a viper...
+- Just wait a moment!
+
+312
+00:19:43,440 --> 00:19:45,670  X1:217 X2:500 Y1:484 Y2:515
+Children, come here!
+
+313
+00:19:45,800 --> 00:19:50,749  X1:076 X2:642 Y1:448 Y2:510
+This gentleman catches poisonous vipers
+with his bare hands!
+
+314
+00:19:51,280 --> 00:19:52,474  X1:194 X2:525 Y1:484 Y2:510
+Listen to how he does it!
+
+315
+00:19:52,560 --> 00:19:55,154  X1:188 X2:530 Y1:448 Y2:510
+- But there's nothing to it.
+- Do tell them!
+
+316
+00:19:56,000 --> 00:19:58,594  X1:216 X2:501 Y1:484 Y2:516
+- I'd rather show you.
+
+317
+00:20:03,160 --> 00:20:05,958  X1:190 X2:529 Y1:448 Y2:516
+I want to start lunch.
+I need my pots and pans.
+
+318
+00:20:06,040 --> 00:20:08,429  X1:222 X2:496 Y1:484 Y2:516
+- Not just now, Vera!
+
+319
+00:20:22,240 --> 00:20:24,674  X1:232 X2:487 Y1:484 Y2:515
+In summer I sweat,
+
+320
+00:20:25,400 --> 00:20:28,153  X1:214 X2:504 Y1:448 Y2:510
+and my jacket...
+- Smells of the sweat.
+
+321
+00:20:28,440 --> 00:20:29,873  X1:299 X2:418 Y1:484 Y2:510
+- Smells.
+
+322
+00:20:30,120 --> 00:20:32,111  X1:201 X2:517 Y1:448 Y2:510
+The viper gets a shock.
+- Gets a shock!
+
+323
+00:20:32,200 --> 00:20:34,270  X1:132 X2:586 Y1:484 Y2:516
+- Doesn't know what's happening.
+
+324
+00:20:34,760 --> 00:20:37,433  X1:261 X2:458 Y1:484 Y2:510
+I reach in for it
+
+325
+00:20:40,000 --> 00:20:43,356  X1:153 X2:565 Y1:484 Y2:516
+and my hand smells the same.
+
+326
+00:20:43,440 --> 00:20:45,351  X1:091 X2:626 Y1:484 Y2:516
+- And that's what scares the viper most.
+
+327
+00:20:45,440 --> 00:20:47,749  X1:138 X2:580 Y1:484 Y2:516
+And that's what scares the viper.
+
+328
+00:20:51,000 --> 00:20:52,718  X1:275 X2:443 Y1:484 Y2:516
+That's Tony!
+
+329
+00:20:54,680 --> 00:20:59,276  X1:216 X2:501 Y1:484 Y2:510
+- See? It doesn't bite.
+
+330
+00:21:00,280 --> 00:21:02,350  X1:258 X2:460 Y1:484 Y2:510
+- Unbelievable.
+
+331
+00:21:03,000 --> 00:21:05,116  X1:111 X2:608 Y1:448 Y2:516
+- So, Olda...
+Excuse me, I have to do my cooking!
+
+332
+00:21:05,200 --> 00:21:08,272  X1:124 X2:596 Y1:448 Y2:510
+Where did you put the baking-pan?
+- Unbelievable!
+
+333
+00:21:08,680 --> 00:21:13,356  X1:131 X2:589 Y1:448 Y2:510
+Do you know why a cow's useful?
+- It eats flies.
+
+334
+00:21:14,520 --> 00:21:16,636  X1:243 X2:474 Y1:484 Y2:516
+- It gives us milk.
+
+335
+00:21:16,720 --> 00:21:20,235  X1:201 X2:516 Y1:484 Y2:516
+- I thought we buy milk.
+
+336
+00:21:21,680 --> 00:21:25,116  X1:186 X2:532 Y1:484 Y2:510
+- What's the cow's name?
+
+337
+00:21:25,200 --> 00:21:27,589  X1:316 X2:402 Y1:484 Y2:510
+- Cow.
+
+338
+00:21:28,160 --> 00:21:30,390  X1:201 X2:518 Y1:484 Y2:510
+- Can we call her Jitka?
+
+339
+00:21:30,480 --> 00:21:32,948  X1:214 X2:504 Y1:484 Y2:515
+- Yes, she won't care.
+
+340
+00:21:33,400 --> 00:21:36,756  X1:312 X2:405 Y1:448 Y2:510
+- Jitka!
+- Cow!
+
+341
+00:21:42,600 --> 00:21:44,875  X1:252 X2:468 Y1:484 Y2:516
+Is that any use?
+
+342
+00:21:44,960 --> 00:21:47,758  X1:113 X2:604 Y1:448 Y2:516
+- Hey, the water's coming here down
+the slope.
+
+343
+00:21:48,120 --> 00:21:50,031  X1:206 X2:511 Y1:484 Y2:510
+The wall can't breathe.
+
+344
+00:21:50,120 --> 00:21:54,557  X1:223 X2:497 Y1:484 Y2:510
+I'll lead the water off
+
+345
+00:21:54,760 --> 00:21:56,478  X1:154 X2:564 Y1:484 Y2:516
+and the damp must disappear.
+
+346
+00:21:56,560 --> 00:22:00,235  X1:227 X2:491 Y1:448 Y2:516
+Next time we come,
+the wall will be dry.
+
+347
+00:22:05,400 --> 00:22:07,868  X1:215 X2:503 Y1:484 Y2:516
+You gave me a fright!
+
+348
+00:22:08,280 --> 00:22:09,759  X1:313 X2:404 Y1:484 Y2:510
+- Here!
+
+349
+00:22:14,640 --> 00:22:18,235  X1:091 X2:628 Y1:448 Y2:516
+Mr. Komarek!
+What about felling down this plum-tree?
+
+350
+00:22:18,840 --> 00:22:21,718  X1:133 X2:585 Y1:484 Y2:515
+It's old, and it won't let the sun in.
+
+351
+00:22:21,800 --> 00:22:24,394  X1:086 X2:632 Y1:484 Y2:516
+- The plumes are always full of maggots.
+
+352
+00:22:24,480 --> 00:22:27,552  X1:175 X2:543 Y1:448 Y2:516
+- Goat! Goatee! Come here!
+- I'd have guessed that.
+
+353
+00:22:27,640 --> 00:22:32,589  X1:122 X2:595 Y1:448 Y2:516
+- But when you put them in a barrel
+the plums and maggots ferment...
+
+354
+00:22:33,560 --> 00:22:37,155  X1:213 X2:505 Y1:484 Y2:510
+and ah - the Slivovitz!
+
+355
+00:22:46,800 --> 00:22:48,756  X1:222 X2:496 Y1:484 Y2:515
+Wait, when it's ours!
+
+356
+00:22:53,720 --> 00:22:56,792  X1:189 X2:529 Y1:448 Y2:510
+The floor's repaired.
+You can dance on it now.
+
+357
+00:22:56,880 --> 00:23:00,395  X1:175 X2:545 Y1:448 Y2:516
+- Wait, Mr. Hruska!
+How much do we owe you?
+
+358
+00:23:00,480 --> 00:23:01,833  X1:213 X2:504 Y1:484 Y2:515
+- Oh, don't mention it.
+
+359
+00:23:01,920 --> 00:23:05,196  X1:186 X2:531 Y1:448 Y2:516
+- Don't give him anything.
+He drinks up all he gots.
+
+360
+00:23:05,280 --> 00:23:07,191  X1:267 X2:450 Y1:484 Y2:516
+- Indeed, yes!
+
+361
+00:23:07,280 --> 00:23:11,034  X1:174 X2:543 Y1:484 Y2:516
+The work, the new planks...
+
+362
+00:23:11,640 --> 00:23:15,633  X1:179 X2:539 Y1:484 Y2:516
+Come on now... all right...
+
+363
+00:23:15,960 --> 00:23:18,633  X1:222 X2:496 Y1:484 Y2:516
+- Well, if you insist...
+
+364
+00:23:18,800 --> 00:23:20,995  X1:249 X2:469 Y1:484 Y2:516
+- Be seeing you!
+
+365
+00:23:21,520 --> 00:23:24,239  X1:145 X2:574 Y1:448 Y2:516
+- Why on earth did you give him
+that money?
+
+366
+00:23:24,320 --> 00:23:25,878  X1:186 X2:531 Y1:484 Y2:516
+- For repairing the floor...
+
+367
+00:23:25,960 --> 00:23:29,316  X1:237 X2:481 Y1:448 Y2:515
+- Is it our floor?
+- No, but it will be!
+
+368
+00:23:29,800 --> 00:23:31,597  X1:225 X2:493 Y1:484 Y2:516
+- That isn't sure yet.
+
+369
+00:23:31,680 --> 00:23:33,875  X1:219 X2:499 Y1:484 Y2:516
+And we pay our rent,
+
+370
+00:23:33,960 --> 00:23:37,839  X1:137 X2:581 Y1:484 Y2:516
+so it's his duty to mend the floor.
+
+371
+00:23:38,560 --> 00:23:42,997  X1:122 X2:596 Y1:448 Y2:516
+Olda! You mustn't be such a softie!
+People see it straight away
+
+372
+00:23:43,080 --> 00:23:45,230  X1:193 X2:525 Y1:484 Y2:516
+and take advantage of it.
+
+373
+00:23:45,400 --> 00:23:48,631  X1:118 X2:600 Y1:448 Y2:510
+I know you're in love with the place,
+but do think twice!
+
+374
+00:23:48,720 --> 00:23:51,757  X1:145 X2:573 Y1:448 Y2:516
+100 Crowns a month for such...
+...a damp hole!
+
+375
+00:23:51,840 --> 00:23:55,071  X1:239 X2:479 Y1:448 Y2:516
+- Firstly
+it's no damp hole,
+
+376
+00:23:55,160 --> 00:23:57,116  X1:130 X2:589 Y1:484 Y2:516
+secondly I'm getting the damp out
+
+377
+00:23:57,200 --> 00:23:58,110  X1:240 X2:478 Y1:448 Y2:510
+and thirdly...
+- Good afternoon!
+
+378
+00:23:58,200 --> 00:24:00,111  X1:109 X2:608 Y1:484 Y2:516
+...I'm investing in my own property.
+
+379
+00:24:00,200 --> 00:24:01,553  X1:240 X2:478 Y1:448 Y2:510
+Good afternoon!
+- Good afternoon!
+
+380
+00:24:01,640 --> 00:24:04,029  X1:239 X2:478 Y1:484 Y2:516
+- I'm Ferry Kokes.
+
+381
+00:24:04,120 --> 00:24:07,510  X1:115 X2:605 Y1:448 Y2:516
+Would you lend me your spare tyre?
+For an hour, to get to town with?
+
+382
+00:24:07,600 --> 00:24:09,556  X1:248 X2:469 Y1:484 Y2:515
+- Yes, of course.
+
+383
+00:24:11,960 --> 00:24:13,791  X1:193 X2:525 Y1:484 Y2:515
+Can't even shake hands,
+
+384
+00:24:13,880 --> 00:24:16,633  X1:214 X2:504 Y1:484 Y2:516
+look at the sight I am.
+
+385
+00:24:17,080 --> 00:24:20,550  X1:152 X2:566 Y1:448 Y2:516
+Seven holes!
+Hopeless trying to mend them!
+
+386
+00:24:23,760 --> 00:24:25,352  X1:210 X2:510 Y1:484 Y2:516
+Did she leave an egg?
+
+387
+00:24:26,640 --> 00:24:29,950  X1:273 X2:445 Y1:448 Y2:516
+- Not an egg.
+- Pity.
+
+388
+00:24:35,640 --> 00:24:37,551  X1:162 X2:557 Y1:448 Y2:516
+We're practically neighbours.
+- Really?
+
+389
+00:24:37,640 --> 00:24:42,077  X1:104 X2:614 Y1:448 Y2:516
+- Yes, really!
+I've got a cottage here two years now.
+
+390
+00:24:42,320 --> 00:24:43,753  X1:232 X2:486 Y1:484 Y2:515
+I was mad about it,
+
+391
+00:24:43,840 --> 00:24:45,910  X1:130 X2:587 Y1:448 Y2:510
+so I bought it old man and woman
+included.
+
+392
+00:24:46,000 --> 00:24:47,831  X1:117 X2:600 Y1:484 Y2:516
+They wanted to end their days here.
+
+393
+00:24:47,920 --> 00:24:50,434  X1:121 X2:599 Y1:448 Y2:516
+Now I've got strangers in the house
+and I can't get rid of them.
+
+394
+00:24:50,520 --> 00:24:51,635  X1:163 X2:554 Y1:484 Y2:515
+Come and see us some time,
+
+395
+00:24:51,720 --> 00:24:53,711  X1:246 X2:472 Y1:448 Y2:516
+and thanks a lot!
+Thank you!
+
+396
+00:24:53,800 --> 00:24:54,312  X1:275 X2:443 Y1:448 Y2:516
+- Not at all.
+- Thank you.
+
+397
+00:24:54,400 --> 00:24:55,719  X1:200 X2:519 Y1:484 Y2:516
+I'll bring it back tonight!
+
+398
+00:24:55,800 --> 00:24:57,313  X1:234 X2:484 Y1:448 Y2:510
+- There's no hurry!
+- Seven holes.
+
+399
+00:24:57,400 --> 00:24:58,833  X1:168 X2:550 Y1:484 Y2:510
+And that was a second time!
+
+400
+00:25:17,200 --> 00:25:19,031  X1:283 X2:434 Y1:484 Y2:516
+Thank you.
+
+401
+00:25:19,120 --> 00:25:20,872  X1:264 X2:455 Y1:484 Y2:516
+I enjoyed that.
+
+402
+00:25:20,960 --> 00:25:22,598  X1:223 X2:495 Y1:484 Y2:516
+- Coffee's ready too.
+
+403
+00:25:23,480 --> 00:25:26,790  X1:237 X2:481 Y1:448 Y2:516
+- What's the time?
+- It's past six.
+
+404
+00:25:26,880 --> 00:25:29,348  X1:186 X2:532 Y1:484 Y2:516
+- Oh, I'll have to be going!
+
+405
+00:25:29,440 --> 00:25:31,158  X1:180 X2:539 Y1:484 Y2:510
+I'll take the coffee with me.
+
+406
+00:25:35,000 --> 00:25:37,912  X1:233 X2:486 Y1:448 Y2:510
+Where's he going?
+- I don't know.
+
+407
+00:25:39,840 --> 00:25:41,319  X1:260 X2:458 Y1:484 Y2:516
+Good evening.
+
+408
+00:25:41,800 --> 00:25:46,351  X1:239 X2:479 Y1:484 Y2:516
+Once upon a time
+
+409
+00:25:47,040 --> 00:25:51,477  X1:126 X2:591 Y1:448 Y2:516
+there was a Kingdom
+which was neither large nor small.
+
+410
+00:25:51,920 --> 00:25:55,310  X1:106 X2:613 Y1:484 Y2:516
+All its inhabitants were happy people.
+
+411
+00:25:55,920 --> 00:25:59,515  X1:140 X2:577 Y1:448 Y2:516
+- I haven't heard this one before!
+Go on, I'm listening!
+
+412
+00:25:59,600 --> 00:26:02,831  X1:147 X2:571 Y1:448 Y2:516
+- The ruler of this Kingdom was
+a very old King.
+
+413
+00:26:02,920 --> 00:26:05,992  X1:177 X2:541 Y1:448 Y2:516
+- I bet he has three sons.
+- This King had three sons.
+
+414
+00:26:06,080 --> 00:26:07,877  X1:245 X2:473 Y1:484 Y2:516
+- Didn't I say so?
+
+415
+00:26:07,960 --> 00:26:11,350  X1:191 X2:528 Y1:484 Y2:516
+- One day he asked them
+
+416
+00:26:12,120 --> 00:26:16,352  X1:189 X2:528 Y1:484 Y2:516
+to find a really wise man.
+
+417
+00:26:17,760 --> 00:26:21,958  X1:130 X2:588 Y1:484 Y2:516
+The youngest son set out at once.
+
+418
+00:26:22,040 --> 00:26:25,271  X1:166 X2:554 Y1:448 Y2:510
+He went around the kingdom
+from town to town
+
+419
+00:26:25,480 --> 00:26:28,756  X1:202 X2:516 Y1:484 Y2:516
+looking for a wise man.
+
+420
+00:26:29,760 --> 00:26:33,594  X1:140 X2:580 Y1:448 Y2:516
+But in that Kingdom people were
+neither stupid nor clever,
+
+421
+00:26:34,280 --> 00:26:37,636  X1:174 X2:545 Y1:448 Y2:516
+neither ever nor good,
+neither cowardly nor brave,
+
+422
+00:26:38,560 --> 00:26:40,994  X1:186 X2:533 Y1:484 Y2:516
+neither ugly nor beautiful.
+
+423
+00:27:01,840 --> 00:27:04,673  X1:280 X2:437 Y1:448 Y2:510
+Children!
+Come here!
+
+424
+00:27:11,160 --> 00:27:12,912  X1:313 X2:406 Y1:484 Y2:510
+Listen!
+
+425
+00:27:13,000 --> 00:27:14,877  X1:219 X2:499 Y1:448 Y2:516
+Do you hear?
+- Something tinkling.
+
+426
+00:27:14,960 --> 00:27:17,394  X1:172 X2:547 Y1:448 Y2:510
+- Do you know what that is?
+- No.
+
+427
+00:27:17,480 --> 00:27:20,631  X1:155 X2:563 Y1:484 Y2:516
+- The angelus, or evening bell.
+
+428
+00:27:21,240 --> 00:27:24,391  X1:111 X2:608 Y1:484 Y2:516
+In the country they always ring a bell
+
+429
+00:27:24,480 --> 00:27:26,948  X1:205 X2:513 Y1:484 Y2:516
+at this time of evening.
+
+430
+00:27:27,040 --> 00:27:29,349  X1:189 X2:529 Y1:484 Y2:516
+- It's coming nearer, Dad!
+
+431
+00:27:29,440 --> 00:27:31,749  X1:191 X2:526 Y1:484 Y2:516
+- No, that's just the wind!
+
+432
+00:27:31,840 --> 00:27:34,752  X1:230 X2:488 Y1:484 Y2:516
+The bell is fixed up
+
+433
+00:27:34,840 --> 00:27:38,879  X1:141 X2:579 Y1:448 Y2:516
+in a bell tower
+and the bell-ringer stands below
+
+434
+00:27:38,960 --> 00:27:41,758  X1:234 X2:484 Y1:484 Y2:516
+and pulls that bell.
+
+435
+00:27:41,840 --> 00:27:44,070  X1:126 X2:592 Y1:484 Y2:516
+- The bell-ringer's coming up, Dad!
+
+436
+00:27:49,600 --> 00:27:52,239  X1:120 X2:597 Y1:484 Y2:515
+- No, children, this is Mr. Lawrence.
+
+437
+00:27:53,480 --> 00:27:56,836  X1:212 X2:508 Y1:448 Y2:516
+But it really did sound
+like the angelus.
+
+438
+00:27:58,640 --> 00:28:00,358  X1:251 X2:467 Y1:448 Y2:516
+Good evening.
+- Good evening!
+
+439
+00:28:00,440 --> 00:28:04,718  X1:203 X2:514 Y1:448 Y2:516
+- Finished for the day?
+- I put him to bed early,
+
+440
+00:28:04,800 --> 00:28:06,756  X1:174 X2:543 Y1:484 Y2:516
+so he's up bright and early.
+
+441
+00:28:06,840 --> 00:28:08,956  X1:216 X2:503 Y1:448 Y2:516
+And what about you?
+How are you doing?
+
+442
+00:28:09,120 --> 00:28:11,953  X1:182 X2:536 Y1:484 Y2:516
+- We're not here long yet...
+
+443
+00:28:12,400 --> 00:28:16,393  X1:174 X2:543 Y1:484 Y2:516
+- Quite a job, if you ask me.
+
+444
+00:28:16,480 --> 00:28:19,472  X1:161 X2:557 Y1:484 Y2:516
+The first thing you'll need are
+
+445
+00:28:19,600 --> 00:28:22,433  X1:230 X2:488 Y1:448 Y2:516
+some decent tools.
+A good hammer...
+
+446
+00:28:22,520 --> 00:28:23,839  X1:242 X2:475 Y1:448 Y2:516
+- Don't rock me!
+...and pliers...
+
+447
+00:28:23,920 --> 00:28:26,593  X1:178 X2:541 Y1:484 Y2:516
+...a pipe cutter, a shovel...
+
+448
+00:28:26,680 --> 00:28:29,274  X1:183 X2:534 Y1:448 Y2:516
+- Stop rocking me!
+...a spade, a pick-axe...
+
+449
+00:28:29,360 --> 00:28:32,670  X1:176 X2:543 Y1:484 Y2:515
+...a trowel, a water-level...
+
+450
+00:28:33,280 --> 00:28:34,952  X1:250 X2:467 Y1:484 Y2:510
+a wheel-barrow!
+
+451
+00:28:37,360 --> 00:28:40,033  X1:234 X2:483 Y1:448 Y2:516
+A screen...
+- Stop rocking me!
+
+452
+00:28:40,440 --> 00:28:43,113  X1:158 X2:559 Y1:484 Y2:516
+...a gimlet, a chisel, a plane,
+
+453
+00:28:44,640 --> 00:28:47,871  X1:211 X2:506 Y1:448 Y2:516
+a vice, a file, a rasp...
+- Supper!
+
+454
+00:28:47,960 --> 00:28:48,472  X1:215 X2:502 Y1:484 Y2:515
+- Excuse us, Mr. Kos,
+
+455
+00:28:48,560 --> 00:28:50,835  X1:167 X2:550 Y1:448 Y2:516
+...sandpaper, a big rake...
+- we have to go - my wife...
+
+456
+00:28:50,920 --> 00:28:52,512  X1:233 X2:484 Y1:448 Y2:510
+- Come along!
+...A small rake...
+
+457
+00:28:52,600 --> 00:28:54,079  X1:154 X2:564 Y1:484 Y2:516
+Well, be seeing you. Goodbye.
+
+458
+00:28:55,920 --> 00:28:59,071  X1:242 X2:477 Y1:484 Y2:510
+And a frame saw!
+
+459
+00:29:11,160 --> 00:29:14,357  X1:285 X2:433 Y1:448 Y2:510
+Here I am!
+- Come on!
+
+460
+00:29:16,480 --> 00:29:19,552  X1:241 X2:477 Y1:448 Y2:510
+- I'm not too late?
+- No!
+
+461
+00:29:28,680 --> 00:29:32,798  X1:241 X2:477 Y1:448 Y2:516
+What's the time?
+- A quarter to ten.
+
+462
+00:29:32,880 --> 00:29:35,110  X1:206 X2:511 Y1:484 Y2:515
+- Come and look, then!
+
+463
+00:29:42,840 --> 00:29:45,434  X1:190 X2:528 Y1:484 Y2:510
+You wouldn't believe me.
+
+464
+00:29:45,520 --> 00:29:48,239  X1:202 X2:516 Y1:448 Y2:516
+It's nearly ten
+and they're still asleep.
+
+465
+00:29:53,520 --> 00:29:55,875  X1:210 X2:508 Y1:484 Y2:510
+Sometimes till twelve!
+
+466
+00:29:55,960 --> 00:29:58,235  X1:250 X2:469 Y1:448 Y2:516
+- How can they?
+- The just do.
+
+467
+00:29:59,840 --> 00:30:00,989  X1:225 X2:494 Y1:484 Y2:516
+Well, slept your fill?
+
+468
+00:30:01,080 --> 00:30:03,640  X1:198 X2:519 Y1:448 Y2:510
+- If you went to bed
+when the chickens do...
+
+469
+00:30:03,720 --> 00:30:05,517  X1:123 X2:596 Y1:484 Y2:516
+- Can I bring in the eggs, Grandad?
+
+470
+00:30:05,600 --> 00:30:08,637  X1:116 X2:602 Y1:448 Y2:516
+- Yes, go and see if they've laid any.
+- A bright boy!
+
+471
+00:30:08,720 --> 00:30:10,233  X1:279 X2:438 Y1:484 Y2:510
+- That he is.
+
+472
+00:30:20,200 --> 00:30:22,270  X1:248 X2:469 Y1:448 Y2:516
+Good morning!
+- Good morning!
+
+473
+00:30:22,600 --> 00:30:24,511  X1:176 X2:543 Y1:448 Y2:516
+- I bet you do the old man's
+shopping too?
+
+474
+00:30:24,760 --> 00:30:26,432  X1:233 X2:485 Y1:484 Y2:515
+- Well, of course...
+
+475
+00:30:26,520 --> 00:30:28,636  X1:108 X2:610 Y1:484 Y2:516
+- Don't over do the good relations bit!
+
+476
+00:30:28,720 --> 00:30:32,554  X1:155 X2:562 Y1:448 Y2:516
+- Good morning!
+- Better to keep your distance.
+
+477
+00:30:33,320 --> 00:30:35,709  X1:238 X2:481 Y1:448 Y2:510
+Let him be!
+- Is he the owner?
+
+478
+00:30:35,800 --> 00:30:37,677  X1:226 X2:492 Y1:484 Y2:510
+- The former owner!
+
+479
+00:30:42,880 --> 00:30:45,269  X1:105 X2:614 Y1:484 Y2:510
+With water there he's more scare still.
+
+480
+00:30:46,360 --> 00:30:49,158  X1:195 X2:522 Y1:484 Y2:516
+- But surely, I'd like to...
+
+481
+00:30:49,240 --> 00:30:50,992  X1:198 X2:520 Y1:484 Y2:510
+- Just leave them alone.
+
+482
+00:30:51,080 --> 00:30:52,832  X1:147 X2:571 Y1:484 Y2:516
+I dug the hole because of them!
+
+483
+00:30:52,920 --> 00:30:56,879  X1:125 X2:595 Y1:448 Y2:516
+They could have gone to a Home. - 
+A lovely chateau it is!
+
+484
+00:30:56,960 --> 00:30:59,110  X1:180 X2:538 Y1:448 Y2:516
+But they refuse to budge.
+Say they have it in writing.
+
+485
+00:30:59,200 --> 00:31:00,155  X1:243 X2:474 Y1:448 Y2:510
+So I sweeten it...
+- Riffraff!
+
+486
+00:31:00,240 --> 00:31:03,038  X1:252 X2:465 Y1:484 Y2:516
+...up for them.
+
+487
+00:31:04,240 --> 00:31:06,435  X1:304 X2:414 Y1:448 Y2:510
+Thanks.
+Thanks!
+
+488
+00:31:07,120 --> 00:31:11,033  X1:146 X2:572 Y1:448 Y2:516
+I'm repairing the chimney,
+nobody can stop me doing that.
+
+489
+00:31:11,120 --> 00:31:12,792  X1:137 X2:582 Y1:484 Y2:510
+I'll make life such hell for them...
+
+490
+00:31:12,880 --> 00:31:16,429  X1:142 X2:576 Y1:484 Y2:516
+- The pancakes are getting cold!
+
+491
+00:31:16,520 --> 00:31:18,033  X1:152 X2:566 Y1:484 Y2:516
+And you stand here gabbing...!
+
+492
+00:31:18,120 --> 00:31:19,633  X1:294 X2:424 Y1:484 Y2:516
+- My wife!
+
+493
+00:31:19,720 --> 00:31:21,870  X1:248 X2:469 Y1:448 Y2:516
+- Good morning!
+Goodbye!
+
+494
+00:31:21,960 --> 00:31:24,190  X1:218 X2:500 Y1:484 Y2:510
+- I'll smoke them out.
+
+495
+00:31:24,280 --> 00:31:27,078  X1:232 X2:487 Y1:484 Y2:516
+Drop in some time.
+
+496
+00:31:42,640 --> 00:31:45,200  X1:203 X2:516 Y1:484 Y2:516
+Look, Grandad sowing.
+
+497
+00:31:45,280 --> 00:31:47,714  X1:198 X2:519 Y1:484 Y2:515
+- That's a farmer, Susie.
+
+498
+00:31:47,800 --> 00:31:50,951  X1:195 X2:522 Y1:448 Y2:516
+- But Grandad sows too.
+Right!
+
+499
+00:31:51,400 --> 00:31:52,913  X1:279 X2:438 Y1:484 Y2:510
+- He sowed.
+
+500
+00:31:53,000 --> 00:31:55,275  X1:246 X2:472 Y1:484 Y2:516
+He's giving it up.
+
+501
+00:31:55,800 --> 00:31:58,553  X1:099 X2:619 Y1:484 Y2:516
+He'll sell the cow and won't sow again.
+
+502
+00:32:03,240 --> 00:32:05,390  X1:199 X2:520 Y1:484 Y2:516
+It's pissing and pissing.
+
+503
+00:32:13,200 --> 00:32:15,634  X1:158 X2:561 Y1:484 Y2:516
+Mum! It's pissing and pissing.
+
+504
+00:32:17,320 --> 00:32:20,790  X1:203 X2:515 Y1:448 Y2:510
+- What are you saying?
+- Grandad said it.
+
+505
+00:32:22,520 --> 00:32:24,272  X1:249 X2:468 Y1:484 Y2:510
+- So take a look!
+
+506
+00:32:24,360 --> 00:32:26,316  X1:120 X2:599 Y1:484 Y2:516
+Mr. Komarek can speak as he likes.
+
+507
+00:32:26,400 --> 00:32:28,516  X1:167 X2:552 Y1:484 Y2:516
+But no dirty words from you!
+
+508
+00:32:45,960 --> 00:32:47,552  X1:261 X2:458 Y1:484 Y2:515
+See, children?
+
+509
+00:32:52,560 --> 00:32:57,315  X1:120 X2:598 Y1:448 Y2:516
+These were lamps used in the past.
+- In antiquity?
+
+510
+00:32:57,400 --> 00:32:58,674  X1:133 X2:586 Y1:484 Y2:516
+- What do you mean by antiquity?
+
+511
+00:32:58,760 --> 00:33:01,399  X1:092 X2:627 Y1:448 Y2:516
+Your grandfather still did his homework
+in such a light.
+
+512
+00:33:01,480 --> 00:33:04,711  X1:267 X2:451 Y1:484 Y2:515
+- I would, too!
+
+513
+00:33:04,800 --> 00:33:08,952  X1:136 X2:582 Y1:448 Y2:516
+- You'd spoil your eyes!
+- Did Grandfather spoil his eyes?
+
+514
+00:33:09,040 --> 00:33:11,190  X1:104 X2:613 Y1:484 Y2:516
+- Grandfather had a different problem.
+
+515
+00:33:11,280 --> 00:33:13,714  X1:139 X2:578 Y1:484 Y2:516
+- I hope we can put in electricity!
+
+516
+00:33:13,800 --> 00:33:15,950  X1:286 X2:432 Y1:484 Y2:516
+- But why?
+
+517
+00:33:16,800 --> 00:33:20,918  X1:160 X2:559 Y1:448 Y2:516
+It wouldn't be the thing in this
+sort of cottage.
+
+518
+00:33:23,600 --> 00:33:25,158  X1:162 X2:557 Y1:484 Y2:516
+We'll furnish it in period style
+
+519
+00:33:26,480 --> 00:33:27,913  X1:147 X2:570 Y1:484 Y2:516
+and all our friends will envy us.
+
+520
+00:33:29,720 --> 00:33:32,359  X1:169 X2:548 Y1:484 Y2:516
+- For not having electricity...
+
+521
+00:33:42,440 --> 00:33:43,873  X1:305 X2:414 Y1:484 Y2:516
+Funny...
+
+522
+00:34:15,400 --> 00:34:17,231  X1:256 X2:464 Y1:484 Y2:510
+What was that?
+
+523
+00:34:18,240 --> 00:34:20,231  X1:301 X2:416 Y1:484 Y2:510
+- A hunt.
+
+524
+00:34:24,200 --> 00:34:26,953  X1:166 X2:551 Y1:484 Y2:516
+- I think somebody's arrived.
+
+525
+00:34:27,560 --> 00:34:30,120  X1:215 X2:503 Y1:484 Y2:516
+- Who'd be arriving...
+
+526
+00:34:39,480 --> 00:34:40,959  X1:264 X2:454 Y1:484 Y2:510
+- I don't know.
+
+527
+00:34:42,040 --> 00:34:45,669  X1:183 X2:535 Y1:448 Y2:516
+Chase those chickens out
+and please go and look!
+
+528
+00:35:07,360 --> 00:35:09,999  X1:220 X2:500 Y1:484 Y2:516
+What are you doing?
+
+529
+00:35:10,720 --> 00:35:13,996  X1:157 X2:561 Y1:484 Y2:516
+- Trying to cut some firewood,
+
+530
+00:35:14,600 --> 00:35:16,556  X1:258 X2:462 Y1:484 Y2:516
+But the thing...
+
+531
+00:35:17,320 --> 00:35:19,595  X1:228 X2:490 Y1:484 Y2:516
+...keeps choking...
+
+532
+00:35:20,080 --> 00:35:22,196  X1:238 X2:479 Y1:484 Y2:516
+Can't get it to run.
+
+533
+00:35:24,240 --> 00:35:26,037  X1:229 X2:489 Y1:484 Y2:510
+- Did this ever run?
+
+534
+00:35:26,120 --> 00:35:28,714  X1:257 X2:460 Y1:484 Y2:516
+- It'll run again!
+
+535
+00:35:30,800 --> 00:35:33,712  X1:132 X2:587 Y1:484 Y2:516
+Hruska said the magneto is weak.
+
+536
+00:35:35,320 --> 00:35:37,959  X1:158 X2:559 Y1:448 Y2:510
+Try turning the handle for me.
+- Where? Here?
+
+537
+00:35:38,040 --> 00:35:39,473  X1:310 X2:408 Y1:484 Y2:516
+- Right.
+
+538
+00:35:51,520 --> 00:35:54,239  X1:204 X2:513 Y1:484 Y2:510
+- The cooler's cracked.
+
+539
+00:35:54,320 --> 00:35:59,155  X1:227 X2:491 Y1:448 Y2:515
+- We'll keep it filled.
+Come on, now!
+
+540
+00:35:59,240 --> 00:36:01,674  X1:268 X2:451 Y1:484 Y2:516
+Keep turning!
+
+541
+00:36:04,000 --> 00:36:06,639  X1:167 X2:552 Y1:484 Y2:516
+Wait! We must heat the plug.
+
+542
+00:36:07,840 --> 00:36:09,319  X1:293 X2:425 Y1:484 Y2:510
+Now wait!
+
+543
+00:36:14,400 --> 00:36:16,356  X1:160 X2:559 Y1:484 Y2:516
+What on earth are you doing?
+
+544
+00:36:24,800 --> 00:36:26,518  X1:268 X2:451 Y1:484 Y2:516
+Keep turning!
+
+545
+00:36:39,480 --> 00:36:41,596  X1:296 X2:422 Y1:484 Y2:516
+Glory be!
+
+546
+00:36:44,640 --> 00:36:46,596  X1:181 X2:536 Y1:484 Y2:516
+- Bring some water, quick!
+
+547
+00:36:46,920 --> 00:36:49,639  X1:284 X2:434 Y1:484 Y2:516
+It's boiling!
+
+548
+00:36:54,680 --> 00:36:57,399  X1:292 X2:426 Y1:484 Y2:516
+More gas!
+
+549
+00:37:01,240 --> 00:37:05,153  X1:250 X2:468 Y1:484 Y2:516
+More! More gas!
+
+550
+00:37:11,320 --> 00:37:14,198  X1:107 X2:612 Y1:484 Y2:516
+When I'm cutting, you must turn it up!
+
+551
+00:37:14,400 --> 00:37:15,958  X1:315 X2:403 Y1:484 Y2:516
+Again!
+
+552
+00:37:18,960 --> 00:37:20,439  X1:268 X2:451 Y1:484 Y2:516
+Keep turning!
+
+553
+00:37:31,680 --> 00:37:33,352  X1:315 X2:403 Y1:484 Y2:510
+Water!
+
+554
+00:37:41,240 --> 00:37:43,595  X1:239 X2:479 Y1:448 Y2:516
+Water!
+- Where's Daddy?
+
+555
+00:37:43,680 --> 00:37:45,159  X1:162 X2:556 Y1:484 Y2:516
+- Maybe he's branding a cow.
+
+556
+00:37:45,240 --> 00:37:48,994  X1:279 X2:439 Y1:448 Y2:516
+- Branding?
+- Hurry!
+
+557
+00:37:52,040 --> 00:37:54,838  X1:129 X2:589 Y1:448 Y2:516
+- We're off to look for mushrooms.
+Coming?
+
+558
+00:37:59,320 --> 00:38:02,153  X1:138 X2:580 Y1:448 Y2:516
+We're off to look for mushrooms.
+Coming?
+
+559
+00:38:02,760 --> 00:38:05,399  X1:143 X2:576 Y1:448 Y2:516
+What?
+...coming mushroom-hunting?
+
+560
+00:38:05,480 --> 00:38:08,552  X1:239 X2:479 Y1:484 Y2:516
+- I'll catch you up.
+
+561
+00:39:15,600 --> 00:39:18,068  X1:200 X2:519 Y1:484 Y2:516
+Here, children! Quickly!
+
+562
+00:39:19,720 --> 00:39:23,395  X1:213 X2:504 Y1:484 Y2:515
+The ants built all this,
+
+563
+00:39:23,560 --> 00:39:27,599  X1:174 X2:544 Y1:484 Y2:516
+pine needle by pine needle,
+
+564
+00:39:28,080 --> 00:39:30,799  X1:199 X2:518 Y1:484 Y2:516
+with its ant highways...
+
+565
+00:39:30,880 --> 00:39:34,350  X1:200 X2:518 Y1:448 Y2:510
+See? Here's one now...
+Iook.
+
+566
+00:39:34,560 --> 00:39:37,120  X1:190 X2:528 Y1:484 Y2:516
+- This ant's carrying rice!
+
+567
+00:39:37,200 --> 00:39:39,714  X1:190 X2:528 Y1:484 Y2:516
+- That's an egg, you silly.
+
+568
+00:39:39,800 --> 00:39:41,518  X1:314 X2:404 Y1:484 Y2:516
+- Egg?
+
+569
+00:39:48,720 --> 00:39:51,632  X1:242 X2:475 Y1:448 Y2:510
+Good day to you!
+- Hello!
+
+570
+00:39:51,720 --> 00:39:54,518  X1:126 X2:592 Y1:448 Y2:516
+We're looking for mushrooms,
+but they don't seem to be growing.
+
+571
+00:39:54,600 --> 00:39:55,669  X1:310 X2:407 Y1:448 Y2:510
+- Hello!
+- Hello!
+
+572
+00:39:55,800 --> 00:39:58,268  X1:181 X2:537 Y1:484 Y2:516
+You have to get up earlier!
+
+573
+00:39:58,360 --> 00:40:02,114  X1:216 X2:501 Y1:448 Y2:516
+- We enjoy our sleep.
+- I know, I saw you.
+
+574
+00:40:02,280 --> 00:40:04,874  X1:234 X2:483 Y1:448 Y2:516
+- Saw us?
+- I just had a peep.
+
+575
+00:40:04,960 --> 00:40:07,428  X1:237 X2:482 Y1:484 Y2:510
+Komarek insisted.
+
+576
+00:40:07,520 --> 00:40:09,829  X1:230 X2:490 Y1:484 Y2:516
+There was a mayor
+
+577
+00:40:09,920 --> 00:40:11,797  X1:225 X2:492 Y1:484 Y2:516
+who slept that long,
+
+578
+00:40:11,880 --> 00:40:15,031  X1:132 X2:587 Y1:448 Y2:510
+but he had the sleeping-sickness!
+- Who said...?
+
+579
+00:40:15,120 --> 00:40:18,032  X1:174 X2:546 Y1:448 Y2:516
+- The postman.
+But you wouldn't know him.
+
+580
+00:40:18,120 --> 00:40:19,712  X1:190 X2:528 Y1:484 Y2:516
+He comes round at eight.
+
+581
+00:40:19,800 --> 00:40:22,792  X1:182 X2:535 Y1:484 Y2:510
+- Then we don't know him.
+
+582
+00:40:26,360 --> 00:40:28,715  X1:136 X2:582 Y1:448 Y2:510
+- This is awful!
+He shows us off like a circus act.
+
+583
+00:40:28,800 --> 00:40:32,270  X1:148 X2:570 Y1:484 Y2:510
+- But the weather's on our side!
+
+584
+00:40:32,360 --> 00:40:33,952  X1:156 X2:562 Y1:484 Y2:516
+- The weather report said rain.
+
+585
+00:40:35,160 --> 00:40:37,754  X1:218 X2:499 Y1:484 Y2:510
+That's the last straw.
+
+586
+00:40:37,840 --> 00:40:39,637  X1:198 X2:521 Y1:484 Y2:516
+- But not us, hey Marta?
+
+587
+00:40:39,720 --> 00:40:42,075  X1:132 X2:586 Y1:484 Y2:510
+We like it here even when it rains.
+
+588
+00:40:42,160 --> 00:40:46,119  X1:166 X2:552 Y1:484 Y2:515
+Then the water wheel works,
+
+589
+00:40:46,200 --> 00:40:49,749  X1:196 X2:522 Y1:448 Y2:516
+and I'll tell you the story
+about the water-sprite.
+
+590
+00:40:50,800 --> 00:40:53,519  X1:162 X2:556 Y1:484 Y2:516
+- This really is a lovely place.
+
+591
+00:40:54,600 --> 00:40:57,398  X1:129 X2:590 Y1:484 Y2:516
+- Do you know what we love best?
+
+592
+00:40:58,720 --> 00:41:00,312  X1:215 X2:503 Y1:484 Y2:516
+- The early mornings.
+
+593
+00:41:00,400 --> 00:41:02,516  X1:320 X2:398 Y1:484 Y2:510
+- Yes.
+
+594
+00:41:03,120 --> 00:41:04,951  X1:237 X2:481 Y1:484 Y2:516
+And the evenings.
+
+595
+00:41:05,040 --> 00:41:09,238  X1:248 X2:471 Y1:484 Y2:510
+We lie and listen
+
+596
+00:41:09,320 --> 00:41:11,356  X1:225 X2:492 Y1:484 Y2:516
+to the frogs tooting.
+
+597
+00:41:11,520 --> 00:41:14,830  X1:101 X2:616 Y1:484 Y2:516
+Such an unpleasant sound elsewhere.
+
+598
+00:41:15,160 --> 00:41:16,798  X1:240 X2:479 Y1:484 Y2:516
+Here they just do:
+
+599
+00:41:19,960 --> 00:41:21,996  X1:262 X2:455 Y1:484 Y2:516
+- Higher, dear!
+
+600
+00:41:30,920 --> 00:41:33,559  X1:167 X2:553 Y1:484 Y2:516
+What do you do about mice?
+
+601
+00:41:56,960 --> 00:41:59,076  X1:211 X2:508 Y1:448 Y2:516
+Great, what?
+- Are they for supper?
+
+602
+00:41:59,160 --> 00:42:01,549  X1:234 X2:483 Y1:484 Y2:510
+- Yes. Don't touch!
+
+603
+00:42:01,640 --> 00:42:04,359  X1:109 X2:610 Y1:484 Y2:516
+Ask your Dad to bring some water in!
+
+604
+00:42:04,440 --> 00:42:06,795  X1:156 X2:561 Y1:484 Y2:510
+This oven bakes like a dream!
+
+605
+00:42:06,880 --> 00:42:08,472  X1:215 X2:502 Y1:484 Y2:516
+- I never tried baking.
+
+606
+00:42:08,560 --> 00:42:11,870  X1:108 X2:610 Y1:484 Y2:510
+Hasn't been used since the wife died.
+
+607
+00:42:13,880 --> 00:42:15,438  X1:171 X2:546 Y1:484 Y2:516
+She baked a good cake too.
+
+608
+00:42:15,520 --> 00:42:18,193  X1:155 X2:561 Y1:448 Y2:516
+- I'm leaving them to cool,
+then I'll ask you to taste them.
+
+609
+00:42:19,600 --> 00:42:22,831  X1:192 X2:526 Y1:448 Y2:515
+Does the water flow or...
+- Quite, children!
+
+610
+00:42:22,920 --> 00:42:26,595  X1:142 X2:577 Y1:448 Y2:516
+Yes, that's them!
+Take the pail back, I want to talk
+
+611
+00:42:26,680 --> 00:42:28,875  X1:245 X2:471 Y1:484 Y2:510
+to Mr. Lawrence.
+
+612
+00:42:47,640 --> 00:42:49,232  X1:306 X2:412 Y1:448 Y2:510
+Water!
+- Water!
+
+613
+00:42:49,320 --> 00:42:51,754  X1:238 X2:479 Y1:484 Y2:516
+- Aren't you good.
+
+614
+00:42:51,840 --> 00:42:54,035  X1:192 X2:525 Y1:484 Y2:516
+- Mummy, look, the goat!
+
+615
+00:42:54,560 --> 00:42:58,633  X1:169 X2:549 Y1:448 Y2:516
+- Look how hungry she was.
+- God, my cakes!
+
+616
+00:42:58,720 --> 00:43:01,951  X1:287 X2:432 Y1:448 Y2:510
+- Let go!
+You beast!
+
+617
+00:43:02,920 --> 00:43:06,959  X1:264 X2:454 Y1:448 Y2:516
+Greedy thing!
+Greedy! Goat!
+
+618
+00:43:11,680 --> 00:43:14,035  X1:186 X2:532 Y1:448 Y2:510
+Mr. Komarek, look at this!
+Just look at this!
+
+619
+00:43:14,120 --> 00:43:17,192  X1:132 X2:586 Y1:448 Y2:516
+- What is it?
+- Why don't you keep her tied up?
+
+620
+00:43:17,280 --> 00:43:20,431  X1:226 X2:493 Y1:484 Y2:515
+Ate six, bit into two.
+
+621
+00:43:20,920 --> 00:43:24,799  X1:200 X2:518 Y1:448 Y2:516
+- Damned glutton!
+She's greedy, the devil!
+
+622
+00:43:24,880 --> 00:43:29,749  X1:201 X2:516 Y1:448 Y2:516
+- Our supper gone.
+- Don't worry about me,
+
+623
+00:43:30,440 --> 00:43:34,433  X1:140 X2:577 Y1:448 Y2:516
+I'll finish those she started.
+- Hardly enough for the children.
+
+624
+00:43:36,400 --> 00:43:38,994  X1:195 X2:522 Y1:484 Y2:516
+- Father gets a tin again.
+
+625
+00:43:40,440 --> 00:43:43,671  X1:271 X2:446 Y1:448 Y2:516
+Get out, you!
+Get out, you!
+
+626
+00:43:44,400 --> 00:43:46,470  X1:281 X2:438 Y1:484 Y2:516
+Impossible,
+
+627
+00:43:46,560 --> 00:43:48,869  X1:148 X2:571 Y1:484 Y2:516
+life with the hen-coop and goat.
+
+628
+00:43:48,960 --> 00:43:52,509  X1:173 X2:544 Y1:484 Y2:510
+- Don't be cross. Taste this!
+
+629
+00:43:52,640 --> 00:43:55,871  X1:277 X2:440 Y1:448 Y2:510
+- No thanks.
+- Come on!
+
+630
+00:44:00,040 --> 00:44:01,473  X1:234 X2:485 Y1:484 Y2:515
+Real cream, what?
+
+631
+00:44:03,640 --> 00:44:05,119  X1:275 X2:442 Y1:484 Y2:510
+Goat cream!
+
+632
+00:44:44,120 --> 00:44:46,315  X1:208 X2:512 Y1:484 Y2:516
+It's you, Mr. Komarek?
+
+633
+00:44:46,400 --> 00:44:49,392  X1:210 X2:508 Y1:484 Y2:516
+I didn't recognize you.
+
+634
+00:44:49,480 --> 00:44:51,630  X1:151 X2:567 Y1:484 Y2:516
+- You're a peach, Mr. Komarek!
+
+635
+00:44:51,720 --> 00:44:54,712  X1:168 X2:549 Y1:484 Y2:516
+- Well, a funeral, you know...
+
+636
+00:44:54,840 --> 00:44:57,798  X1:270 X2:448 Y1:448 Y2:510
+- Who died?
+- Old Petrina.
+
+637
+00:44:57,880 --> 00:44:59,950  X1:189 X2:530 Y1:484 Y2:516
+He was ill for a long time.
+
+638
+00:45:00,080 --> 00:45:02,674  X1:256 X2:462 Y1:484 Y2:515
+Well, that's life.
+
+639
+00:45:03,240 --> 00:45:05,549  X1:242 X2:476 Y1:484 Y2:515
+Come and watch,
+
+640
+00:45:05,640 --> 00:45:07,312  X1:208 X2:510 Y1:484 Y2:516
+it'll be a grand funeral.
+
+641
+00:45:07,400 --> 00:45:09,277  X1:145 X2:573 Y1:484 Y2:516
+The priest is coming from Brod.
+
+642
+00:45:09,360 --> 00:45:12,033  X1:188 X2:529 Y1:484 Y2:510
+- We're not dressed for it.
+
+643
+00:45:12,120 --> 00:45:15,157  X1:126 X2:592 Y1:484 Y2:510
+- Mum! We want to see the funeral!
+
+644
+00:45:15,640 --> 00:45:18,108  X1:180 X2:538 Y1:484 Y2:510
+- We want to see a funeral!
+
+645
+00:45:18,200 --> 00:45:19,758  X1:120 X2:597 Y1:484 Y2:510
+- The children should see a funeral.
+
+646
+00:45:19,840 --> 00:45:22,035  X1:272 X2:446 Y1:484 Y2:510
+- Just watch!
+
+647
+00:45:22,120 --> 00:45:24,429  X1:141 X2:578 Y1:484 Y2:516
+You needn't join the procession!
+
+648
+00:46:07,840 --> 00:46:09,796  X1:206 X2:513 Y1:484 Y2:516
+We sing this at school.
+
+649
+00:46:09,880 --> 00:46:11,632  X1:225 X2:494 Y1:484 Y2:516
+Is it a funeral song?
+
+650
+00:46:11,720 --> 00:46:14,792  X1:090 X2:627 Y1:484 Y2:516
+- No, probably the deceased's favourite.
+
+651
+00:46:14,880 --> 00:46:18,156  X1:204 X2:514 Y1:484 Y2:515
+- Who is Mr. Deceased,
+
+652
+00:46:18,880 --> 00:46:20,393  X1:185 X2:532 Y1:484 Y2:516
+the one with the trumpet?
+
+653
+00:46:20,480 --> 00:46:23,199  X1:098 X2:620 Y1:448 Y2:516
+- No, no!
+The one with the trumpet's a musician.
+
+654
+00:46:23,280 --> 00:46:24,793  X1:118 X2:600 Y1:484 Y2:510
+The 'deceased' is the one who died.
+
+655
+00:46:24,880 --> 00:46:27,110  X1:188 X2:530 Y1:448 Y2:510
+When somebody dies,
+he's called the deceased.
+
+656
+00:46:27,200 --> 00:46:30,476  X1:142 X2:577 Y1:484 Y2:516
+- But why if that's not his name?
+
+657
+00:46:30,560 --> 00:46:33,518  X1:242 X2:475 Y1:484 Y2:515
+- He is deceased,
+
+658
+00:46:33,600 --> 00:46:35,875  X1:200 X2:519 Y1:484 Y2:510
+but his name is Petrina.
+
+659
+00:46:46,080 --> 00:46:48,071  X1:219 X2:499 Y1:484 Y2:516
+Mummy, he's crying.
+
+660
+00:46:48,160 --> 00:46:50,958  X1:248 X2:470 Y1:484 Y2:516
+- Don't cry, love!
+
+661
+00:46:51,080 --> 00:46:53,196  X1:236 X2:483 Y1:484 Y2:515
+He was old and ill,
+
+662
+00:46:53,280 --> 00:46:55,555  X1:218 X2:501 Y1:484 Y2:516
+and glad to die, see?
+
+663
+00:46:55,640 --> 00:46:57,631  X1:196 X2:521 Y1:484 Y2:510
+- But I don't understand.
+
+664
+00:46:57,720 --> 00:47:02,430  X1:083 X2:635 Y1:448 Y2:515
+- What?
+- Who died, Mr. Petrina or Mr. Deceased?
+
+665
+00:47:03,120 --> 00:47:05,680  X1:243 X2:475 Y1:484 Y2:516
+- I'll explain later.
+
+666
+00:47:30,560 --> 00:47:33,199  X1:225 X2:493 Y1:484 Y2:516
+It's a bit overgrown!
+
+667
+00:47:33,800 --> 00:47:36,633  X1:217 X2:501 Y1:484 Y2:510
+There's never time...
+
+668
+00:47:36,960 --> 00:47:39,474  X1:203 X2:515 Y1:484 Y2:516
+- Your wife died young.
+
+669
+00:47:39,560 --> 00:47:42,233  X1:117 X2:601 Y1:484 Y2:516
+- Not a single grey hair on her head!
+
+670
+00:47:44,960 --> 00:47:47,520  X1:207 X2:511 Y1:484 Y2:510
+A weak chest she had.
+
+671
+00:47:48,320 --> 00:47:52,199  X1:148 X2:572 Y1:448 Y2:516
+I had,, When I Put the Horse out
+to Pasture" played for her.
+
+672
+00:47:53,000 --> 00:47:55,036  X1:252 X2:467 Y1:484 Y2:516
+It was her song.
+
+673
+00:47:57,920 --> 00:48:01,117  X1:205 X2:513 Y1:484 Y2:516
+I'll be going to the pub.
+
+674
+00:48:03,560 --> 00:48:05,118  X1:259 X2:460 Y1:484 Y2:516
+Well, goodbye!
+
+675
+00:48:05,200 --> 00:48:07,191  X1:284 X2:434 Y1:484 Y2:516
+- Goodbye!
+
+676
+00:48:25,560 --> 00:48:29,997  X1:138 X2:581 Y1:448 Y2:510
+Are they going to cry at the pub?
+- No.
+
+677
+00:48:30,080 --> 00:48:34,915  X1:140 X2:577 Y1:448 Y2:516
+They buried him, played for him,
+they can do no more for him,
+
+678
+00:48:35,000 --> 00:48:38,117  X1:177 X2:541 Y1:484 Y2:516
+that's life, now they can go
+
+679
+00:48:38,200 --> 00:48:41,237  X1:206 X2:511 Y1:484 Y2:516
+and enjoy themselves.
+
+680
+00:48:41,400 --> 00:48:43,630  X1:153 X2:566 Y1:448 Y2:516
+Don't keep pinching bilberries,
+so your mother sees
+
+681
+00:48:43,720 --> 00:48:45,676  X1:195 X2:523 Y1:484 Y2:510
+how rich the forests are.
+
+682
+00:48:45,760 --> 00:48:47,671  X1:258 X2:459 Y1:484 Y2:510
+- A mushroom!
+
+683
+00:48:49,240 --> 00:48:51,276  X1:296 X2:422 Y1:484 Y2:516
+- Typical!
+
+684
+00:48:51,360 --> 00:48:54,113  X1:281 X2:438 Y1:484 Y2:510
+Mum! Mum!
+
+685
+00:48:57,760 --> 00:49:00,228  X1:312 X2:405 Y1:448 Y2:510
+- Mum!
+- Mum!
+
+686
+00:49:00,320 --> 00:49:04,598  X1:157 X2:561 Y1:484 Y2:510
+Look how rich the forests are!
+
+687
+00:49:04,680 --> 00:49:07,558  X1:128 X2:590 Y1:484 Y2:516
+- You picked them all by yourself?
+
+688
+00:49:07,640 --> 00:49:09,312  X1:283 X2:434 Y1:484 Y2:515
+- Well, no...
+
+689
+00:49:09,600 --> 00:49:12,797  X1:130 X2:588 Y1:484 Y2:516
+Look at the garden Mummy made!
+
+690
+00:49:12,880 --> 00:49:14,632  X1:253 X2:467 Y1:484 Y2:516
+All by yourself?
+
+691
+00:49:14,720 --> 00:49:18,349  X1:180 X2:537 Y1:484 Y2:516
+- But the fence is your job!
+
+692
+00:49:18,840 --> 00:49:22,753  X1:114 X2:605 Y1:484 Y2:516
+You picked them by yourself, Peter?
+
+693
+00:49:22,840 --> 00:49:24,432  X1:270 X2:448 Y1:448 Y2:510
+Twice.
+- How's that?
+
+694
+00:49:24,520 --> 00:49:26,909  X1:255 X2:463 Y1:484 Y2:516
+- I spilled them.
+
+695
+00:50:05,720 --> 00:50:10,396  X1:182 X2:535 Y1:448 Y2:510
+This'll be the scene
+when we're all alone here.
+
+696
+00:50:10,600 --> 00:50:13,068  X1:167 X2:552 Y1:484 Y2:516
+- Will we do nothing but eat?
+
+697
+00:50:13,160 --> 00:50:16,357  X1:202 X2:516 Y1:484 Y2:515
+We'll eat and sunbathe,
+
+698
+00:50:16,440 --> 00:50:18,351  X1:235 X2:483 Y1:484 Y2:516
+and go swimming,
+
+699
+00:50:18,720 --> 00:50:23,396  X1:209 X2:509 Y1:484 Y2:516
+and paint the house...
+
+700
+00:50:23,480 --> 00:50:26,040  X1:237 X2:481 Y1:448 Y2:510
+- And fool around!
+- That too.
+
+701
+00:50:28,200 --> 00:50:29,952  X1:192 X2:527 Y1:484 Y2:510
+It's ideal for the children.
+
+702
+00:50:33,800 --> 00:50:37,952  X1:151 X2:568 Y1:484 Y2:516
+I always won every fight, Tony.
+
+703
+00:50:38,880 --> 00:50:42,395  X1:189 X2:529 Y1:484 Y2:516
+- Not any more you don't.
+
+704
+00:50:42,840 --> 00:50:46,150  X1:228 X2:490 Y1:484 Y2:516
+- I always beat you!
+
+705
+00:50:46,840 --> 00:50:49,149  X1:159 X2:559 Y1:484 Y2:516
+- You wouldn't beat me today.
+
+706
+00:50:50,240 --> 00:50:52,993  X1:282 X2:436 Y1:448 Y2:516
+- You?
+Every time!
+
+707
+00:50:54,400 --> 00:50:56,152  X1:255 X2:462 Y1:484 Y2:516
+- Not any more.
+
+708
+00:50:56,240 --> 00:51:00,631  X1:267 X2:450 Y1:484 Y2:510
+- Yes I would.
+
+709
+00:51:03,680 --> 00:51:06,194  X1:202 X2:516 Y1:484 Y2:515
+Come with us, forester.
+
+710
+00:51:06,280 --> 00:51:07,759  X1:292 X2:425 Y1:448 Y2:510
+- Where?
+- Outside!
+
+711
+00:51:07,840 --> 00:51:09,717  X1:292 X2:426 Y1:448 Y2:516
+- Right.
+- Let's go.
+
+712
+00:51:09,840 --> 00:51:11,398  X1:172 X2:546 Y1:484 Y2:516
+- Now you'll see something!
+
+713
+00:51:12,800 --> 00:51:15,030  X1:219 X2:499 Y1:484 Y2:516
+There's nothing to it!
+
+714
+00:51:15,120 --> 00:51:16,838  X1:222 X2:495 Y1:484 Y2:510
+- You've never tried!
+
+715
+00:51:16,920 --> 00:51:19,559  X1:208 X2:509 Y1:484 Y2:510
+- But I've seen it done.
+
+716
+00:51:20,360 --> 00:51:23,272  X1:220 X2:497 Y1:484 Y2:515
+Children, remember.
+
+717
+00:51:23,400 --> 00:51:27,075  X1:189 X2:530 Y1:484 Y2:516
+First speak to the animal,
+
+718
+00:51:27,320 --> 00:51:29,595  X1:202 X2:515 Y1:484 Y2:516
+so you don't frighten it.
+
+719
+00:51:29,760 --> 00:51:31,955  X1:194 X2:525 Y1:484 Y2:516
+Don't be scared, old girl!
+
+720
+00:51:32,040 --> 00:51:33,632  X1:233 X2:485 Y1:448 Y2:510
+- Her name's Jitka.
+- Don't be afraid!
+
+721
+00:51:33,720 --> 00:51:36,439  X1:157 X2:560 Y1:484 Y2:516
+- Your master's forgotten you,
+
+722
+00:51:36,520 --> 00:51:38,431  X1:237 X2:482 Y1:484 Y2:516
+but we'll help you.
+
+723
+00:51:38,520 --> 00:51:43,355  X1:155 X2:564 Y1:448 Y2:510
+Now I can sit,
+because she knows about me.
+
+724
+00:51:46,800 --> 00:51:49,598  X1:312 X2:405 Y1:448 Y2:510
+- Jitka!
+- Cow!
+
+725
+00:51:51,800 --> 00:51:54,439  X1:159 X2:559 Y1:448 Y2:516
+- No, don't be afraid, children!
+She's not rearing...
+
+726
+00:51:54,920 --> 00:51:57,718  X1:177 X2:541 Y1:484 Y2:516
+...just chasing the flies off.
+
+727
+00:52:08,480 --> 00:52:11,040  X1:285 X2:433 Y1:448 Y2:510
+Komarek!
+- Come on!
+
+728
+00:52:11,440 --> 00:52:14,034  X1:230 X2:488 Y1:448 Y2:516
+Get in there! Jenik!
+- Don't give up!
+
+729
+00:52:14,120 --> 00:52:16,953  X1:215 X2:503 Y1:484 Y2:510
+Go on! Go on! Go on!
+
+730
+00:52:18,000 --> 00:52:19,831  X1:135 X2:582 Y1:484 Y2:516
+Jenik, get in there! Don't give up!
+
+731
+00:52:20,280 --> 00:52:22,635  X1:259 X2:459 Y1:448 Y2:510
+- Jenik, at him!
+- At him!
+
+732
+00:52:23,200 --> 00:52:25,350  X1:219 X2:499 Y1:484 Y2:515
+- Jenik! Good, Jenik!
+
+733
+00:52:34,360 --> 00:52:38,353  X1:165 X2:552 Y1:448 Y2:510
+- Mr. Komarek! Mr. Komarek!
+- Here I am!
+
+734
+00:52:38,480 --> 00:52:41,153  X1:159 X2:558 Y1:448 Y2:516
+- Kick him!
+- Don't be afraid of him, Tony!
+
+735
+00:52:42,360 --> 00:52:43,952  X1:255 X2:462 Y1:448 Y2:510
+- Give it to him!
+- At him!
+
+736
+00:53:03,480 --> 00:53:05,152  X1:135 X2:583 Y1:484 Y2:510
+Shouldn't we fetch Mr. Komarek?
+
+737
+00:53:05,240 --> 00:53:06,992  X1:245 X2:473 Y1:484 Y2:510
+- Wait a moment!
+
+738
+00:53:08,440 --> 00:53:11,557  X1:213 X2:504 Y1:484 Y2:516
+This one's empty too.
+
+739
+00:53:12,200 --> 00:53:16,159  X1:147 X2:571 Y1:484 Y2:515
+He milked out two at lunchtime,
+
+740
+00:53:16,240 --> 00:53:19,550  X1:179 X2:539 Y1:484 Y2:510
+now I'll have to walk round
+
+741
+00:53:19,640 --> 00:53:22,996  X1:216 X2:502 Y1:484 Y2:510
+and do the other two.
+
+742
+00:53:27,440 --> 00:53:29,510  X1:131 X2:586 Y1:484 Y2:510
+That's it! That's it! Don't be afraid!
+
+743
+00:53:33,160 --> 00:53:34,957  X1:282 X2:436 Y1:484 Y2:516
+Empty, too.
+
+744
+00:53:35,480 --> 00:53:37,550  X1:094 X2:623 Y1:484 Y2:516
+So the situation has changed, children!
+
+745
+00:53:38,160 --> 00:53:42,790  X1:093 X2:626 Y1:484 Y2:516
+I think the delay turned her milk cheesy
+
+746
+00:53:43,200 --> 00:53:45,555  X1:138 X2:580 Y1:484 Y2:516
+and it stopped up the little holes.
+
+747
+00:53:46,000 --> 00:53:48,389  X1:136 X2:581 Y1:448 Y2:510
+Should have given him a Nelson!
+- I did.
+
+748
+00:53:48,480 --> 00:53:51,517  X1:196 X2:522 Y1:448 Y2:510
+- Fancy me not noticing.
+- It was that fast!
+
+749
+00:53:51,600 --> 00:53:53,750  X1:158 X2:560 Y1:448 Y2:516
+- Good evening, Mr. Komarek.
+You'll have to go home...
+
+750
+00:53:53,840 --> 00:53:56,957  X1:156 X2:561 Y1:448 Y2:516
+- Pity you didn't come sooner!
+...your cow...
+
+751
+00:53:57,040 --> 00:54:01,158  X1:227 X2:491 Y1:448 Y2:516
+- Take a seat!
+This is my Praguer.
+
+752
+00:54:01,320 --> 00:54:04,118  X1:191 X2:527 Y1:448 Y2:516
+- Hello. Kalous.
+- Good evening. Lavicka.
+
+753
+00:54:04,200 --> 00:54:05,952  X1:242 X2:475 Y1:448 Y2:515
+- You two've met.
+- Ah, Mr. Hruska.
+
+754
+00:54:06,040 --> 00:54:07,951  X1:238 X2:480 Y1:484 Y2:516
+- I beat him again!
+
+755
+00:54:08,920 --> 00:54:10,911  X1:272 X2:445 Y1:448 Y2:510
+This is Fiala.
+- Lavicka.
+
+756
+00:54:11,200 --> 00:54:16,149  X1:203 X2:516 Y1:484 Y2:510
+I would not advise that.
+
+757
+00:54:17,080 --> 00:54:20,868  X1:221 X2:498 Y1:484 Y2:516
+Everybody with re...
+
+758
+00:54:21,760 --> 00:54:24,228  X1:249 X2:469 Y1:448 Y2:510
+...haired person
+- Re... red...
+
+759
+00:54:24,400 --> 00:54:28,951  X1:287 X2:431 Y1:484 Y2:510
+- has ter...
+
+760
+00:54:29,400 --> 00:54:32,995  X1:201 X2:516 Y1:448 Y2:516
+...terribly.
+- Terribly... bitter meat.
+
+761
+00:54:33,080 --> 00:54:35,753  X1:206 X2:511 Y1:448 Y2:516
+- Yes.
+- Your tongue would...
+
+762
+00:54:36,040 --> 00:54:40,989  X1:305 X2:413 Y1:484 Y2:516
+...sting.
+
+763
+00:54:41,320 --> 00:54:43,276  X1:293 X2:424 Y1:484 Y2:516
+- Enough.
+
+764
+00:54:45,680 --> 00:54:47,989  X1:149 X2:569 Y1:484 Y2:516
+We sent the right messenger...!
+
+765
+00:54:49,480 --> 00:54:51,948  X1:218 X2:500 Y1:448 Y2:516
+Come, children!
+Hold the light for me.
+
+766
+00:55:12,360 --> 00:55:15,397  X1:267 X2:451 Y1:484 Y2:516
+Daddy said...
+
+767
+00:55:15,480 --> 00:55:18,438  X1:129 X2:588 Y1:448 Y2:516
+- Daddy's done his milking, Susie.
+Now I'll try!
+
+768
+00:55:19,200 --> 00:55:21,236  X1:203 X2:515 Y1:448 Y2:516
+Good night!
+- You beat me, Johnny!
+
+769
+00:55:21,320 --> 00:55:22,514  X1:270 X2:447 Y1:484 Y2:516
+- Good night!
+
+770
+00:55:22,600 --> 00:55:25,512  X1:154 X2:563 Y1:448 Y2:510
+Good night, Tony! Good night!
+- He beat him!
+
+771
+00:55:25,600 --> 00:55:27,511  X1:270 X2:447 Y1:484 Y2:516
+- Good night!
+
+772
+00:55:29,800 --> 00:55:34,749  X1:273 X2:446 Y1:484 Y2:516
+I slayed him!
+
+773
+00:55:36,720 --> 00:55:38,278  X1:111 X2:607 Y1:484 Y2:516
+- I wonder how you'd have got home,
+
+774
+00:55:38,360 --> 00:55:41,511  X1:172 X2:547 Y1:484 Y2:516
+had I not come to fetch you.
+
+775
+00:55:43,680 --> 00:55:46,035  X1:278 X2:440 Y1:448 Y2:510
+- What is it?
+- A hole!
+
+776
+00:55:46,120 --> 00:55:49,954  X1:167 X2:551 Y1:484 Y2:510
+- There's another over there!
+
+777
+00:55:50,800 --> 00:55:54,349  X1:151 X2:568 Y1:484 Y2:510
+I made a mincemeat of Hruska.
+
+778
+00:56:00,840 --> 00:56:02,193  X1:253 X2:467 Y1:448 Y2:510
+Where are you?
+- Here.
+
+779
+00:56:07,280 --> 00:56:09,350  X1:133 X2:587 Y1:484 Y2:516
+Have any matches, Mr. Komarek?
+
+780
+00:56:10,880 --> 00:56:12,518  X1:320 X2:398 Y1:484 Y2:510
+- Yes.
+
+781
+00:56:17,560 --> 00:56:19,278  X1:317 X2:400 Y1:484 Y2:510
+- Milk!
+
+782
+00:56:21,040 --> 00:56:23,474  X1:317 X2:400 Y1:484 Y2:510
+- Milk!
+
+783
+00:56:30,640 --> 00:56:34,872  X1:271 X2:447 Y1:484 Y2:510
+Have a taste!
+
+784
+00:56:35,440 --> 00:56:36,998  X1:299 X2:419 Y1:484 Y2:510
+- Can't...
+
+785
+00:56:37,080 --> 00:56:41,039  X1:190 X2:527 Y1:484 Y2:516
+- Haven't had a drink yet!
+
+786
+00:56:41,760 --> 00:56:44,228  X1:278 X2:441 Y1:448 Y2:510
+- I have.
+- You have?
+
+787
+00:56:44,320 --> 00:56:47,153  X1:187 X2:531 Y1:448 Y2:510
+- Yes.
+- Don't wake the children!
+
+788
+00:56:47,240 --> 00:56:48,753  X1:207 X2:511 Y1:484 Y2:516
+- Who did the milking?
+
+789
+00:56:49,800 --> 00:56:52,314  X1:177 X2:540 Y1:448 Y2:510
+- We did.
+The children shone for me.
+
+790
+00:56:52,400 --> 00:56:54,550  X1:215 X2:502 Y1:448 Y2:510
+- The children shone!
+- The children shone!
+
+791
+00:56:55,520 --> 00:57:00,469  X1:179 X2:539 Y1:448 Y2:515
+You in there, Mr. Komarek!
+You here, Olda!
+
+792
+00:57:00,560 --> 00:57:03,438  X1:217 X2:501 Y1:484 Y2:516
+- They held the lamp!
+
+793
+00:57:04,560 --> 00:57:07,552  X1:226 X2:492 Y1:484 Y2:516
+They held the lamp.
+
+794
+00:57:17,680 --> 00:57:19,910  X1:284 X2:435 Y1:484 Y2:510
+What now?
+
+795
+00:57:20,000 --> 00:57:23,356  X1:242 X2:477 Y1:448 Y2:516
+- That's music.
+He sure can play.
+
+796
+00:57:25,000 --> 00:57:28,117  X1:152 X2:566 Y1:484 Y2:516
+- Couldn't he wait till morning?
+
+797
+00:57:30,720 --> 00:57:32,870  X1:302 X2:416 Y1:484 Y2:510
+- I'll ask.
+
+798
+00:57:43,240 --> 00:57:45,310  X1:259 X2:460 Y1:484 Y2:510
+What do I ask?
+
+799
+00:57:45,400 --> 00:57:48,358  X1:163 X2:555 Y1:448 Y2:516
+- If he could wait till morning.
+- Alright.
+
+800
+00:58:27,040 --> 00:58:28,792  X1:300 X2:418 Y1:484 Y2:510
+He can't.
+
+801
+00:58:36,840 --> 00:58:38,751  X1:177 X2:540 Y1:484 Y2:516
+- This is and awful holiday!
+
+802
+00:58:38,840 --> 00:58:42,469  X1:128 X2:591 Y1:448 Y2:516
+In the morning that old motor-saw,
+at night he plays the violin.
+
+803
+00:58:44,360 --> 00:58:46,590  X1:256 X2:462 Y1:484 Y2:510
+- That's a viola.
+
+804
+00:59:14,600 --> 00:59:18,149  X1:136 X2:581 Y1:448 Y2:516
+He just says he'll sell the cow
+and won't sow again next spring.
+
+805
+00:59:18,360 --> 00:59:21,670  X1:176 X2:543 Y1:448 Y2:516
+- It's impregnated,
+but the damp could spoil it.
+
+806
+00:59:21,760 --> 00:59:23,352  X1:160 X2:557 Y1:484 Y2:516
+- But he's not doing anything.
+
+807
+00:59:23,440 --> 00:59:25,874  X1:140 X2:577 Y1:484 Y2:516
+- He's a slow country type, Vera!
+
+808
+00:59:25,960 --> 00:59:27,473  X1:108 X2:610 Y1:484 Y2:516
+It takes him a while to get into action.
+
+809
+00:59:27,560 --> 00:59:30,358  X1:173 X2:544 Y1:484 Y2:510
+- We made a basic mistake!
+
+810
+00:59:30,760 --> 00:59:32,352  X1:125 X2:594 Y1:484 Y2:516
+- What are you looking for, Radim?
+
+811
+00:59:33,280 --> 00:59:34,872  X1:198 X2:520 Y1:484 Y2:515
+- We wine and dine him,
+
+812
+00:59:34,960 --> 00:59:37,520  X1:210 X2:507 Y1:484 Y2:516
+do his errands by car,
+
+813
+00:59:37,600 --> 00:59:39,670  X1:203 X2:514 Y1:484 Y2:516
+we're company for him
+
+814
+00:59:39,760 --> 00:59:42,832  X1:207 X2:512 Y1:448 Y2:516
+and we pay rent;
+he'd be crazy to move!
+
+815
+00:59:42,920 --> 00:59:45,388  X1:210 X2:508 Y1:484 Y2:516
+- Why not be friendly?
+
+816
+00:59:45,480 --> 00:59:48,278  X1:222 X2:495 Y1:448 Y2:510
+- We're overdoing it!
+Look at Kokes...
+
+817
+00:59:48,480 --> 00:59:48,992  X1:253 X2:464 Y1:484 Y2:510
+- I'm not sure...!
+
+818
+00:59:49,080 --> 00:59:51,799  X1:196 X2:523 Y1:448 Y2:510
+Expect me to dig a hole
+in front of his door too?!
+
+819
+00:59:51,880 --> 00:59:55,759  X1:188 X2:530 Y1:448 Y2:510
+- No! But we're practicing
+the other extreme!
+
+820
+00:59:58,080 --> 01:00:01,675  X1:163 X2:555 Y1:484 Y2:516
+- It just needs more patience.
+
+821
+01:00:02,120 --> 01:00:03,553  X1:165 X2:553 Y1:484 Y2:516
+- And don't give him a break!
+
+822
+01:00:03,640 --> 01:00:06,632  X1:205 X2:514 Y1:448 Y2:515
+Keep asking him!
+Has he written his son,
+
+823
+01:00:06,720 --> 01:00:08,836  X1:133 X2:585 Y1:484 Y2:516
+has he found a buyer for the cow!
+
+824
+01:00:08,920 --> 01:00:11,559  X1:092 X2:626 Y1:484 Y2:516
+And start wading through the red tape...
+
+825
+01:00:14,240 --> 01:00:17,152  X1:109 X2:609 Y1:448 Y2:510
+- Mr. Miller, you promised to show us
+the mill wheel
+
+826
+01:00:17,240 --> 01:00:20,232  X1:118 X2:599 Y1:484 Y2:516
+when there's enough water, and tell
+
+827
+01:00:20,320 --> 01:00:24,916  X1:205 X2:512 Y1:448 Y2:516
+that water-sprite story.
+- Yes, the story.
+
+828
+01:00:30,160 --> 01:00:32,799  X1:210 X2:508 Y1:484 Y2:516
+Today's the day, then.
+
+829
+01:00:46,280 --> 01:00:49,795  X1:193 X2:527 Y1:448 Y2:516
+Now I'll tell you the story
+of the water-sprite
+
+830
+01:00:50,720 --> 01:00:54,235  X1:208 X2:508 Y1:484 Y2:516
+who helped the miller.
+
+831
+01:00:54,680 --> 01:00:57,956  X1:119 X2:598 Y1:484 Y2:510
+- Remember we have children here!
+
+832
+01:00:58,040 --> 01:01:01,191  X1:211 X2:507 Y1:448 Y2:515
+- I know.
+The miller stood here,
+
+833
+01:01:01,280 --> 01:01:02,713  X1:209 X2:510 Y1:484 Y2:516
+he set the thing going,
+
+834
+01:01:02,800 --> 01:01:05,360  X1:167 X2:550 Y1:484 Y2:516
+then he was fetched away...
+
+835
+01:02:01,520 --> 01:02:03,590  X1:168 X2:550 Y1:484 Y2:516
+It's only a legend, of course!
+
+836
+01:02:04,680 --> 01:02:07,513  X1:179 X2:538 Y1:484 Y2:516
+- I'd love to hear that again
+
+837
+01:02:07,600 --> 01:02:11,388  X1:181 X2:536 Y1:484 Y2:516
+when it's quiet some time!
+
+838
+01:02:11,800 --> 01:02:15,554  X1:128 X2:590 Y1:484 Y2:516
+- So they want to hear it again too!
+
+839
+01:02:15,640 --> 01:02:17,949  X1:220 X2:498 Y1:484 Y2:516
+Everybody enjoys it!
+
+840
+01:02:18,600 --> 01:02:23,196  X1:245 X2:472 Y1:484 Y2:510
+Goat! You beast!
+
+841
+01:02:25,040 --> 01:02:28,749  X1:265 X2:453 Y1:484 Y2:510
+Goat! Goatee!
+
+842
+01:02:32,000 --> 01:02:33,752  X1:253 X2:467 Y1:484 Y2:516
+Where are you?
+
+843
+01:02:34,600 --> 01:02:38,798  X1:280 X2:437 Y1:484 Y2:510
+Come here!
+
+844
+01:02:39,920 --> 01:02:41,990  X1:265 X2:453 Y1:484 Y2:510
+Goat! Goatee!
+
+845
+01:02:43,520 --> 01:02:45,317  X1:248 X2:471 Y1:484 Y2:516
+Damned glutton!
+
+846
+01:02:58,280 --> 01:03:00,748  X1:196 X2:522 Y1:484 Y2:515
+Some idiot, Mr. Miller is.
+
+847
+01:03:02,600 --> 01:03:04,397  X1:267 X2:452 Y1:484 Y2:516
+No! Hey! Hey!
+
+848
+01:03:16,800 --> 01:03:19,360  X1:288 X2:432 Y1:448 Y2:510
+What is it?
+- A flea!
+
+849
+01:03:24,960 --> 01:03:28,316  X1:250 X2:468 Y1:484 Y2:510
+- Some insect...
+
+850
+01:03:29,600 --> 01:03:32,114  X1:210 X2:508 Y1:484 Y2:516
+- I saw it jump in here.
+
+851
+01:03:32,200 --> 01:03:34,316  X1:155 X2:563 Y1:484 Y2:516
+- A little grass-hopper, maybe!
+
+852
+01:03:34,400 --> 01:03:36,789  X1:182 X2:536 Y1:484 Y2:516
+- Grass-hopper, my foot...!
+
+853
+01:03:38,680 --> 01:03:43,196  X1:214 X2:504 Y1:448 Y2:510
+- I'm itching, Mummy!
+- So am I!
+
+854
+01:03:43,440 --> 01:03:45,192  X1:271 X2:446 Y1:484 Y2:510
+- Let me see!
+
+855
+01:03:49,240 --> 01:03:51,390  X1:245 X2:472 Y1:448 Y2:510
+Just look at this!
+Look at this!
+
+856
+01:03:51,480 --> 01:03:54,552  X1:174 X2:544 Y1:448 Y2:510
+Your grass-hoppers!
+- How could there be fleas?
+
+857
+01:03:54,640 --> 01:03:56,631  X1:255 X2:462 Y1:484 Y2:516
+- From the dog!
+
+858
+01:03:56,720 --> 01:03:58,950  X1:159 X2:559 Y1:484 Y2:516
+I told you it keeps scratching!
+
+859
+01:03:59,640 --> 01:04:02,393  X1:190 X2:528 Y1:484 Y2:516
+- Komarek said dog fleas
+
+860
+01:04:02,480 --> 01:04:04,516  X1:223 X2:495 Y1:484 Y2:516
+don't bother people!
+
+861
+01:04:04,600 --> 01:04:06,716  X1:274 X2:444 Y1:484 Y2:510
+- I don't care
+
+862
+01:04:06,800 --> 01:04:08,950  X1:264 X2:452 Y1:484 Y2:516
+what he says.
+
+863
+01:04:09,160 --> 01:04:11,515  X1:259 X2:460 Y1:484 Y2:510
+We're all bitten
+
+864
+01:04:12,680 --> 01:04:15,911  X1:138 X2:581 Y1:448 Y2:510
+and I refuse to spend my holiday
+in a flea-hole!
+
+865
+01:04:16,000 --> 01:04:18,275  X1:169 X2:549 Y1:484 Y2:516
+- Where've you got to, goat?
+
+866
+01:04:18,360 --> 01:04:20,157  X1:305 X2:412 Y1:484 Y2:510
+Goatee!
+
+867
+01:04:20,600 --> 01:04:23,478  X1:221 X2:497 Y1:484 Y2:516
+Do as you like, then!
+
+868
+01:04:23,840 --> 01:04:25,876  X1:274 X2:445 Y1:484 Y2:516
+You still up?
+
+869
+01:04:25,960 --> 01:04:28,030  X1:242 X2:475 Y1:484 Y2:516
+- We've got fleas!
+
+870
+01:04:28,120 --> 01:04:30,395  X1:278 X2:441 Y1:448 Y2:516
+- You have?
+Good night!
+
+871
+01:04:50,240 --> 01:04:52,071  X1:233 X2:485 Y1:484 Y2:515
+Mind out, children!
+
+872
+01:04:54,600 --> 01:04:56,113  X1:224 X2:495 Y1:484 Y2:516
+Keep your distance!
+
+873
+01:04:56,200 --> 01:04:58,760  X1:193 X2:525 Y1:448 Y2:510
+- First show him it's you,
+so he's not scared!
+
+874
+01:04:59,440 --> 01:05:02,034  X1:188 X2:529 Y1:484 Y2:515
+- It's me, don't be scared!
+
+875
+01:05:02,320 --> 01:05:05,551  X1:212 X2:506 Y1:448 Y2:510
+Come here! Come on!
+Come here Isha!
+
+876
+01:05:08,040 --> 01:05:11,953  X1:256 X2:462 Y1:448 Y2:510
+Don't be afraid!
+Hold still!
+
+877
+01:05:13,160 --> 01:05:15,071  X1:223 X2:495 Y1:484 Y2:510
+You'll fell better too!
+
+878
+01:05:18,400 --> 01:05:19,833  X1:256 X2:462 Y1:484 Y2:510
+Don't be afraid!
+
+879
+01:05:22,400 --> 01:05:24,038  X1:300 X2:418 Y1:484 Y2:510
+That's it!
+
+880
+01:05:24,240 --> 01:05:26,708  X1:179 X2:538 Y1:448 Y2:516
+- Those are only dog fleas,
+people don't catch them!
+
+881
+01:05:26,800 --> 01:05:29,951  X1:249 X2:469 Y1:484 Y2:515
+- Hold still, Isha!
+
+882
+01:05:30,160 --> 01:05:32,151  X1:245 X2:472 Y1:484 Y2:510
+- The kennel too!
+
+883
+01:05:32,240 --> 01:05:35,630  X1:235 X2:482 Y1:484 Y2:515
+- Come here, Isha!
+
+884
+01:05:35,960 --> 01:05:38,030  X1:325 X2:394 Y1:484 Y2:510
+Wait!
+
+885
+01:05:40,200 --> 01:05:41,599  X1:297 X2:420 Y1:448 Y2:516
+- Devil!
+- Doggie!
+
+886
+01:05:41,680 --> 01:05:43,318  X1:248 X2:469 Y1:484 Y2:516
+- Show yourself!
+
+887
+01:05:43,400 --> 01:05:44,196  X1:198 X2:521 Y1:484 Y2:510
+- Is Mr. Komarek home?
+
+888
+01:05:44,280 --> 01:05:46,191  X1:249 X2:468 Y1:484 Y2:515
+- He is, come in!
+
+889
+01:05:47,600 --> 01:05:50,990  X1:162 X2:557 Y1:448 Y2:510
+Doesn't your dog have fleas?
+- Yes.
+
+890
+01:05:51,080 --> 01:05:53,753  X1:189 X2:529 Y1:448 Y2:516
+But only dog fleas,
+people don't catch those.
+
+891
+01:05:54,520 --> 01:05:57,717  X1:177 X2:542 Y1:484 Y2:516
+I've had just about enough.
+
+892
+01:05:57,880 --> 01:06:01,509  X1:174 X2:545 Y1:484 Y2:516
+How can I make any plans?
+
+893
+01:06:02,640 --> 01:06:05,552  X1:135 X2:584 Y1:448 Y2:510
+You'll have to talk to him.
+He must tell us will he sell or not!
+
+894
+01:06:05,640 --> 01:06:10,111  X1:162 X2:558 Y1:448 Y2:516
+- He promised to sell the cow
+and not sow again in spring.
+
+895
+01:06:10,200 --> 01:06:12,475  X1:165 X2:553 Y1:448 Y2:510
+- Has he written to Slovakia?
+He hasn't.
+
+896
+01:06:12,560 --> 01:06:14,152  X1:128 X2:592 Y1:448 Y2:516
+Has he found a buyer for the cow?
+Nope.
+
+897
+01:06:14,240 --> 01:06:16,708  X1:232 X2:486 Y1:484 Y2:516
+He's done nothing!
+
+898
+01:06:16,800 --> 01:06:18,518  X1:182 X2:535 Y1:484 Y2:510
+- We should remind him...
+
+899
+01:06:18,600 --> 01:06:21,114  X1:219 X2:499 Y1:484 Y2:516
+- I can just see you...
+
+900
+01:06:21,200 --> 01:06:24,192  X1:178 X2:540 Y1:448 Y2:516
+You must speak forcefully!
+Will you sell out? When?
+
+901
+01:06:24,280 --> 01:06:26,953  X1:135 X2:584 Y1:448 Y2:516
+You won't sell out?
+Alright, we'll find something else.
+
+902
+01:06:30,120 --> 01:06:31,758  X1:293 X2:424 Y1:484 Y2:510
+Come on!
+
+903
+01:06:31,840 --> 01:06:33,751  X1:155 X2:562 Y1:448 Y2:510
+Good afternoon, Mr. Komarek.
+- Good afternoon!
+
+904
+01:06:33,840 --> 01:06:36,400  X1:168 X2:551 Y1:448 Y2:510
+- God bless!
+- Have some coffee with us?
+
+905
+01:06:36,480 --> 01:06:38,755  X1:230 X2:488 Y1:484 Y2:516
+- Well, if you insist.
+
+906
+01:06:41,880 --> 01:06:44,440  X1:259 X2:458 Y1:448 Y2:516
+- Here you are.
+- Thank you.
+
+907
+01:06:46,000 --> 01:06:48,992  X1:254 X2:465 Y1:448 Y2:516
+I might break it!
+Here you are.
+
+908
+01:06:49,280 --> 01:06:51,840  X1:191 X2:528 Y1:484 Y2:516
+I'm used to my own mug.
+
+909
+01:06:51,920 --> 01:06:54,559  X1:298 X2:420 Y1:484 Y2:516
+- Right...
+
+910
+01:07:37,360 --> 01:07:41,239  X1:187 X2:532 Y1:484 Y2:516
+Autumn's drawing near...
+
+911
+01:07:41,440 --> 01:07:43,749  X1:241 X2:477 Y1:484 Y2:516
+- Doesn't time fly.
+
+912
+01:07:47,280 --> 01:07:51,637  X1:130 X2:588 Y1:448 Y2:510
+- What are your plans afterwards?
+- Afterwards?
+
+913
+01:07:51,720 --> 01:07:54,757  X1:148 X2:570 Y1:484 Y2:516
+Winter'll be coming, the snow...
+
+914
+01:07:55,040 --> 01:07:57,508  X1:203 X2:516 Y1:484 Y2:510
+- What about Slovakia?
+
+915
+01:07:57,600 --> 01:08:00,034  X1:162 X2:555 Y1:484 Y2:516
+- They have hard winters too.
+
+916
+01:08:00,120 --> 01:08:01,473  X1:300 X2:418 Y1:484 Y2:510
+Oh dear!
+
+917
+01:08:01,560 --> 01:08:03,357  X1:241 X2:478 Y1:448 Y2:510
+My son wrote...
+- So he's written?
+
+918
+01:08:03,440 --> 01:08:06,671  X1:130 X2:588 Y1:484 Y2:516
+- They have snow-drifts 2 m. High!
+
+919
+01:08:06,760 --> 01:08:08,830  X1:178 X2:541 Y1:448 Y2:510
+- Of course, in Slovakia...
+We went to Slovakia and...
+
+920
+01:08:08,960 --> 01:08:11,872  X1:122 X2:596 Y1:484 Y2:516
+- We want to talk about the cottage.
+
+921
+01:08:11,960 --> 01:08:14,758  X1:195 X2:522 Y1:484 Y2:516
+- Yes, you should buy it.
+
+922
+01:08:14,840 --> 01:08:17,115  X1:169 X2:549 Y1:448 Y2:516
+Yes! It's all the same to you.
+- Exactly!
+
+923
+01:08:17,200 --> 01:08:19,873  X1:114 X2:604 Y1:484 Y2:510
+That's what we wanted to talk about.
+
+924
+01:08:19,960 --> 01:08:24,238  X1:199 X2:519 Y1:448 Y2:516
+- I'd keep my little room
+and the rest'd be yours.
+
+925
+01:08:24,720 --> 01:08:29,316  X1:116 X2:603 Y1:448 Y2:516
+I'd keep an eye on the place for you,
+you'd have milk...
+
+926
+01:08:29,640 --> 01:08:33,155  X1:129 X2:589 Y1:484 Y2:510
+- You mean - live on here with us?
+
+927
+01:08:33,240 --> 01:08:35,993  X1:241 X2:476 Y1:448 Y2:516
+- Yes. When I die,
+it'll be all yours.
+
+928
+01:08:41,520 --> 01:08:43,795  X1:150 X2:567 Y1:484 Y2:510
+- We'll have to think about that.
+
+929
+01:08:43,880 --> 01:08:46,474  X1:161 X2:557 Y1:484 Y2:516
+We hadn't thought about that.
+
+930
+01:08:46,560 --> 01:08:49,870  X1:160 X2:560 Y1:484 Y2:516
+Don't we get along famously?
+
+931
+01:09:06,560 --> 01:09:08,516  X1:187 X2:533 Y1:484 Y2:516
+But it is great here, what?
+
+932
+01:09:09,240 --> 01:09:11,196  X1:255 X2:463 Y1:484 Y2:515
+- So look, Olda.
+
+933
+01:09:11,280 --> 01:09:14,875  X1:104 X2:614 Y1:448 Y2:510
+I finish here the day our holiday does!
+- No rush!
+
+934
+01:09:14,960 --> 01:09:16,518  X1:141 X2:576 Y1:448 Y2:516
+- It's as clear as daylight.
+- Everything will turn out alright!
+
+935
+01:09:16,600 --> 01:09:19,990  X1:099 X2:618 Y1:448 Y2:516
+- As clear as day! Nothing will change!
+Fleas, chicken droppings!
+
+936
+01:09:20,080 --> 01:09:23,356  X1:193 X2:526 Y1:448 Y2:516
+I'll put a harness on him!
+You'll groom him,
+
+937
+01:09:23,440 --> 01:09:25,908  X1:091 X2:627 Y1:448 Y2:516
+we'll be crammed into one damp room -
+and the only difference will be that
+
+938
+01:09:26,000 --> 01:09:28,150  X1:167 X2:550 Y1:448 Y2:516
+except that we'd pay 20,000!
+We'd be crazy!
+
+939
+01:09:28,240 --> 01:09:29,912  X1:227 X2:491 Y1:448 Y2:515
+Home, children!
+- Look here, Vera...
+
+940
+01:09:30,000 --> 01:09:33,310  X1:189 X2:529 Y1:448 Y2:510
+- Make your choice.
+Either me or the old man.
+
+941
+01:09:38,680 --> 01:09:39,590  X1:248 X2:469 Y1:448 Y2:516
+Good morning!
+- Good morning!
+
+942
+01:09:39,680 --> 01:09:41,352  X1:234 X2:485 Y1:484 Y2:516
+- Hello, what's up?
+
+943
+01:09:41,440 --> 01:09:45,319  X1:195 X2:522 Y1:448 Y2:515
+- The kids are flea-bitten
+and Vera's worried,
+
+944
+01:09:45,400 --> 01:09:48,676  X1:165 X2:555 Y1:448 Y2:516
+They were dog-fleas,
+is there no danger of rabies?
+
+945
+01:09:48,760 --> 01:09:50,671  X1:195 X2:523 Y1:484 Y2:516
+Sorry to bother you, pal.
+
+946
+01:09:50,760 --> 01:09:52,352  X1:271 X2:446 Y1:484 Y2:510
+- Let me see!
+
+947
+01:10:01,040 --> 01:10:05,431  X1:133 X2:585 Y1:484 Y2:510
+We've never had this here before.
+
+948
+01:10:07,880 --> 01:10:10,838  X1:175 X2:545 Y1:448 Y2:516
+Where did you catch them?
+- At the cottage.
+
+949
+01:10:11,560 --> 01:10:16,509  X1:138 X2:580 Y1:484 Y2:516
+- I'll prescribe you some powder.
+
+950
+01:10:19,400 --> 01:10:23,075  X1:252 X2:467 Y1:448 Y2:510
+- Can I scratch?
+- Yes.
+
+951
+01:10:25,280 --> 01:10:30,149  X1:171 X2:548 Y1:448 Y2:516
+Listen Olda...
+Do mushrooms grow there?
+
+952
+01:10:31,040 --> 01:10:33,554  X1:283 X2:435 Y1:484 Y2:516
+- Tons, pal!
+
+953
+01:10:40,120 --> 01:10:43,510  X1:260 X2:459 Y1:448 Y2:510
+A lovely place.
+- I know.
+
+954
+01:10:43,600 --> 01:10:47,878  X1:170 X2:550 Y1:448 Y2:510
+But while Komarek's around
+Vera'll never be satisfied!
+
+955
+01:10:48,600 --> 01:10:51,831  X1:208 X2:510 Y1:448 Y2:516
+- He won't sell?
+- He wants us to buy it
+
+956
+01:10:51,920 --> 01:10:54,309  X1:234 X2:483 Y1:484 Y2:515
+with him included,
+
+957
+01:10:54,400 --> 01:10:56,789  X1:135 X2:582 Y1:484 Y2:510
+and we'd have to wait till he dies.
+
+958
+01:11:05,080 --> 01:11:08,356  X1:256 X2:462 Y1:448 Y2:516
+How old is he?
+- Over seventy.
+
+959
+01:11:09,520 --> 01:11:11,556  X1:173 X2:546 Y1:484 Y2:510
+- What did his father die of?
+
+960
+01:11:22,600 --> 01:11:25,512  X1:177 X2:542 Y1:484 Y2:516
+Heart and lungs are sound,
+
+961
+01:11:26,400 --> 01:11:28,550  X1:291 X2:429 Y1:484 Y2:516
+no vertigo
+
+962
+01:11:33,880 --> 01:11:36,394  X1:208 X2:511 Y1:484 Y2:510
+takes life with humour
+
+963
+01:11:42,360 --> 01:11:44,635  X1:226 X2:492 Y1:484 Y2:516
+digestion excellent!
+
+964
+01:11:46,400 --> 01:11:48,960  X1:185 X2:534 Y1:484 Y2:516
+He'll outlive us yet, chum!
+
+965
+01:12:00,880 --> 01:12:03,553  X1:188 X2:529 Y1:484 Y2:510
+This drives Vera berserk.
+
+966
+01:12:03,840 --> 01:12:08,470  X1:150 X2:568 Y1:448 Y2:516
+We just live with the animals
+and can't keep the place clean.
+
+967
+01:12:08,600 --> 01:12:10,352  X1:315 X2:402 Y1:484 Y2:510
+- Wait!
+
+968
+01:12:11,640 --> 01:12:13,517  X1:220 X2:500 Y1:484 Y2:516
+Has he got a visitor?
+
+969
+01:12:13,600 --> 01:12:16,990  X1:185 X2:532 Y1:484 Y2:515
+- No, he talks to the radio.
+
+970
+01:12:20,800 --> 01:12:23,917  X1:148 X2:570 Y1:484 Y2:516
+...I'll fulfil three wishes for you.
+
+971
+01:12:24,000 --> 01:12:25,752  X1:187 X2:530 Y1:484 Y2:516
+- Mind it's not a trap, boy!
+
+972
+01:12:26,400 --> 01:12:29,597  X1:159 X2:559 Y1:484 Y2:516
+He has nobody else to talk to.
+
+973
+01:12:33,720 --> 01:12:35,392  X1:205 X2:514 Y1:484 Y2:516
+We're going for a walk!
+
+974
+01:12:35,680 --> 01:12:38,353  X1:131 X2:586 Y1:448 Y2:516
+- He had three wishes and wasted
+two already.
+
+975
+01:12:43,680 --> 01:12:45,716  X1:207 X2:511 Y1:484 Y2:516
+The ants will help him,
+
+976
+01:12:45,800 --> 01:12:49,315  X1:200 X2:518 Y1:484 Y2:516
+he helped them out too.
+
+977
+01:13:43,520 --> 01:13:45,397  X1:288 X2:429 Y1:484 Y2:516
+Good day!
+
+978
+01:13:46,000 --> 01:13:47,991  X1:210 X2:509 Y1:484 Y2:515
+A bastard, that Kokes.
+
+979
+01:13:48,080 --> 01:13:50,071  X1:158 X2:561 Y1:484 Y2:516
+He's stuffed up their chimney.
+
+980
+01:13:50,160 --> 01:13:52,879  X1:202 X2:515 Y1:484 Y2:516
+They'll freeze in winter.
+
+981
+01:13:54,160 --> 01:13:57,755  X1:137 X2:581 Y1:448 Y2:516
+- What have they done to him?
+- Nothing. They don't want to die.
+
+982
+01:14:02,720 --> 01:14:04,676  X1:215 X2:503 Y1:484 Y2:516
+Water's the best way.
+
+983
+01:14:05,600 --> 01:14:09,115  X1:262 X2:457 Y1:484 Y2:516
+They jump out
+
+984
+01:14:09,200 --> 01:14:10,952  X1:177 X2:541 Y1:484 Y2:516
+from between your fingers.
+
+985
+01:14:12,360 --> 01:14:16,558  X1:236 X2:482 Y1:484 Y2:516
+This way it's sure.
+
+986
+01:14:18,880 --> 01:14:23,556  X1:120 X2:597 Y1:448 Y2:516
+- Would you care that the place had
+no electricity?
+
+987
+01:14:23,680 --> 01:14:27,639  X1:144 X2:574 Y1:448 Y2:516
+- Definitely not.
+You've got electricity in Prague.
+
+988
+01:14:27,760 --> 01:14:29,910  X1:102 X2:617 Y1:484 Y2:516
+D'you know what I'd do with that roof?
+
+989
+01:14:30,000 --> 01:14:32,036  X1:308 X2:409 Y1:448 Y2:510
+- Tile it.
+- Yes.
+
+990
+01:14:32,120 --> 01:14:34,111  X1:190 X2:529 Y1:484 Y2:516
+With old corrugated tiles.
+
+991
+01:14:34,200 --> 01:14:37,397  X1:132 X2:586 Y1:484 Y2:516
+And I'd let grass grow in the yard.
+
+992
+01:14:37,840 --> 01:14:40,115  X1:266 X2:452 Y1:484 Y2:516
+- Grass, right.
+
+993
+01:14:40,240 --> 01:14:43,596  X1:165 X2:554 Y1:448 Y2:510
+- You'd leave that threshold?
+- Yes.
+
+994
+01:14:43,680 --> 01:14:45,750  X1:208 X2:511 Y1:484 Y2:510
+I'd leave those stones.
+
+995
+01:14:46,520 --> 01:14:47,999  X1:300 X2:418 Y1:484 Y2:515
+- Vaclav,
+
+996
+01:14:50,200 --> 01:14:52,191  X1:194 X2:524 Y1:484 Y2:516
+why aren't you my wife?
+
+997
+01:15:10,040 --> 01:15:13,476  X1:170 X2:549 Y1:484 Y2:516
+Coming to Oumerice, boys?
+
+998
+01:15:15,600 --> 01:15:18,558  X1:285 X2:434 Y1:484 Y2:516
+- No. Why?
+
+999
+01:15:18,760 --> 01:15:20,512  X1:162 X2:555 Y1:484 Y2:516
+- Local feast-day there today.
+
+1000
+01:15:21,360 --> 01:15:23,749  X1:248 X2:469 Y1:448 Y2:516
+- Good morning.
+- Good morning!
+
+1001
+01:15:26,320 --> 01:15:28,276  X1:261 X2:458 Y1:484 Y2:516
+High time, too!
+
+1002
+01:15:28,840 --> 01:15:31,229  X1:219 X2:499 Y1:484 Y2:516
+They are our guests!
+
+1003
+01:15:32,600 --> 01:15:34,192  X1:188 X2:529 Y1:484 Y2:516
+- These are my Praguers!
+
+1004
+01:15:34,280 --> 01:15:38,159  X1:160 X2:557 Y1:484 Y2:510
+- Grandad! Look who's come!
+
+1005
+01:15:38,400 --> 01:15:42,552  X1:295 X2:423 Y1:448 Y2:510
+Johnny!
+Sit down!
+
+1006
+01:15:43,720 --> 01:15:47,474  X1:235 X2:482 Y1:448 Y2:516
+Help yourself!
+- Thanks. Enough!
+
+1007
+01:15:49,000 --> 01:15:50,752  X1:271 X2:446 Y1:484 Y2:510
+Thanks a lot.
+
+1008
+01:15:51,720 --> 01:15:55,076  X1:145 X2:574 Y1:448 Y2:516
+Roast duck!
+Haven't had that for a long time.
+
+1009
+01:15:55,800 --> 01:15:56,710  X1:268 X2:450 Y1:448 Y2:516
+Bon appetit!
+- Bon appetit!
+
+1010
+01:15:56,800 --> 01:15:58,358  X1:268 X2:450 Y1:448 Y2:516
+- Bon appetit!
+- Bon appetit!
+
+1011
+01:16:05,360 --> 01:16:07,351  X1:207 X2:512 Y1:448 Y2:516
+Help yourself, Johnny!
+- Yes, yes!
+
+1012
+01:16:08,160 --> 01:16:11,357  X1:122 X2:595 Y1:448 Y2:510
+- You must starve yourself all year!
+- Oh no!
+
+1013
+01:16:12,120 --> 01:16:15,237  X1:145 X2:574 Y1:448 Y2:510
+The young lady cooked for me -
+Mrs. Lavicka.
+
+1014
+01:16:16,360 --> 01:16:17,270  X1:309 X2:409 Y1:484 Y2:516
+They...
+
+1015
+01:16:17,360 --> 01:16:20,557  X1:126 X2:592 Y1:448 Y2:516
+- You don't know these gentlemen.
+They're from Prague.
+
+1016
+01:16:20,680 --> 01:16:22,159  X1:234 X2:483 Y1:484 Y2:516
+Stop it, grandad...!
+
+1017
+01:16:22,240 --> 01:16:25,152  X1:247 X2:469 Y1:448 Y2:510
+Just ignore him!
+It's sclerosis.
+
+1018
+01:16:26,160 --> 01:16:27,912  X1:224 X2:494 Y1:484 Y2:516
+Do help yourselves!
+
+1019
+01:16:35,360 --> 01:16:37,999  X1:309 X2:409 Y1:448 Y2:516
+They...
+They...
+
+1020
+01:16:38,080 --> 01:16:40,116  X1:190 X2:528 Y1:484 Y2:515
+- Come, Grandad, to bed!
+
+1021
+01:16:40,720 --> 01:16:43,951  X1:119 X2:599 Y1:448 Y2:510
+You must remind him of somebody.
+Take no notice!
+
+1022
+01:16:45,160 --> 01:16:46,593  X1:147 X2:572 Y1:484 Y2:515
+You don't know them, Grandad!
+
+1023
+01:16:46,680 --> 01:16:48,272  X1:300 X2:417 Y1:484 Y2:516
+- They...
+
+1024
+01:16:50,800 --> 01:16:53,633  X1:208 X2:509 Y1:448 Y2:516
+- Guess how old he is.
+Ninety-two!
+
+1025
+01:16:53,720 --> 01:16:55,676  X1:225 X2:492 Y1:484 Y2:516
+- That's a good age!
+
+1026
+01:16:55,760 --> 01:16:58,354  X1:215 X2:502 Y1:484 Y2:510
+- He must take a rest.
+
+1027
+01:16:58,640 --> 01:17:01,234  X1:203 X2:514 Y1:448 Y2:510
+- They...
+- You don't know them!
+
+1028
+01:17:01,320 --> 01:17:03,550  X1:229 X2:488 Y1:484 Y2:516
+- They look a sight!
+
+1029
+01:17:10,440 --> 01:17:12,954  X1:284 X2:436 Y1:484 Y2:510
+Who is he?
+
+1030
+01:17:13,280 --> 01:17:15,077  X1:258 X2:461 Y1:484 Y2:510
+- The old man?
+
+1031
+01:17:15,160 --> 01:17:19,517  X1:266 X2:453 Y1:448 Y2:510
+- My father.
+- Your father?
+
+1032
+01:17:19,720 --> 01:17:23,076  X1:232 X2:486 Y1:448 Y2:516
+- Yes!
+- Your step-father?
+
+1033
+01:17:23,480 --> 01:17:26,119  X1:266 X2:452 Y1:484 Y2:516
+- No, my own!
+
+1034
+01:17:38,800 --> 01:17:42,395  X1:165 X2:553 Y1:448 Y2:510
+Well, goodbye, Mr. Komarek!
+Take care!
+
+1035
+01:17:48,600 --> 01:17:51,160  X1:259 X2:460 Y1:448 Y2:516
+Be seeing you!
+- Goodbye!
+
+1036
+01:17:52,080 --> 01:17:54,150  X1:243 X2:475 Y1:484 Y2:516
+Come here, goat!
+
+1037
+01:17:56,960 --> 01:17:58,951  X1:217 X2:501 Y1:448 Y2:516
+Home already?
+- Yes, holiday's over.
+
+1038
+01:17:59,040 --> 01:18:01,349  X1:240 X2:478 Y1:448 Y2:510
+- Good afternoon!
+- Good afternoon!
+
+1039
+01:18:01,480 --> 01:18:03,550  X1:220 X2:499 Y1:448 Y2:515
+Good afternoon!
+I have another week,
+
+1040
+01:18:03,640 --> 01:18:06,279  X1:199 X2:519 Y1:484 Y2:516
+and hope to finish here.
+
+1041
+01:18:06,360 --> 01:18:10,512  X1:122 X2:596 Y1:448 Y2:516
+We still have to set in the windows,
+finish the chimney...
+
+1042
+01:18:10,600 --> 01:18:13,797  X1:175 X2:543 Y1:448 Y2:516
+- Don't rock me!
+...finish off the electricity,
+
+1043
+01:18:13,880 --> 01:18:17,077  X1:134 X2:584 Y1:448 Y2:516
+build the fireplace,
+I want to do the bathroom ceiling,
+
+1044
+01:18:17,160 --> 01:18:18,593  X1:162 X2:556 Y1:484 Y2:510
+but I don't have a Rabitz wall.
+
+1045
+01:18:18,680 --> 01:18:20,159  X1:266 X2:453 Y1:484 Y2:510
+- What's that?
+
+1046
+01:18:21,400 --> 01:18:24,631  X1:167 X2:551 Y1:448 Y2:516
+Wire netting.
+You nail that to the ceiling...
+
+1047
+01:18:24,720 --> 01:18:27,837  X1:146 X2:572 Y1:484 Y2:516
+First you daub a bit of cement...
+
+1048
+01:18:29,720 --> 01:18:32,553  X1:252 X2:467 Y1:484 Y2:516
+Help! Catch me!
+
+1049
+01:18:54,680 --> 01:18:57,274  X1:201 X2:518 Y1:484 Y2:516
+Looks like a job for me!
+
+1050
+01:19:02,960 --> 01:19:04,712  X1:255 X2:463 Y1:484 Y2:510
+I can't find him!
+
+1051
+01:19:04,800 --> 01:19:07,917  X1:195 X2:524 Y1:448 Y2:510
+- Didn't he ride through?
+- Must be inside!
+
+1052
+01:19:08,000 --> 01:19:10,878  X1:254 X2:463 Y1:448 Y2:510
+- Mr. Lawrence!
+- Mr. Lawrence!
+
+1053
+01:19:10,960 --> 01:19:12,871  X1:233 X2:485 Y1:448 Y2:510
+- Mr. Lawrence!
+He must be inside!
+
+1054
+01:19:12,960 --> 01:19:14,439  X1:254 X2:463 Y1:484 Y2:510
+- Mr. Lawrence!
+
+1055
+01:19:15,240 --> 01:19:17,356  X1:149 X2:569 Y1:484 Y2:516
+- I'm not working for you again!
+
+1056
+01:19:20,880 --> 01:19:21,710  X1:280 X2:438 Y1:484 Y2:510
+It's the end!
+
+1057
+01:19:21,800 --> 01:19:26,476  X1:208 X2:512 Y1:448 Y2:510
+- But all that's left now
+are the windows
+
+1058
+01:19:26,720 --> 01:19:28,790  X1:203 X2:515 Y1:448 Y2:516
+and the chimney!
+- I've finished with you.
+
+1059
+01:19:28,880 --> 01:19:31,030  X1:234 X2:484 Y1:484 Y2:516
+- Anything wrong?
+
+1060
+01:19:32,080 --> 01:19:33,752  X1:237 X2:480 Y1:484 Y2:516
+- The beer's gone.
+
+1061
+01:19:34,160 --> 01:19:36,913  X1:139 X2:579 Y1:484 Y2:516
+- You've only got the walls to do,
+
+1062
+01:19:37,000 --> 01:19:40,072  X1:224 X2:494 Y1:448 Y2:515
+and the ceilings...
+- No, take me home!
+
+1063
+01:19:40,160 --> 01:19:43,516  X1:250 X2:467 Y1:448 Y2:516
+- We'll be going.
+- Goodbye!
+
+1064
+01:19:43,600 --> 01:19:46,353  X1:212 X2:506 Y1:484 Y2:515
+- But... Mr. Lawrence,
+
+1065
+01:19:46,960 --> 01:19:50,714  X1:193 X2:526 Y1:448 Y2:510
+I'll never rock you again!
+- No! No!
+
+1066
+01:19:50,840 --> 01:19:52,592  X1:212 X2:507 Y1:484 Y2:516
+I've finished with you!
+
+1067
+01:19:53,240 --> 01:19:55,993  X1:220 X2:498 Y1:484 Y2:516
+You'd cripple a man!
+
+1068
+01:19:57,160 --> 01:20:01,358  X1:145 X2:573 Y1:448 Y2:510
+We have a cottage by the wood,
+but it's not ours.
+
+1069
+01:20:01,680 --> 01:20:03,830  X1:134 X2:583 Y1:484 Y2:510
+Grandfather Komarek lives there.
+
+1070
+01:20:05,320 --> 01:20:08,073  X1:153 X2:565 Y1:447 Y2:516
+He's very...
+He isn't our grandfather either.
+
+1071
+01:20:08,400 --> 01:20:11,392  X1:125 X2:594 Y1:484 Y2:516
+He's very kind, but he's in the way.
+
+1072
+01:20:11,600 --> 01:20:13,556  X1:141 X2:577 Y1:484 Y2:516
+- Wait, Susie! How can you write
+
+1073
+01:20:13,640 --> 01:20:15,392  X1:156 X2:561 Y1:484 Y2:516
+that he's kind and in the way?
+
+1074
+01:20:15,480 --> 01:20:17,516  X1:195 X2:523 Y1:484 Y2:515
+- How do I write it, then?
+
+1075
+01:20:18,040 --> 01:20:19,632  X1:320 X2:398 Y1:484 Y2:510
+- Yes.
+
+1076
+01:20:19,840 --> 01:20:22,877  X1:184 X2:534 Y1:484 Y2:515
+That he's kind, that's true.
+
+1077
+01:20:22,960 --> 01:20:25,155  X1:237 X2:480 Y1:448 Y2:510
+- He is in our way,
+that's true too.
+
+1078
+01:20:25,240 --> 01:20:27,231  X1:237 X2:481 Y1:484 Y2:510
+- But how can she
+
+1079
+01:20:27,320 --> 01:20:31,757  X1:192 X2:526 Y1:448 Y2:516
+put it like that,
+he's kind and in the way.
+
+1080
+01:20:33,000 --> 01:20:34,752  X1:207 X2:512 Y1:484 Y2:516
+- How do I put it, then?
+
+1081
+01:20:34,840 --> 01:20:38,719  X1:165 X2:553 Y1:448 Y2:516
+- That he is kind,
+that he means to move away
+
+1082
+01:20:38,800 --> 01:20:40,756  X1:134 X2:583 Y1:484 Y2:516
+and then the cottage will be ours.
+
+1083
+01:20:41,360 --> 01:20:44,238  X1:131 X2:587 Y1:448 Y2:516
+- Right, that he's kind
+because he means to move away.
+
+1084
+01:20:44,320 --> 01:20:48,757  X1:229 X2:489 Y1:448 Y2:516
+- No!
+He's kind, full stop!
+
+1085
+01:20:49,240 --> 01:20:52,550  X1:196 X2:521 Y1:448 Y2:516
+When he moves away,
+the cottage will be ours.
+
+1086
+01:21:06,840 --> 01:21:09,752  X1:117 X2:603 Y1:484 Y2:516
+Decided to spend the winter in bed?
+
+1087
+01:21:11,200 --> 01:21:12,758  X1:227 X2:493 Y1:484 Y2:510
+Where does it hurt?
+
+1088
+01:21:14,120 --> 01:21:18,750  X1:169 X2:550 Y1:448 Y2:516
+- Everywhere.
+Don't even enjoy my smoke.
+
+1089
+01:21:34,240 --> 01:21:36,754  X1:174 X2:545 Y1:484 Y2:516
+We'll have to get you down!
+
+1090
+01:21:38,680 --> 01:21:41,956  X1:174 X2:544 Y1:448 Y2:516
+- Down? Where?
+- To the car and to hospital.
+
+1091
+01:21:42,480 --> 01:21:47,156  X1:267 X2:452 Y1:448 Y2:516
+- Hospital?
+I'm not going!
+
+1092
+01:21:47,360 --> 01:21:50,352  X1:153 X2:565 Y1:448 Y2:510
+- It's pneumonia, Mr. Komarek.
+That's serious.
+
+1093
+01:21:50,440 --> 01:21:53,512  X1:168 X2:550 Y1:484 Y2:516
+- I've never been to hospital.
+
+1094
+01:21:53,840 --> 01:21:57,230  X1:175 X2:544 Y1:484 Y2:515
+If I'm to die, I'll die at home.
+
+1095
+01:21:57,320 --> 01:22:00,392  X1:213 X2:505 Y1:448 Y2:516
+- You won't die,
+but you can't lie here!
+
+1096
+01:22:00,480 --> 01:22:05,190  X1:174 X2:543 Y1:448 Y2:516
+And you can't lie here ill.
+- Don't worry, Mr. Komarek,
+
+1097
+01:22:05,280 --> 01:22:06,838  X1:167 X2:550 Y1:484 Y2:516
+you'll be back in a few days.
+
+1098
+01:22:06,920 --> 01:22:09,593  X1:252 X2:465 Y1:484 Y2:516
+- Stop fussing...
+
+1099
+01:22:10,160 --> 01:22:13,470  X1:151 X2:567 Y1:484 Y2:516
+I'll dose myself with linden tea.
+
+1100
+01:22:14,120 --> 01:22:15,951  X1:182 X2:536 Y1:484 Y2:516
+I sweat and I'm well again.
+
+1101
+01:22:16,800 --> 01:22:19,030  X1:220 X2:498 Y1:484 Y2:516
+- Look here, Johnny,
+
+1102
+01:22:19,120 --> 01:22:20,758  X1:161 X2:555 Y1:484 Y2:516
+they won't bite your head off!
+
+1103
+01:22:20,840 --> 01:22:22,558  X1:320 X2:398 Y1:484 Y2:510
+- Yes.
+
+1104
+01:22:24,680 --> 01:22:26,830  X1:172 X2:546 Y1:448 Y2:510
+- I'll take care of your place.
+- Yes.
+
+1105
+01:22:26,920 --> 01:22:28,956  X1:221 X2:496 Y1:448 Y2:510
+...do the feeding...
+- Of course.
+
+1106
+01:22:29,040 --> 01:22:30,519  X1:229 X2:489 Y1:448 Y2:510
+...and everything.
+- Of course.
+
+1107
+01:22:30,600 --> 01:22:33,273  X1:238 X2:479 Y1:484 Y2:516
+- Don't you worry!
+
+1108
+01:22:33,360 --> 01:22:37,751  X1:135 X2:583 Y1:448 Y2:510
+- I wouldn't beat you today, Tony!
+- Hm.
+
+1109
+01:22:40,360 --> 01:22:42,749  X1:142 X2:575 Y1:484 Y2:516
+- There'll be pretty nurses there!
+
+1110
+01:22:42,840 --> 01:22:46,196  X1:186 X2:532 Y1:448 Y2:510
+- What good's that to me?
+To an old man!
+
+1111
+01:23:03,000 --> 01:23:05,912  X1:177 X2:543 Y1:448 Y2:516
+Have you arranged things?
+- Arranged what?
+
+1112
+01:23:06,000 --> 01:23:09,709  X1:288 X2:429 Y1:484 Y2:515
+- The sale,
+
+1113
+01:23:09,840 --> 01:23:11,751  X1:308 X2:410 Y1:484 Y2:510
+all that!
+
+1114
+01:23:11,840 --> 01:23:13,671  X1:178 X2:540 Y1:448 Y2:516
+- With you staying on here,
+we would hardly...
+
+1115
+01:23:13,760 --> 01:23:16,718  X1:197 X2:521 Y1:484 Y2:516
+- Who says I'm staying?
+
+1116
+01:23:17,320 --> 01:23:21,108  X1:188 X2:529 Y1:448 Y2:510
+What would I do here?
+- But we didn't know that.
+
+1117
+01:23:21,200 --> 01:23:24,954  X1:179 X2:538 Y1:448 Y2:516
+- Hruska's buying the cow,
+I shan't sow again,
+
+1118
+01:23:25,520 --> 01:23:27,158  X1:215 X2:504 Y1:484 Y2:510
+I'll die and that's that!
+
+1119
+01:23:27,840 --> 01:23:29,432  X1:226 X2:491 Y1:484 Y2:510
+- Don't think of that.
+
+1120
+01:23:29,520 --> 01:23:31,033  X1:193 X2:525 Y1:448 Y2:516
+- Yes.
+- You must get well now!
+
+1121
+01:23:31,120 --> 01:23:32,678  X1:320 X2:398 Y1:484 Y2:510
+- Yes.
+
+1122
+01:23:50,000 --> 01:23:52,719  X1:213 X2:506 Y1:448 Y2:510
+Good morning!
+Are the Kokess here?
+
+1123
+01:23:52,800 --> 01:23:55,030  X1:171 X2:547 Y1:484 Y2:516
+- We're just expecting them.
+
+1124
+01:24:06,840 --> 01:24:09,673  X1:194 X2:525 Y1:448 Y2:516
+Good morning!
+I'm looking for the Chief!
+
+1125
+01:24:09,760 --> 01:24:11,671  X1:274 X2:444 Y1:484 Y2:510
+- Over there!
+
+1126
+01:24:15,720 --> 01:24:17,233  X1:257 X2:461 Y1:484 Y2:516
+Good morning!
+
+1127
+01:24:17,320 --> 01:24:20,676  X1:120 X2:597 Y1:484 Y2:516
+- I 'phoned, about Komarek's fields.
+
+1128
+01:24:20,760 --> 01:24:22,990  X1:168 X2:549 Y1:484 Y2:516
+- You're Komarek's Praguer.
+
+1129
+01:24:23,080 --> 01:24:24,433  X1:217 X2:502 Y1:448 Y2:510
+- Yes.
+- How's the old man?
+
+1130
+01:24:24,520 --> 01:24:26,078  X1:245 X2:473 Y1:484 Y2:516
+- Still in hospital.
+
+1131
+01:24:26,160 --> 01:24:27,878  X1:160 X2:557 Y1:484 Y2:516
+- The Co-op's not too keep on
+
+1132
+01:24:27,960 --> 01:24:31,748  X1:109 X2:609 Y1:448 Y2:516
+getting those fields up on the slopes,
+we'll make them into pastures.
+
+1133
+01:24:31,840 --> 01:24:35,116  X1:121 X2:597 Y1:448 Y2:510
+- So you'll confirm the Co-op taking
+them over?
+
+1134
+01:24:35,200 --> 01:24:37,031  X1:229 X2:489 Y1:484 Y2:516
+- Yes, give it to me!
+
+1135
+01:24:37,120 --> 01:24:39,111  X1:216 X2:502 Y1:484 Y2:510
+- When can I fetch it?
+
+1136
+01:24:39,200 --> 01:24:43,239  X1:217 X2:501 Y1:448 Y2:516
+- I'll do it on the spot.
+Don't like red tape!
+
+1137
+01:24:47,600 --> 01:24:49,909  X1:256 X2:461 Y1:484 Y2:515
+Joe, over here!
+
+1138
+01:25:01,160 --> 01:25:04,277  X1:179 X2:540 Y1:448 Y2:510
+My regards to the old man!
+- Thanks.
+
+1139
+01:25:19,440 --> 01:25:21,635  X1:191 X2:527 Y1:484 Y2:515
+Hell, this is the fifth time!
+
+1140
+01:25:21,720 --> 01:25:24,075  X1:188 X2:531 Y1:448 Y2:510
+Look at this! Look at this!
+Maruna!
+
+1141
+01:25:24,280 --> 01:25:26,748  X1:119 X2:599 Y1:448 Y2:516
+How many times have I said
+you must sweep the yard properly?
+
+1142
+01:25:26,840 --> 01:25:29,070  X1:212 X2:506 Y1:448 Y2:510
+- Go and get stuffed!
+- This is the fifth time!
+
+1143
+01:25:31,680 --> 01:25:34,148  X1:224 X2:493 Y1:448 Y2:510
+Goodbye!
+- Chick-chick-chick!
+
+1144
+01:25:34,720 --> 01:25:37,393  X1:223 X2:495 Y1:484 Y2:516
+Goodbye! Goodbye!
+
+1145
+01:25:39,400 --> 01:25:42,949  X1:178 X2:541 Y1:448 Y2:510
+A trash-bin with foot pedal.
+You don't have that either.
+
+1146
+01:25:52,160 --> 01:25:55,311  X1:216 X2:502 Y1:448 Y2:516
+Hello, Mr. Kos!
+- Hi there, neighbour!
+
+1147
+01:25:55,400 --> 01:25:58,312  X1:189 X2:529 Y1:448 Y2:516
+- Looks like you're all set
+except for the letter-box.
+
+1148
+01:25:58,400 --> 01:25:59,549  X1:275 X2:443 Y1:484 Y2:510
+- How's life?
+
+1149
+01:25:59,640 --> 01:26:03,679  X1:102 X2:616 Y1:448 Y2:516
+- Oh, all those rubber stamps.
+I've seen enough of them! You have...
+
+1150
+01:26:03,760 --> 01:26:04,715  X1:273 X2:444 Y1:448 Y2:510
+- I know!
+...record...
+
+1151
+01:26:04,800 --> 01:26:07,473  X1:141 X2:576 Y1:484 Y2:516
+- The land register, geodetics...
+
+1152
+01:26:07,560 --> 01:26:09,551  X1:213 X2:504 Y1:448 Y2:510
+- The Co-op.
+- National Committee.
+
+1153
+01:26:09,680 --> 01:26:12,956  X1:134 X2:584 Y1:448 Y2:516
+- Regional National Committee...
+- Agricultural Agency.
+
+1154
+01:26:13,040 --> 01:26:15,156  X1:254 X2:464 Y1:484 Y2:516
+And the Notary.
+
+1155
+01:26:15,560 --> 01:26:20,190  X1:176 X2:543 Y1:448 Y2:510
+But now things look so bad
+with Komarek...
+
+1156
+01:26:20,480 --> 01:26:23,597  X1:167 X2:551 Y1:448 Y2:516
+- He's still in hospital,
+but he comes of good stock!
+
+1157
+01:26:23,680 --> 01:26:28,470  X1:134 X2:584 Y1:448 Y2:516
+- Wait... You don't seem to know!
+- Something's happened?
+
+1158
+01:26:28,560 --> 01:26:31,279  X1:285 X2:433 Y1:484 Y2:516
+- Very bad!
+
+1159
+01:26:31,360 --> 01:26:33,874  X1:117 X2:602 Y1:484 Y2:516
+He was getting no better at hospital.
+
+1160
+01:26:33,960 --> 01:26:38,033  X1:119 X2:599 Y1:448 Y2:516
+So the poor old boy asked to spend
+his last days at home.
+
+1161
+01:26:38,120 --> 01:26:39,838  X1:121 X2:598 Y1:484 Y2:510
+At least that's what Hruska told me.
+
+1162
+01:26:39,920 --> 01:26:42,798  X1:178 X2:541 Y1:448 Y2:516
+Hruska's looking after him.
+The grate!
+
+1163
+01:26:42,880 --> 01:26:44,950  X1:151 X2:568 Y1:484 Y2:516
+I knew I'd forgotten something!
+
+1164
+01:26:45,320 --> 01:26:47,197  X1:221 X2:499 Y1:484 Y2:516
+D' you have a grate?
+
+1165
+01:26:49,520 --> 01:26:51,238  X1:310 X2:407 Y1:448 Y2:510
+- Hello!
+Hello!
+
+1166
+01:26:51,320 --> 01:26:52,150  X1:310 X2:407 Y1:448 Y2:510
+- Hello!
+- Hello!
+
+1167
+01:26:52,240 --> 01:26:53,832  X1:231 X2:490 Y1:448 Y2:516
+- Hello!
+Been waiting long?
+
+1168
+01:26:53,920 --> 01:26:56,150  X1:191 X2:527 Y1:448 Y2:516
+- A couple of minutes.
+- The notary, Mr. Grulich.
+
+1169
+01:26:56,320 --> 01:26:57,196  X1:256 X2:462 Y1:448 Y2:510
+- The Lavickas.
+- Hello!
+
+1170
+01:26:57,280 --> 01:26:59,396  X1:245 X2:473 Y1:484 Y2:510
+- Hello! Hello! Hi!
+
+1171
+01:26:59,480 --> 01:27:00,196  X1:310 X2:407 Y1:448 Y2:510
+- Hello!
+- Hello!
+
+1172
+01:27:00,280 --> 01:27:02,999  X1:185 X2:532 Y1:448 Y2:510
+- You see, Mr. Komarek...
+- That's the owner?
+
+1173
+01:27:03,080 --> 01:27:04,593  X1:204 X2:513 Y1:448 Y2:515
+...the letter...
+- Yes, that's the owner.
+
+1174
+01:27:04,680 --> 01:27:06,955  X1:178 X2:542 Y1:448 Y2:510
+...didn't answer our letter
+so now we don't know.
+
+1175
+01:27:07,040 --> 01:27:09,429  X1:247 X2:470 Y1:484 Y2:510
+- We'll soon see.
+
+1176
+01:27:11,080 --> 01:27:14,231  X1:220 X2:498 Y1:484 Y2:515
+If Komarek has died,
+
+1177
+01:27:14,320 --> 01:27:17,118  X1:150 X2:569 Y1:484 Y2:516
+it would be complicated, what?
+
+1178
+01:27:17,200 --> 01:27:19,760  X1:107 X2:611 Y1:484 Y2:516
+- Such a sale takes years sometimes.
+
+1179
+01:27:20,360 --> 01:27:23,397  X1:227 X2:491 Y1:484 Y2:516
+Somebody inherits,
+
+1180
+01:27:23,480 --> 01:27:27,268  X1:179 X2:537 Y1:448 Y2:510
+I had a case the other day
+with nine heirs to a house.
+
+1181
+01:27:27,360 --> 01:27:29,237  X1:161 X2:557 Y1:484 Y2:516
+- That could happen here too.
+
+1182
+01:27:29,320 --> 01:27:33,029  X1:148 X2:570 Y1:448 Y2:515
+- Eight of them agreed to sell.
+One refused, and that was that!
+
+1183
+01:27:33,120 --> 01:27:35,998  X1:133 X2:585 Y1:448 Y2:510
+So now it'll drag on for years.
+The owner should have left a will.
+
+1184
+01:27:36,080 --> 01:27:38,230  X1:219 X2:498 Y1:484 Y2:516
+- Daddy, he's crying!
+
+1185
+01:27:40,240 --> 01:27:43,038  X1:137 X2:582 Y1:448 Y2:516
+What is it, Pete?
+What don't you understand now?
+
+1186
+01:27:43,240 --> 01:27:45,435  X1:218 X2:499 Y1:484 Y2:510
+- Gran... dad... died.
+
+1187
+01:27:47,560 --> 01:27:49,471  X1:301 X2:417 Y1:484 Y2:510
+Go on...!
+
+1188
+01:27:49,880 --> 01:27:51,438  X1:213 X2:504 Y1:484 Y2:516
+They're just talking...
+
+1189
+01:27:51,520 --> 01:27:54,910  X1:222 X2:498 Y1:484 Y2:516
+...just pretend, see?
+
+1190
+01:27:55,000 --> 01:27:57,673  X1:082 X2:636 Y1:448 Y2:516
+- He may not have died,
+maybe he just can't hold a pen any more.
+
+1191
+01:27:57,760 --> 01:27:59,955  X1:168 X2:550 Y1:484 Y2:516
+- How many heirs are there?
+
+1192
+01:28:00,040 --> 01:28:03,510  X1:157 X2:561 Y1:484 Y2:515
+- A son in Slovakia, a father...
+
+1193
+01:28:03,640 --> 01:28:06,950  X1:232 X2:486 Y1:448 Y2:516
+- Was there a Will?
+- Hardly.
+
+1194
+01:28:07,600 --> 01:28:10,319  X1:156 X2:562 Y1:448 Y2:510
+- But they had a preliminary...
+...sales contract.
+
+1195
+01:28:10,400 --> 01:28:11,879  X1:136 X2:582 Y1:484 Y2:516
+- So they should have the right...
+
+1196
+01:28:11,960 --> 01:28:14,793  X1:177 X2:542 Y1:448 Y2:516
+- But such a contract alone
+means nothing.
+
+1197
+01:28:14,880 --> 01:28:17,155  X1:160 X2:559 Y1:484 Y2:516
+Probably not even witnessed.
+
+1198
+01:28:17,240 --> 01:28:18,992  X1:259 X2:458 Y1:484 Y2:516
+- Probably not.
+
+1199
+01:28:19,160 --> 01:28:22,550  X1:153 X2:566 Y1:448 Y2:516
+- No good, then.
+- What do you mean, no good?
+
+1200
+01:28:22,640 --> 01:28:25,552  X1:159 X2:559 Y1:448 Y2:516
+But he has the right to decide
+who is to inherit his property!
+
+1201
+01:28:25,640 --> 01:28:29,235  X1:147 X2:571 Y1:448 Y2:516
+- But as a dead man can't make
+any decisions...!
+
+1202
+01:28:29,320 --> 01:28:32,278  X1:201 X2:516 Y1:448 Y2:510
+- I'm not saying he can!
+- The Will is decisive!
+
+1203
+01:28:48,120 --> 01:28:49,997  X1:321 X2:398 Y1:484 Y2:510
+Look!
+
+1204
+01:29:00,720 --> 01:29:02,517  X1:287 X2:431 Y1:448 Y2:510
+Children!
+- Grandad!
+
+1205
+01:29:02,600 --> 01:29:04,830  X1:283 X2:435 Y1:448 Y2:510
+Isha!
+- Welcome!
+
+1206
+01:29:42,520 --> 01:29:43,999  X1:295 X2:424 Y1:484 Y2:516
+Featuring
+
+1207
+01:29:51,640 --> 01:29:53,756  X1:233 X2:486 Y1:448 Y2:516
+Properties
+Costume Designer
+
+1208
+01:29:53,920 --> 01:29:55,353  X1:289 X2:430 Y1:448 Y2:516
+Wardrobe
+Continuity
+
+1209
+01:29:56,720 --> 01:29:59,473  X1:145 X2:574 Y1:448 Y2:510
+Assistant Director
+Assistant to Head of Production
+
+1210
+01:30:01,880 --> 01:30:04,269  X1:205 X2:516 Y1:448 Y2:510
+Assistant Set Designer
+Assistant Cameraman
+
+1211
+01:30:06,520 --> 01:30:09,956  X1:271 X2:448 Y1:448 Y2:516
+Set Designer
+Make-up
+
+1212
+01:30:11,320 --> 01:30:14,756  X1:270 X2:450 Y1:448 Y2:510
+Sound Editor
+Film Editor
+
+1213
+01:30:17,000 --> 01:30:20,151  X1:292 X2:427 Y1:448 Y2:516
+Music by
+Played by
+
+1214
+01:30:21,800 --> 01:30:23,279  X1:264 X2:454 Y1:484 Y2:516
+Conducted by
+
+1215
+01:30:26,400 --> 01:30:28,356  X1:188 X2:531 Y1:484 Y2:510
+Head of Production Team
+
+1216
+01:30:30,800 --> 01:30:32,756  X1:197 X2:522 Y1:484 Y2:516
+Director of Photography
+
+1217
+01:30:35,400 --> 01:30:37,356  X1:282 X2:438 Y1:484 Y2:516
+Directed by
+
+1218
+01:30:39,080 --> 01:30:41,469  X1:273 X2:446 Y1:448 Y2:510
+Produced by
+Dramatist
+
+1219
+01:30:47,800 --> 01:30:49,756  X1:296 X2:422 Y1:484 Y2:510
+THE END
+
