@@ -43,5 +43,6 @@ window.SRTS = [
   "Vesnicko Ma Strediskova (1985).srt",
   "vrchni prchni-kinobox.txt",
   "Vrchni Prchni-Kinobox.txt",
-  "Nothing-to-Declare(0000180315).srt"
+  "Nothing-to-Declare(0000180315).srt",
+  "Tais.Toi.FRENCH.DVDRip.DivX-ULYSSE.srt"
 ];
