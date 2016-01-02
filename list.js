@@ -42,5 +42,6 @@ window.SRTS = [
   "vesnicko-ma-strediskova.srt",
   "Vesnicko Ma Strediskova (1985).srt",
   "vrchni prchni-kinobox.txt",
-  "Vrchni Prchni-Kinobox.txt"
+  "Vrchni Prchni-Kinobox.txt",
+  "Nothing-to-Declare(0000180315).srt"
 ];
