@@ -4,7 +4,7 @@
 
 2
 00:00:44,552 --> 00:00:50,551
-Vasek, why is there a scarf around the whale's neck?
+Vasek, why is there a bandage around the whale's head?
 
 3
 00:00:52,477 --> 00:00:55,684
@@ -40,7 +40,7 @@ That's impossible. My mom says that every primo man is already married.
 
 11
 00:01:42,259 --> 00:01:43,575
-A man can be found.
+You have to know how to search!
 
 12
 00:01:44,249 --> 00:01:45,453
@@ -252,7 +252,7 @@ The third time this month.
 
 64
 00:06:14,260 --> 00:06:17,901
-When troupe from Warsaw comes, you're going to have holiday for a whole week!
+When the troupe from Warsaw comes, you're going to have holiday for a whole week!
 
 65
 00:06:18,001 --> 00:06:20,335
@@ -280,7 +280,7 @@ It was. Until his friend's mother got remarried.
 
 71
 00:06:46,887 --> 00:06:52,387
-Vasek's going to get over it. When he's older, he'll have another problems.
+Vasek's going to get over it. When he's older, he'll have other problems.
 
 72
 00:06:52,482 --> 00:06:56,522
@@ -288,11 +288,11 @@ What if he doesn't get over it?
 
 73
 00:06:58,552 --> 00:07:03,879
-I hope you're not going to blame yourself. After four years.
+I hope you're not going to blame me. After four years.
 
 74
 00:07:04,290 --> 00:07:07,766
-You can't let Vasek talk about your private business.
+You can't let Vasek talk into your private business.
 
 75
 00:07:07,866 --> 00:07:10,397
@@ -308,7 +308,7 @@ It's even worse.
 
 78
 00:07:15,040 --> 00:07:20,764
-Yesterday he put the third bowl with a toothbrush on the shell in a bathroom.
+Yesterday he put the third bowl with a toothbrush on the shelf in the bathroom.
 
 79
 00:07:20,799 --> 00:07:23,577
@@ -364,7 +364,7 @@ He's got rabbits! And also a new grandpa.
 
 92
 00:08:48,332 --> 00:08:52,528
-Mommy...I'd also like a grandpa. At least one.
+Mommy... I'd also like a grandpa. At least one.
 
 93
 00:08:52,914 --> 00:08:55,224
@@ -416,7 +416,7 @@ All right.
 
 105
 00:09:30,180 --> 00:09:32,513
-You'll take me to the mountains. On these holidays.
+You'll take me to the mountains. These holidays.
 
 106
 00:09:32,873 --> 00:09:35,933
@@ -480,11 +480,11 @@ Everybody's going to the mountains! All the boys have dads, but I don't have eve
 
 121
 00:10:32,386 --> 00:10:38,012
-So, children. Before we start writing, we'll think about a mommy.
+So, children. Before we start writing, we'll think about our mommies.
 
 122
 00:10:38,389 --> 00:10:41,542
-What's she like, what she does, what she looks like...
+What she's like, what she does, what she looks like...
 
 123
 00:10:41,642 --> 00:10:44,674
@@ -510,7 +510,7 @@ Vasek, don't clown around. Sit down!
 
 128
 00:11:05,691 --> 00:11:08,026
-Talk, children, how is your mommy?
+Talk, children, what is your mommy like?
 
 129
 00:11:09,203 --> 00:11:10,095
@@ -534,7 +534,7 @@ Vasek!
 
 134
 00:11:16,168 --> 00:11:19,124
-I'm already writing it!
+I'm already putting it down in writing!
 
 135
 00:11:25,231 --> 00:11:54,695
@@ -578,7 +578,7 @@ How many opportunities do you think you are going to have?
 
 145
 00:12:48,440 --> 00:12:52,745
-You're going to be a retired before someone writes another ballet!
+You're going to be retired before someone writes another ballet!
 
 146
 00:12:52,845 --> 00:12:54,027
@@ -596,11 +596,11 @@ the hospital would collapse.
 
 149
 00:13:02,453 --> 00:13:04,829
-So you want to leave...?
+So you want to travel...?
 
 150
 00:13:06,441 --> 00:13:14,671
-That week in February, when the school holidays are, I don't have performances, I thought that if you let me, I'd...
+That week in February, when the school holidays are, I don't have performances, I thought that if you let me go, I'd...
 
 151
 00:13:14,771 --> 00:13:16,196
@@ -608,19 +608,19 @@ After what I told you?
 
 152
 00:13:17,468 --> 00:13:19,666
-I'm make up all the rehearsals.
+I'll make up for all the rehearsals.
 
 153
 00:13:19,766 --> 00:13:26,237
-I'm nearly always at home. I can't stand the boy!
+I'm nearly never at home. I can't stand the boy's complaints!
 
 154
 00:13:26,337 --> 00:13:29,175
 That's out of the question. You're not going anywhere!
 
 155
-00:13:33,476 --> 00:13:37,676
-¤ Radio reports on climbers on Mount Everest ¤
+00:13:33,476 --> 00:14:20,676
+¤ Radio plays a dramatic story about climbers on Mount Everest ¤
 
 156
 00:14:21,785 --> 00:14:27,472
@@ -636,7 +636,7 @@ I wonder that you can listen to it...
 
 159
 00:15:08,014 --> 00:15:09,894
-You bought a beer?
+You bought beer?
 
 160
 00:15:31,995 --> 00:15:34,651
@@ -668,7 +668,7 @@ There's Chaplin at 19:30.
 
 167
 00:16:01,529 --> 00:16:05,928
-I don't want Chaplin. I want you to be at home! Just like a normal mom...
+I don't want Chaplin. I want you to be at home! Just like a proper mom...
 
 168
 00:16:25,541 --> 00:16:29,570
@@ -676,7 +676,7 @@ To make Vasek to be the main class cleaner is just like making a goat the head g
 
 169
 00:16:29,670 --> 00:16:32,905
-But this week he was better.
+But this week he was amazing.
 
 170
 00:16:33,005 --> 00:16:43,158
@@ -720,7 +720,7 @@ I would at least think about it, Mommy.
 
 180
 00:18:04,213 --> 00:18:06,092
-You'll have to let me go to the mountains.
+You're going to let me go to the mountains.
 
 181
 00:18:07,482 --> 00:18:09,897
@@ -744,7 +744,7 @@ Guess who came to have dinner with us?
 
 186
 00:18:34,275 --> 00:18:40,375
-~ Girl, what made your hair curl?
+~ Girl, in a wig again. That will destroy your hair.
 ~ You scared me!
 
 187
@@ -753,11 +753,11 @@ If it didn't involve us, we could just laugh at the Vasek's ideas.
 
 188
 00:18:46,296 --> 00:18:49,330
-It was really funny to make steaks for school caretaker...
+It was really funny to make steaks for the school caretaker...
 
 189
 00:18:51,348 --> 00:18:53,250
-Are you going somewhere this evening?
+Do you go anywhere on evenings at all?
 
 190
 00:18:53,919 --> 00:18:55,072
@@ -765,11 +765,11 @@ To theater.
 
 191
 00:18:56,145 --> 00:19:02,422
-Why don't you call me? If I don't have night shift, I'll be able to wait here with Vasek until 11.
+Why don't you call me? If I don't have a night shift, I'll be able to wait here with Vasek until 11.
 
 192
 00:19:02,815 --> 00:19:04,902
-And in the evening you'll have to travel through the whole of Prague.
+And in the evening you'll have to travel through the whole Prague.
 
 193
 00:19:06,251 --> 00:19:07,415
@@ -801,7 +801,7 @@ All right then.
 
 200
 00:19:30,046 --> 00:19:32,870
-I'll talk to Jindrich by myself.
+I'll talk to Jindrich myself.
 
 201
 00:19:34,824 --> 00:19:36,566
@@ -837,7 +837,7 @@ You didn't know what you were facing.
 
 209
 00:20:05,246 --> 00:20:10,099
-Talk to Jindrich. You'll rescue yourself only if you get married.
+Talk to Jindrich. You'll save yourself only if you get married.
 
 210
 00:20:10,641 --> 00:20:14,788
@@ -853,7 +853,7 @@ Then I have bad luck, since I don't work as a surgery nurse.
 
 213
 00:20:23,821 --> 00:20:28,021
-I'll have a couple of days free.
+I can save up a few days of holiday if I work 16-hour shifts.
 
 214
 00:20:28,925 --> 00:20:30,181
@@ -873,11 +873,11 @@ How long are you going to hide it from him?
 
 218
 00:20:44,250 --> 00:20:49,227
-Many children live just with a mother. Aren't there many failed marriages?
+Many children live just with a mother. Aren't there divorced marriages?
 
 219
 00:20:50,371 --> 00:20:54,693
-But you're not divorced...
+But you -- are not divorced...
 
 220
 00:21:21,904 --> 00:21:26,294
@@ -893,7 +893,7 @@ Mommy! What about me??
 
 223
 00:22:12,477 --> 00:22:15,445
-Mommy, why was uncle Jindrich at the train station with a flower?
+Mommy, why was uncle Jindrich at the train station with flowers?
 
 224
 00:22:15,933 --> 00:22:17,782
@@ -925,11 +925,11 @@ I don't like him. I'd know some better guys.
 
 231
 00:22:32,716 --> 00:22:38,220
-Vasek, I'm warning you. I took you here with one condition --- that you'll stop finding me a groom.
+Vasek, I'm warning you. I took you here with one condition -- that you'll stop finding me a groom.
 
 232
 00:22:38,320 --> 00:22:41,510
-You can rely on me.
+You can rely on me!
 
 233
 00:22:54,237 --> 00:22:56,328
@@ -949,7 +949,7 @@ Here.
 
 237
 00:23:19,251 --> 00:23:24,027
-I need to call Prague. Quickly. And a second call at 7 pm.
+I need to call Prague. Immediately. And a second call at 7 pm.
 
 238
 00:23:24,127 --> 00:23:25,511
@@ -957,7 +957,7 @@ All right.
 
 239
 00:23:35,543 --> 00:23:37,904
-Vasek! You're not to leave the terrace until I come back!
+Vasek! You're not going to leave the terrace until I come back!
 
 240
 00:23:38,004 --> 00:23:39,228
@@ -1012,7 +1012,7 @@ From the Snow White lodge? Hm. I'm really happy.
 
 252
 00:24:30,437 --> 00:24:36,190
-With who are you here? Why are you looking at me? With who are you here?
+With whom are you here? Why are you looking at me? With who are you here?
 
 253
 00:24:36,698 --> 00:24:38,402
@@ -1024,7 +1024,7 @@ Take your skis --- and go.
 
 255
 00:24:56,831 --> 00:24:59,408
-Hey, sir, are you married?
+Hello, sir, are you married?
 
 256
 00:25:01,566 --> 00:25:04,552
@@ -1080,7 +1080,7 @@ Anna.
 
 269
 00:26:28,606 --> 00:26:34,793
-Oh wow, you grew up! Even though you're still so petit.
+Oh wow, you grew up! Even though you're still so petite.
 
 270
 00:26:35,849 --> 00:26:38,097
@@ -1106,7 +1106,7 @@ No, the telegram wasn't sent by Jindrich, but by the theater.
 
 275
 00:26:55,816 --> 00:26:58,966
-Mommy...Please, come and stay at least those two days.
+Mommy... Please, come and stay at least those two days.
 
 276
 00:27:00,016 --> 00:27:03,617
@@ -1118,11 +1118,11 @@ I'm going to return on Thursday.
 
 278
 00:27:07,918 --> 00:27:09,885
-It's not important, who's sick.
+It's not important who's sick.
 
 279
 00:27:09,985 --> 00:27:12,626
-There's just change in the theater.
+There's a change in the theater.
 
 280
 00:27:14,169 --> 00:27:17,248
@@ -1139,11 +1139,11 @@ How many years since we haven't seen each other?
 
 283
 00:27:35,243 --> 00:27:40,256
-You're here on holiday? Or as an instructor again?
+You're here on holiday? As an instructor again?
 
 284
 00:27:40,356 --> 00:27:41,848
-I've been here for seven years.
+I've worked here for seven years.
 
 285
 00:27:41,948 --> 00:27:42,599
@@ -1167,7 +1167,7 @@ You're better and better. Instead of a drink, you invite boys for ice cream?
 
 290
 00:27:55,783 --> 00:27:59,682
-But he's really small. You haven't seen such boy yet.
+But he's really small. You haven't seen such a boy yet.
 
 291
 00:27:59,782 --> 00:28:04,106
@@ -1191,11 +1191,11 @@ Definitely.
 
 296
 00:28:14,097 --> 00:28:17,635
-So don't delay, yourself. Don't make him wait in the bar.
+So don't delay yourself. Don't make him wait in the bar.
 
 297
 00:28:17,834 --> 00:28:19,922
-He isn't waiting in a bar. He's there.
+He isn't waiting in the bar. He's there.
 
 298
 00:28:20,322 --> 00:28:22,043
@@ -1227,7 +1227,7 @@ Bye.
 
 305
 00:28:36,798 --> 00:28:39,584
-Prague. Who wanted to pay the Prague?
+Prague. Who wanted to pay the call to Prague?
 
 306
 00:28:39,972 --> 00:28:41,341
@@ -1295,7 +1295,7 @@ What happened?
 
 322
 00:29:50,608 --> 00:29:52,663
-Mommy forbade me to tell the guy.
+Mommy forbade me to talk about it.
 
 323
 00:29:52,996 --> 00:29:53,721
@@ -1319,7 +1319,7 @@ You finally called. How is it on the hill?
 
 328
 00:30:05,157 --> 00:30:07,938
-If mom knew that I'm under someone's control...
+If mom knew that I'm under someone's supervision...
 
 329
 00:30:08,038 --> 00:30:09,423
@@ -1339,7 +1339,7 @@ Please, sir, let me stay here. I'm made for the mountains.
 
 333
 00:30:23,547 --> 00:30:26,956
-So you want to work here? For how long?
+So you're applying for service here? For how long?
 
 334
 00:30:27,056 --> 00:30:29,847
@@ -1359,7 +1359,7 @@ You make jokes and there's blocked snow plow in Labský Dùl.
 
 338
 00:30:38,293 --> 00:30:40,053
-I've been aware of that for a half hour now.
+I've been having fun with that for a half hour now.
 
 339
 00:30:40,717 --> 00:30:44,156
@@ -1383,7 +1383,7 @@ Vasek?
 
 344
 00:31:00,584 --> 00:31:05,536
-You have more boys? It's hard for him. He's just come and he has to go back to the town.
+You got more of them? It's hard for him. He's just come and he has to go back to the town.
 
 345
 00:31:05,636 --> 00:31:06,873
@@ -1399,7 +1399,7 @@ I don't understand why.
 
 348
 00:31:16,554 --> 00:31:21,003
-We haven't opportunity to talk yet. I'll be sure that you're going to come back.
+We haven't had opportunity to talk yet. I'll have a guarantee that you're going to come back.
 
 349
 00:31:21,580 --> 00:31:23,407
@@ -1411,7 +1411,7 @@ You can rely on me!
 
 351
 00:31:28,007 --> 00:31:30,408
-I'm not so sure.
+I'm not so sure about that.
 
 352
 00:31:39,922 --> 00:31:48,437
@@ -1419,7 +1419,7 @@ Vasek, we'll go to Rokytnice for ski poles. And we'll take Mom to the train stat
 
 353
 00:31:49,284 --> 00:31:51,670
-Vasek, you're really going to let me go by myself?
+Vasek, are you really going to let me go by myself?
 
 354
 00:31:51,897 --> 00:31:53,897
@@ -1443,7 +1443,7 @@ Vasek is coming with me!
 
 359
 00:32:05,884 --> 00:32:10,657
-You have a great seat by the window. Don't worry, I took care of the whole thing.
+You have a great seat by the window. Don't worry, I've already cared for a whole climbing tea.
 
 360
 00:32:10,757 --> 00:32:12,333
@@ -1455,7 +1455,7 @@ That would be a pity.
 
 362
 00:32:16,165 --> 00:32:19,383
-Mommy is prima. She's already back to normal.
+Mommy is prima. She's already started calling you by first name.
 
 363
 00:32:22,090 --> 00:32:22,927
@@ -1463,7 +1463,7 @@ Bye.
 
 364
 00:32:47,723 --> 00:32:50,010
-How did you figure out that I'm a climber?
+How did you figure out I'm a climber?
 
 365
 00:32:50,430 --> 00:32:54,054
@@ -1561,7 +1561,7 @@ Don't be upset with me, Vasek, I didn't know that.
 
 388
 00:34:05,339 --> 00:34:11,067
-When they were coming down, he was the last one. And suddenly there was an avalanche.
+When they were walking in a line, he was the last one. And suddenly there was an avalanche.
 
 389
 00:34:11,814 --> 00:34:15,204
@@ -1581,7 +1581,7 @@ And where did you sleep?
 
 393
 00:34:31,084 --> 00:34:33,331
-Well, we didn't sleep.
+Well, we didn't sleep much.
 
 394
 00:34:33,431 --> 00:34:34,799
@@ -1589,7 +1589,7 @@ Do you have a lot of friends?
 
 395
 00:34:35,232 --> 00:34:40,893
-No, I have known a lot of people. Friends are boys who you can always rely on.
+No, I have a lot of acquaintances. Friends are boys who you can always rely on.
 
 396
 00:34:41,388 --> 00:34:45,049
@@ -1609,11 +1609,11 @@ Then there's a real friendship.
 
 400
 00:34:55,829 --> 00:35:01,725
-Maybe Mom thinks that somebody could have rescued him. Maybe a friend.
+Maybe Mom thinks that somebody could have rescued him. Maybe the friend of his.
 
 401
 00:35:33,593 --> 00:35:40,920
-I'd like to call Spindlerùv Mlýn, 93439. Thank you.
+I'd like to call Spindler¿v Mlýn, 93439. Thank you.
 
 402
 00:35:41,596 --> 00:35:43,388
@@ -1629,15 +1629,15 @@ Who?
 
 405
 00:35:47,280 --> 00:35:48,824
-Spindlerùv Mlýn.
+Spindler¿v Mlýn.
 
 406
 00:35:49,673 --> 00:35:53,345
-He told me to write it down, I might have sclerosis...
+He told me to write it down, in case I have sclerosis...
 
 407
 00:35:54,677 --> 00:36:00,389
-Vasek ate seven dumplings, brushed his teeth, and now he's asleep.
+Vasek ate seven dumplings, brushed his teeth, and now he's asleep like a log.
 
 408
 00:36:01,210 --> 00:36:04,329
@@ -1669,7 +1669,7 @@ Took a nap? She was sleeping here for three hours as if she were dead.
 
 415
 00:36:31,091 --> 00:36:35,307
-Am I allowed to invite you for a dinner?
+May I invite you for a dinner?
 
 416
 00:36:47,754 --> 00:36:49,627
@@ -1689,10 +1689,10 @@ I just wanted to make toast for you.
 
 420
 00:37:02,095 --> 00:37:05,258
-It's already on fire! You can rely on me.
+It's already burning! You can rely on me.
 
 421
-00:37:05,530 --> 00:37:06,578
+00:37:05,530 --> 00:37:09,378
 You can rely on me, too. Do I need my belt for you?
 
 422
@@ -1701,7 +1701,7 @@ Look. I borrowed these boots for you.
 
 423
 00:37:13,104 --> 00:37:16,132
-You could wear your boots to dancing lessons.
+Yours are good for dancing lessons, at best.
 
 424
 00:37:18,476 --> 00:37:22,416
@@ -1721,7 +1721,7 @@ That's not important. When you like it, you're going to be climber for a whole l
 
 428
 00:37:31,988 --> 00:37:37,688
-You must have the will and you have to know how to make decisions!
+You must have a will of iron and you have to know how to make decisions!
 
 429
 00:37:37,739 --> 00:37:38,776
@@ -1737,12 +1737,12 @@ That's simple. You make a mistake and you're dead.
 
 432
 00:37:50,647 --> 00:37:53,452
-I don't know...I'm sure my dad didn't make a mistake!
+I don't know... I'm sure my dad didn't make a mistake!
 
 433
 00:37:53,552 --> 00:38:01,575
 I meant it another way.
-A proper man is the most happy, when he can overcome the obstacles.
+A proper man is the most happy when he can overcome obstacles.
 
 434
 00:38:01,675 --> 00:38:06,072
@@ -1750,7 +1750,7 @@ My dad was proper! Strong! One head taller than you.
 
 435
 00:38:06,172 --> 00:38:11,324
-Of course. The best man goes always the last.
+Of course. The best man goes always the last in a line.
 
 436
 00:38:12,085 --> 00:38:13,551
@@ -1758,7 +1758,7 @@ You were never afraid?
 
 437
 00:38:13,651 --> 00:38:22,317
-When you want to win, to beat a 8,000 m high mountain, which has been there for millions ages, you must have self-esteem.
+When you want to win, to beat a 8,000 m high mountain, which has been there for millions of years, you must have courage.
 
 438
 00:38:22,417 --> 00:38:23,382
@@ -1810,11 +1810,11 @@ The sun rose. There was silence. Only rocks and ice.
 
 450
 00:38:55,007 --> 00:38:57,812
-You stand there and it seems like you are God.
+You stand there and feel like God.
 
 451
 00:38:57,912 --> 00:39:01,531
-I'm also going to be God! But Mom can't know that!
+I'm also going to be a little God! But Mom can't know that!
 
 452
 00:39:01,631 --> 00:39:04,415
@@ -1843,11 +1843,11 @@ One and two, one and two, one and two...
 
 458
 00:40:47,367 --> 00:40:49,391
-I was at lawyer's.
+I went to see a lawyer.
 
 459
 00:40:49,968 --> 00:40:52,495
-You buying or selling something?
+You're buying or selling something?
 
 460
 00:40:52,541 --> 00:40:54,363
@@ -1855,7 +1855,7 @@ A divorce lawyer.
 
 461
 00:40:55,446 --> 00:41:01,280
-What if the two of us tried it with rules?
+What if the two of us tried it, according to the rules?
 
 462
 00:41:01,906 --> 00:41:05,446
@@ -1863,11 +1863,11 @@ I just don't know if I'll get used to Vasek.
 
 463
 00:41:32,839 --> 00:41:33,499
-Do you know how to pull a tooth to a whale?
+Do you know how to pull a whale's tooth?
 
 464
 00:41:33,988 --> 00:41:45,253
-You get a sea crane, you give it a wagonload of anesthetic to a whale, you prepare dynamite, 3, 2, 1, boom!
+You get a sea crane, you give a wagonload of anesthetic to a whale, you prepare dynamite, 3, 2, 1, boom!
 
 465
 00:41:47,946 --> 00:41:49,769
@@ -1883,12 +1883,12 @@ How so? You didn't like your dad?
 
 468
 00:41:57,318 --> 00:42:00,105
-I did! But I never actually met him.
+I did! But I've never actually met him.
 
 469
 00:42:01,065 --> 00:42:06,393
-~ Listen, friend, aren't you accidentally a little liar?
-~ Accidentally a big one!
+~ Listen, friend, aren't you a little liar, by any chance?
+~ A big one!
 
 470
 00:42:06,793 --> 00:42:10,757
@@ -1904,7 +1904,7 @@ Mommy didn't get married again?
 
 473
 00:42:17,307 --> 00:42:23,087
-No. I'd also like a daddy. Standa has already a third one.
+No. I'd also like to have a daddy. Standa has already a third one.
 
 474
 00:42:23,708 --> 00:42:29,777
@@ -1932,11 +1932,11 @@ With my daddy?
 
 480
 00:42:45,937 --> 00:42:47,906
-No, all of us returned home.
+No, of us, all returned home.
 
 481
 00:42:48,171 --> 00:42:52,764
-My daddy was in the special expedition. They examined soil under the icecap.
+My daddy was in the special expedition. They examined the soil under the icecap.
 
 482
 00:42:57,393 --> 00:42:58,814
@@ -1996,7 +1996,7 @@ Yes.
 
 496
 00:43:36,634 --> 00:43:39,883
-And you were born in...September?
+And you were born in... September?
 
 497
 00:43:40,087 --> 00:43:42,125
@@ -2008,11 +2008,11 @@ What are you doing?
 
 499
 00:44:12,945 --> 00:44:15,051
-I'm trying how much snow there's going to be tomorrow.
+I'm checking how much snow there's going to be tomorrow.
 
 500
 00:44:20,310 --> 00:44:23,101
-You don't have to do every crap thing I do.
+You don't have to repeat every silly thing I do.
 
 501
 00:45:12,196 --> 00:45:16,817
@@ -2024,7 +2024,7 @@ You would try it?
 
 503
 00:45:20,328 --> 00:45:23,033
-Would I try it...I'll try it!
+Would I try it... I will *do* it!
 
 504
 00:45:25,086 --> 00:45:26,481
@@ -2076,7 +2076,7 @@ Stand up, lazy people! Stand up!
 
 515
 00:48:00,947 --> 00:48:04,582
-The boy skies great, what do you think?
+The boy skis great, what do you think?
 
 516
 00:48:12,751 --> 00:48:20,677
@@ -2092,7 +2092,7 @@ Anna, when did we date each other?
 
 519
 00:48:47,888 --> 00:48:50,761
-Do you know that I really can't remember?
+You know, I really can't remember...
 
 520
 00:48:51,377 --> 00:48:53,800
@@ -2104,7 +2104,7 @@ You were at the conservatory.
 
 522
 00:48:58,358 --> 00:49:00,797
-It's not important today.
+It's not important today, anyway.
 
 523
 00:49:02,170 --> 00:49:05,016
@@ -2140,11 +2140,11 @@ Vasek wants to look like everybody. It was a school caretaker last time.
 
 531
 00:49:31,977 --> 00:49:36,488
-But school caretaker isn't a climber. He thinks his Dad's a climber.
+But a school caretaker isn't a climber.
 
 532
 00:49:37,553 --> 00:49:39,646
-Whose grave is under an avalanche.
+Buried under an avalanche.
 
 533
 00:49:41,653 --> 00:49:44,061
@@ -2156,7 +2156,7 @@ Why did you take me here?
 
 535
 00:49:47,569 --> 00:49:51,175
-I was thinking it's a really long time since you weren't dancing.
+I was thinking it's a really long time since you've been dancing.
 
 536
 00:49:54,505 --> 00:49:55,708
@@ -2172,19 +2172,19 @@ I'm leaving for the Alps in a month. Before that I'm going to be in Prague for a
 
 539
 00:50:09,274 --> 00:50:11,838
-Think about the "datum" until that time.
+Think about the "date" until that time.
 
 540
 00:50:13,372 --> 00:50:14,589
-Which datum?
+What date?
 
 541
 00:50:15,104 --> 00:50:19,780
-You arranged me a funeral --- I'm going to arrange you a marriage.
+You arranged me a funeral --- I'm going to arrange you a wedding.
 
 542
 00:50:19,880 --> 00:50:21,933
-Wait, who am I going to marry?
+Wait, whom am I going to marry?
 
 543
 00:50:22,269 --> 00:50:24,180
@@ -2192,11 +2192,11 @@ Me, of course.
 
 544
 00:50:26,781 --> 00:50:28,381
-You'll get a divorce?
+You're getting divorced?
 
 545
 00:50:28,537 --> 00:50:28,537
-I didn't ever get married.
+I haven't ever gotten married.
 
 546
 00:50:30,391 --> 00:50:34,798
@@ -2204,19 +2204,19 @@ I haven't told you yet? I have such a miserable memory...
 
 547
 00:50:34,999 --> 00:50:36,799
-I can't even remember how many shirts I have.
+I can't even remember the size of my shirt.
 
 548
 00:50:39,258 --> 00:50:42,315
-You remembered that we were here back then?
+Do you remember that we were here back then?
 
 549
 00:50:42,415 --> 00:50:46,205
-There was just a "music box" here nine years ago.
+Nine years ago, this was the only place with a music box.
 
 550
 00:50:50,169 --> 00:50:55,184
-Do you remember about our bet that you would bring me a flower in 10 minutes?
+Do you remember about our bet that you would bring me flowers in 10 minutes?
 
 551
 00:50:55,672 --> 00:50:57,031
@@ -2228,7 +2228,7 @@ No. Mountain rescue called about emergency situation.
 
 553
 00:51:02,331 --> 00:51:04,829
-A man lost in Obøí Dùl.
+A man lost in Ob¿í D¿l.
 
 554
 00:51:05,270 --> 00:51:08,566
@@ -2240,15 +2240,15 @@ You rescued that man. You returned after midnight.
 
 556
 00:51:16,033 --> 00:51:19,033
-Did you get married?
+Why didn't you get married?
 
 557
 00:51:19,391 --> 00:51:21,712
-And why didn't you get married?
+And why didn't *you* get married?
 
 558
 00:51:22,861 --> 00:51:25,869
-I was always more affected by mountains.
+I've always been more attracted by mountains.
 
 559
 00:51:27,547 --> 00:51:29,155
@@ -2272,7 +2272,7 @@ You don't have to tell me anything.
 
 564
 00:51:49,396 --> 00:51:52,132
-I won't reproach you. We knew each other for fourteen days.
+I won't reproach you. We'd known each other for fourteen days.
 
 565
 00:51:52,839 --> 00:51:53,663
@@ -2284,11 +2284,11 @@ You were dating somebody. And I was in the way.
 
 567
 00:51:58,168 --> 00:51:59,946
-And what were you doing for that eight years?
+And what have you been doing for that eight years?
 
 568
 00:52:00,046 --> 00:52:00,046
-Who did you want to marry anyway?
+Whom did you want to marry anyway?
 
 569
 00:52:02,828 --> 00:52:04,443
@@ -2326,7 +2326,7 @@ For example, this Christmas. There were a lot of people around me but no "my" pe
 577
 00:52:40,043 --> 00:52:43,267
 And as I started thinking about it,
-so primo boy appeared.
+such a primo boy appears.
 
 578
 00:52:43,671 --> 00:52:45,406
@@ -2334,7 +2334,7 @@ And on top of that --- he's mine.
 
 579
 00:52:45,691 --> 00:52:49,147
-Anna. Say it to me. I'm begging you...
+Anna. Tell me. I'm begging you...
 
 580
 00:52:49,564 --> 00:52:51,460
@@ -2362,7 +2362,7 @@ I do.
 
 586
 00:53:19,491 --> 00:53:22,151
-He's as great as me!
+He's as amazing as me!
 
 587
 00:54:04,149 --> 00:54:05,353
@@ -2386,7 +2386,7 @@ A spare one.
 
 592
 00:54:11,487 --> 00:54:13,540
-So Mom found somebody?
+So Mom found somebody, after all?
 
 593
 00:54:13,640 --> 00:54:15,784
@@ -2402,11 +2402,11 @@ What is he like?
 
 596
 00:54:20,325 --> 00:54:23,956
-A big one. A chief of a mountain rescue.
+A big one. A chief of a mountain rescue service.
 
 597
 00:54:26,613 --> 00:54:32,592
-Mom first has a general rehearsal. We should wait outside.
+Mom has a first rehearsal today. We have to wait outside.
 
 598
 00:54:33,157 --> 00:54:34,498
@@ -2418,7 +2418,7 @@ This is Mom?
 
 600
 00:54:51,774 --> 00:54:54,334
-Damn it, she's great.
+Damn it, she's got steam!
 
 601
 00:55:21,454 --> 00:55:23,556
@@ -2434,7 +2434,7 @@ Uncle Jindrich.
 
 604
 00:55:45,474 --> 00:55:50,610
-I don't like him! He's not confident and doesn't like dogs.
+I don't like him! He's not friendly and he doesn't like dogs.
 
 605
 00:55:55,343 --> 00:55:59,790
@@ -2466,7 +2466,7 @@ And why is there a Christmas tree and those presents?
 
 612
 00:56:17,988 --> 00:56:21,885
-For my daddy, of course. To bring him company.
+For my daddy, of course. So that he's not alone on Christmas.
 
 613
 00:56:31,110 --> 00:56:32,814
@@ -2560,7 +2560,7 @@ Lubos is lying.
 
 635
 00:57:42,842 --> 00:57:47,410
-Anna, please, don't be mad with me. I told Vasek.
+Anna, please, don't be mad with me. I told him.
 
 636
 00:57:48,265 --> 00:57:52,598
@@ -2580,7 +2580,7 @@ All of them are yours now.
 
 640
 00:58:24,893 --> 00:58:28,641
-You can't take him serious, Mom. He's a liar.
+You mustn't take him seriously, Mom. He's a liar.
 
 641
 00:58:29,141 --> 00:58:32,665
@@ -2592,7 +2592,7 @@ I'll help you.
 
 643
 00:58:36,125 --> 00:58:37,571
-Me, too.
+Me too.
 
 644
 00:58:49,462 --> 00:58:52,509
@@ -2616,7 +2616,7 @@ I don't know.
 
 649
 00:59:08,323 --> 00:59:12,211
-But I know! You left him under an avalanche!
+But I know! You left him under the avalanche!
 
 650
 00:59:12,348 --> 00:59:13,732
