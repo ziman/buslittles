@@ -451,7 +451,7 @@ I give up! Put up the tent!
 
 102
 00:14:03,388 --> 00:14:09,585
-~ I can't! The rules prohibit camping here!
+~ I can't! You can't camp in a nature reserve.
 ~ What do you mean?
 
 103
@@ -496,7 +496,7 @@ Folks, Krkonos Mountain has fallen! Our boy found his way home!
 
 112
 00:15:15,968 --> 00:15:18,007
-I came to show off my bride!
+I came to show you my bride!
 
 113
 00:15:20,828 --> 00:15:25,026
@@ -508,7 +508,7 @@ Beník, he'll probably be my grandfather!
 
 115
 00:15:36,248 --> 00:15:44,628
-Make yourself at home...here's the living room and here's the kitchen!
+Make yourself at home... here's the living room and here's the kitchen!
 
 116
 00:15:45,988 --> 00:15:50,584
@@ -537,15 +537,15 @@ This is the room that'll make my eyes bug out?
 122
 00:16:16,408 --> 00:16:19,666
 ~ You don't like it?
-~ It's crazy!
+~ Terribly!
 
 123
 00:16:20,588 --> 00:16:25,702
-I need to let my enthusiasm recover! I just spent two days on a bike!
+I can't be more amazed! I ride like a fool on a bike for two days.
 
 124
 00:16:25,828 --> 00:16:31,079
-In the tent, ants were crawling all over me, and now this? This is your idea of paradise?
+In the tent, ants crawl all over me, and now this? Is this the paradise of yours?
 
 125
 00:16:31,108 --> 00:16:35,924
@@ -563,33 +563,33 @@ It's going to be a great holiday!
 128
 00:16:52,508 --> 00:16:56,724
 ~ Why doesn't it heat the water?
-~ Don't stretch stove!
+~ Because the stove doesn't work properly.
 
 129
 00:16:56,848 --> 00:16:59,977
-~ Stretched how?
+~ How doesn't the stove work properly?
 ~ The chimney's crooked!
 
 130
 00:17:00,008 --> 00:17:05,446
-~ Why is it crooked?
-~ It can handle the water for one bath!
+~ Why is the chimney crooked?
+~ Bloody hell, so much fuss around a bath.
 
 131
 00:17:06,168 --> 00:17:12,243
 ~ Vasek, where are you? Into the house!
-~ Vasek'll bathe in this tub?
+~ I hope the boy's not going to bathe in the tub?
 
 132
 00:17:12,368 --> 00:17:18,744
-~ You call this a tub?
-~ Here we get rinsed under the pump.
-~ The Middle Ages.
+~ Here you call *that* a tub?
+~ Here, we wash under the pump.
+~ So you've got the Middle Ages here.
 
 133
 00:17:18,868 --> 00:17:26,104
 ~ What do you mean?
-~ That you haven't learned anything since the Middle Ages.
+~ That this place hasn't been cleaned since the 30-year war.
 
 134
 00:17:30,548 --> 00:17:36,818
@@ -603,12 +603,12 @@ It's going to be a great holiday!
 
 136
 00:17:43,388 --> 00:17:48,308
-Listen, a boy from the city doesn't call me Grandpa!
+Listen, no boy has called me Grandpa, ever!
 
 137
 00:17:48,928 --> 00:17:53,866
-~ Why shouldn't call you that, Grandpa?
-~ And you're a stranger?
+~ Why would a stranger boy call you that, Grandpa?
+~ Are you not a stranger boy?
 
 138
 00:17:53,988 --> 00:17:56,202
@@ -620,21 +620,21 @@ I sure knew how to choose, didn't I?
 
 140
 00:17:59,948 --> 00:18:06,467
-~ Greater treasure to the cottage you could bring me!
+~ Well, from the whole world, you couldn't have brought a greater treasure.
 ~ Don't say that!
 
 141
 00:18:06,888 --> 00:18:12,663
-~ Anna has a quick temper!
-~ Keep your compliments and drown!
+~ Anna's got as much steam as a locomotive.
+~ Keep your compliments and heat up the stove.
 
 142
 00:18:12,788 --> 00:18:15,097
-I have to find a stove.
+Well, I'll have to find the stove first.
 
 143
 00:18:15,228 --> 00:18:20,746
-~ What do you mean by grandpa?
+~ What do you mean by "grandpa"?
 ~ Lubos is my dad.
 
 144
@@ -659,16 +659,16 @@ His mom is my bride. No! My mom is his bride.
 
 148
 00:18:54,808 --> 00:18:59,628
-Does it really matter, Grandpa? Mainly, you're glad that you got me.
+No worries, Grandpa! The important thing is that you're glad you've got me.
 
 149
 00:18:59,748 --> 00:19:05,937
-I didn't wish for a grandson, but a man. No, not a baby!
+I did wish for a grandson, but a man. Not a sissy!
 
 150
 00:19:06,068 --> 00:19:11,426
-~ I'm not a baby.
-~ You are, too! Stuffed!
+~ I'm not a sissy.
+~ You are! A big one!
 
 151
 00:19:14,868 --> 00:19:17,336
@@ -676,7 +676,7 @@ Vasek!
 
 152
 00:19:18,868 --> 00:19:21,246
-You're not a baby!
+You're not a sissy!
 
 153
 00:19:21,868 --> 00:19:24,963
