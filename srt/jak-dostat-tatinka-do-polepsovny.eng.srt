@@ -704,7 +704,7 @@ Anna, dear, the moon is full! It will be a beautiful summer night!
 
 159
 00:20:29,788 --> 00:20:34,145
-Here I am! I saved you a place in bed!
+I'm here! I saved you a place in bed!
 
 160
 00:20:35,988 --> 00:20:39,344
@@ -732,7 +732,7 @@ Daddy, when I'm thinking about something, I find it hard to sleep! You, too?
 165
 00:21:14,048 --> 00:21:19,042
 ~ Wait until morning!
-~ Are there some mountains around?
+~ Are there some mountains around? Hidden somewhere?
 ~ You'll see!
 
 166
@@ -743,7 +743,7 @@ Daddy, when I'm thinking about something, I find it hard to sleep! You, too?
 
 167
 00:21:34,848 --> 00:21:39,867
-~ The correct mountaineer position now is to lie down and go to sleep.
+~ A proper climber sleeps as soon as he lies down.
 ~ It's not possible.
 
 168
@@ -761,11 +761,11 @@ She went to the pond, but a sprite emerged and pulled her under.
 
 171
 00:22:51,788 --> 00:22:58,102
-It looked like the back of a water sprite, but it was the dragon! That is why it's called a dragon loop.
+It wasn't a sprite, it was a dragon! That is why it's called a dragon loop.
 
 172
 00:22:58,228 --> 00:23:02,558
-The knot should bind on the left. Now, not outwards.
+The knot should bind on the left. Now it won't open when you fall.
 
 173
 00:23:02,688 --> 00:23:05,297
@@ -774,7 +774,7 @@ Come on down! Home!
 174
 00:23:05,428 --> 00:23:08,901
 ~ Is it time for breakfast?
-~ We'll go after breakfast.
+~ We'll leave after breakfast.
 
 175
 00:23:09,028 --> 00:23:13,640
@@ -784,7 +784,7 @@ Come on down! Home!
 
 176
 00:23:14,368 --> 00:23:21,877
-You've got another suitcase? Your shipment arrived this morning?
+You've got another suitcase? One arrived this morning with the postman.
 
 177
 00:23:22,108 --> 00:23:25,078
@@ -792,32 +792,32 @@ Is that kid making a fool out of me?
 
 178
 00:23:26,028 --> 00:23:31,660
-I'm sure you're both fools. He's all yours.
+Of course he is. He takes after you.
 
 179
 00:23:38,148 --> 00:23:44,938
-~ I told you what to do and you do the exact opposite!
+~ I told you what I don't want and why and you do the exact opposite!
 ~ These aren't mountains.
 
 180
 00:23:45,068 --> 00:23:50,781
-No? I don't want to go to Krkonos Mountain and here I am by a rock at the cottage.
+I didn't want to go to the mountains and you take me to a cottage with this rock.
 
 181
 00:23:50,908 --> 00:23:58,417
-The most beautiful place is where we born! If you don't like...
+The most beautiful place is where one is born! If I'd known you don't like it here, I'd have been born somewhere else.
 
 182
 00:23:58,548 --> 00:24:06,182
-Well, I was born elsewhere. I survived the room, grandpa!
+I survived the exhausting journey. I survived the room, I survived the grandpa! As I did this unmaintained place.
 
 183
 00:24:06,388 --> 00:24:09,267
-But the boy will not be a climber!
+But you're not going to make a climber out of the boy.
 
 184
 00:24:10,388 --> 00:24:15,587
-I don't want to worry about a rock killing him. We're leaving!
+I don't want to worry about him getting killed on a rock. Pack up, we're leaving!
 
 185
 00:24:16,008 --> 00:24:22,180
@@ -829,7 +829,7 @@ From now on, what I say goes!
 
 187
 00:24:26,448 --> 00:24:33,862
-No, Mom! Grandpa let me stay here! I'm friends with grandpa now.
+No, Mom! I'm not leaving Grandpa here! I'm friends with grandpa now.
 
 188
 00:24:33,988 --> 00:24:37,742
@@ -842,16 +842,16 @@ I always wanted a grandpa. Mommy!
 
 190
 00:24:47,548 --> 00:24:53,684
-Listen, you two! You can do what you want on the land lower than the cottage.
+Listen, you two! You can do what you want on the land below the cottage.
 
 191
 00:24:53,708 --> 00:25:00,377
-But if I catch you on a rock, I'll be furious! I'm serious!
+But if I catch you on the rock by the pond... I'm serious!
 
 192
 00:25:00,408 --> 00:25:07,884
-~ Otherwise, it's over between us. Deal?
-~ Depend on me! ~ Not me!
+~ So, deal?
+~ You can rely on me! ~ Not me!
 
 193
 00:25:08,508 --> 00:25:11,580
@@ -860,7 +860,7 @@ But if I catch you on a rock, I'll be furious! I'm serious!
 
 194
 00:25:13,028 --> 00:25:17,401
-All right, you can count on me!
+Me too, you can rely on me!
 
 195
 00:25:28,108 --> 00:25:31,259
@@ -878,8 +878,8 @@ There, too!
 
 198
 00:25:44,948 --> 00:25:50,068
-~ Don't look and pick it up!
-~ Here's the same rock.
+~ Don't look and speed up.
+~ Oh gosh, it's all rocks here!
 
 199
 00:25:50,348 --> 00:25:52,465
@@ -887,7 +887,7 @@ Speed up!
 
 200
 00:25:56,988 --> 00:26:03,921
-Dad, wait! Just on the rock, then we'll go!
+Dad, wait! We'll just touch the rock, then we'll go!
 
 201
 00:26:04,048 --> 00:26:08,868
@@ -930,7 +930,7 @@ I meant struggling against nature, not against your mom.
 
 210
 00:26:53,788 --> 00:26:59,345
-Overcoming mom, that's tougher than the 8,000 meter climb.
+Overcoming mom, that's tougher than a 8000 meter climb.
 
 211
 00:27:00,868 --> 00:27:04,727
@@ -939,7 +939,7 @@ Overcoming mom, that's tougher than the 8,000 meter climb.
 
 212
 00:27:04,848 --> 00:27:07,985
-It's my turn to show up with old Mána.
+So that it doesn't break up at the show.
 
 213
 00:27:08,008 --> 00:27:14,947
@@ -968,15 +968,15 @@ The very last place!
 
 218
 00:27:42,568 --> 00:27:49,377
-I'm not scared of the Tooth, but I'm scared of Mom. Otherwise I would have climbed it.
+I'm not scared of the Tooth, but you are scared. Of Mom. Otherwise we would have climbed it.
 
 219
 00:27:49,408 --> 00:27:54,745
-Do you know what you want from me? What apology?
+Do you know what you're asking from me? Do you not feel bad?
 
 220
 00:27:55,968 --> 00:28:02,062
-Do you know how much uncertainty I had, since I had no father like other boys?
+Do you know how bad I felt while I had no father like other boys?
 
 221
 00:28:09,428 --> 00:28:15,918
@@ -991,11 +991,11 @@ Do you know how much uncertainty I had, since I had no father like other boys?
 
 223
 00:28:24,468 --> 00:28:30,404
-I'll do what I can! But you must leave your mother alone!
+I'll do what I can! But you must leave us alone!
 
 224
 00:28:30,508 --> 00:28:33,420
-You can count on me!
+You can rely on me!
 
 225
 00:28:34,948 --> 00:28:39,464
@@ -1013,30 +1013,30 @@ Vasek! Vasek, Lubos!
 
 228
 00:28:54,308 --> 00:28:56,583
-God knows what to think!
+I'd like to know what they've got on their minds!
 
 229
 00:28:56,708 --> 00:29:01,500
-If they took a shortcut, I'll be waiting for them with dinner.
+If they took a shortcut, we'll be waiting for them with the dinner.
 
 230
 00:29:13,188 --> 00:29:19,366
-The shortcut will take about three hours. There's something funny going on here.
+The shortcut will take about three hours. This is a really crazy place.
 
 231
 00:29:19,788 --> 00:29:26,836
 ~ Where are the potatoes? They were here.
-~ Weren't those moldy?
+~ You mean the week old, mouldy potatoes?
 
 232
 00:29:27,168 --> 00:29:33,062
 ~ I threw them away.
-~ We'll have to get some more, Pepa!
+~ There goes our snack, Pepa!
 
 233
 00:29:45,148 --> 00:29:48,823
 ~ What's this?
-~ It's Pepa.
+~ This is Pepa.
 
 234
 00:29:49,428 --> 00:29:54,980
@@ -1045,44 +1045,44 @@ The shortcut will take about three hours. There's something funny going on here.
 
 235
 00:29:55,108 --> 00:30:00,182
-I annoyed three of the chairpersons before I got this winner.
+I went around three communal farms to get him.
 
 236
 00:30:00,308 --> 00:30:05,905
-~ A black pig is rare.
-~ Mom, can't you see it!?
+~ A black pig is rare these days.
+~ Mom, can you see it!?
 
 237
 00:30:06,068 --> 00:30:12,979
-I have three guys around my neck and I have to worry about a pig! He said Bermuda!
+As if three men weren't enough; I have to care for a pig, too. What a Bermuda trip!
 
 238
 00:30:13,008 --> 00:30:18,640
-So this woman had such a poor childhood.
+Look Pepa, it looks like the poor boy's had no life with that woman.
 
 239
 00:30:19,068 --> 00:30:25,940
-You should certainly not begrudge him. You don't know what he wants his soul.
+You'll certainly not have a clue what he longs for!
 
 240
 00:30:26,068 --> 00:30:32,101
-I know! He'd like chimpanzees to swing on the chandelier in the bedroom.
+I know! He'd like a chimpanzee to swing on the chandelier in the bedroom.
 
 241
 00:30:32,228 --> 00:30:36,985
-I wanted to breed whales when I was his age.
+I wanted to keep whales when I was his age.
 
 242
 00:30:37,108 --> 00:30:42,299
-That hardly surprises me. What he didn't inherit from his father you still have!
+That hardly surprises me. What he didn't inherit from his father, he inherited from you.
 
 243
 00:30:43,328 --> 00:30:46,525
-Has either one of you ever washed the floor?
+And the floor will be scrubbed by one of you. And I guess Pepa won't do it.
 
 244
 00:30:47,948 --> 00:30:54,262
-So you didn't have to! You're single mother, I don't mind.
+That you're a single mother, I don't mind.
 
 245
 00:30:54,388 --> 00:30:59,939
@@ -1117,21 +1117,21 @@ Vasek's in the woods with grandpa getting beechnuts! Do you understand?
 252
 00:31:32,508 --> 00:31:37,882
 ~ No!
-~ I sent them away.
+~ I disappeared from them.
 ~ Are you asking me on a date?
 
 253
 00:31:38,608 --> 00:31:45,184
-Honey, don't be surprised. I'm a world beater at 2 kilometers.
+Honey, don't be surprised. I'm a world record beater at 2 kilometers' run.
 
 254
 00:31:45,908 --> 00:31:53,538
 ~ But I have muffins on the stove.
-~ You know what I think? You know what I think?
+~ What are you thinking about!
 
 255
 00:31:53,708 --> 00:31:56,862
-About getting something to eat!
+That you need something to eat!
 
 256
 00:31:57,088 --> 00:31:59,363
@@ -1148,45 +1148,45 @@ Not this way! It'll track in dirt from the barn.
 
 259
 00:32:14,348 --> 00:32:19,186
-~ What did I promise you?
-~ That you'd talk my mom into it.
+~ What did you promise me?!
+~ I didn't know you were persuading Mom.
 
 260
 00:32:19,308 --> 00:32:24,223
 ~ What were you thinking?
-~ That I'd been lost in the woods.
+~ That you were lost in the woods.
 
 261
 00:32:26,708 --> 00:32:34,388
-~ Grandpa, can we borrow Pepa?
-~ Why, for playing?
-~ No, to hunt wild boar.
+~ Grandpa, can we make Pepa wild?
+~ The pig? And why?
+~ So that he's wild again.
 
 262
 00:32:35,208 --> 00:32:38,560
-It would be the highlight of the whole holiday.
+That would take a lot of work! The whole holiday.
 
 263
 00:32:38,688 --> 00:32:45,797
-~ Do you know how to go about it?
-~ No! Grandpa has a plan.
+~ If you didn't go to work, could you do it?
+~ No! Grandpa has a plan to fulfill.
 
 264
 00:32:45,828 --> 00:32:49,264
-I'm glad Pepa's tame.
+Pepa's happy he's tame, in the barn.
 
 265
 00:32:49,388 --> 00:32:54,858
-~ Where are you, ants?
-~ Grandpa, how would you do it?
+~ Where are the ants coming from all the time?
+~ Grandpa, where do you actually work?
 
 266
 00:32:54,988 --> 00:32:57,627
-I have three working tools:...
+I have three working tools:
 
 267
 00:32:57,848 --> 00:33:05,463
-a trained body, an obsession to test everything in the world, and strong nerves.
+a trained body, an obsession to achieve everything in the world, and strong nerves.
 
 268
 00:33:05,888 --> 00:33:10,847
@@ -1195,11 +1195,11 @@ a trained body, an obsession to test everything in the world, and strong nerves.
 
 269
 00:33:11,448 --> 00:33:16,637
-Why are all the climbers looking at me? I'm a roofer.
+All the climbers look at me from below! I'm a roofer.
 
 270
 00:33:17,168 --> 00:33:20,304
-So that rope in the loft's yours?
+So the rope in the loft's yours?
 
 271
 00:33:20,428 --> 00:33:28,618
@@ -1211,7 +1211,7 @@ Dad's persuading Mom.
 
 273
 00:33:31,228 --> 00:33:36,660
-Today we definitely have to go out. You'd could come to the pond!
+Tonight it'll surely work out. But you'd better come downstairs, we'll go to the pond.
 
 274
 00:33:36,688 --> 00:33:43,480
@@ -1225,7 +1225,7 @@ Today we definitely have to go out. You'd could come to the pond!
 
 276
 00:33:48,028 --> 00:33:54,176
-There are goods in that anthill? Maybe next time I'll go there with you.
+They must be storing goods in an anthill. Maybe next time I'll go there with you.
 
 277
 00:33:54,268 --> 00:33:59,600
@@ -1239,20 +1239,20 @@ There are goods in that anthill? Maybe next time I'll go there with you.
 
 279
 00:34:10,508 --> 00:34:17,984
-When Anna discovers that you climb on the rocks with the kid, you wouldn't be here an hour.
+When Anna discovers that you climb on the rocks with the kid, she's not staying here an hour.
 
 280
 00:34:18,308 --> 00:34:23,226
-~ It would upset you?
-~ No, but what if you take the kid?
+~ That would make you sad, wouldn't it?
+~ No, but what if she takes the kid with her?
 
 281
 00:34:23,348 --> 00:34:26,977
-We don't have to see him, you know.
+We may not ever see him again.
 
 282
 00:34:27,108 --> 00:34:32,546
-If this bothers you, just go to sleep!
+If that's what bothers you, you can just go to bed quickly.
 
 283
 00:34:50,468 --> 00:34:53,426
@@ -1264,25 +1264,25 @@ Lubos!
 
 285
 00:35:09,688 --> 00:35:17,776
-~ Lubos, what did Anna do with the whale?
+~ Lubos, what did Anna mean by the whale?
 ~ With what whale?
 
 286
 00:35:17,808 --> 00:35:22,082
-I thought I brought up a real man.
+I always thought I brought up a real man.
 
 287
 00:35:22,108 --> 00:35:27,259
-~ If you knew Anna was expecting your baby, would you accept that?
+~ That if you'd known Anna was expecting your baby, you'd have married her.
 ~ Of course I would!
 
 288
 00:35:27,688 --> 00:35:33,121
-That's what I like! Because the guy who does not care about his child...
+That's what I like! Because with a guy who does not care about his child...
 
 289
 00:35:33,248 --> 00:35:37,676
-~ wouldn't get my hand.
+~ ...I wouldn't even shake hands.
 ~ But I didn't know.
 
 290
@@ -1291,36 +1291,36 @@ I've had enough!
 
 291
 00:35:56,548 --> 00:36:03,377
-~ I can tan your butt!
+~ I can spank your butt!
 ~ If you knew how scared I was today.
 
 292
 00:36:03,508 --> 00:36:08,059
-I could have fallen asleep sooner than Mom, but I resisted.
+That I would fall asleep sooner than Mom. But I resisted!
 
 293
 00:36:09,088 --> 00:36:14,321
-It's clear now! At night you don't have to wait for me.
+Let me make this clear. At night you don't have to wait for me.
 
 294
 00:36:15,448 --> 00:36:21,718
-~ I'm taking this.
+~ I'm cleaning this.
 ~ What?
 ~ The sugar!
 
 295
 00:36:21,908 --> 00:36:25,423
 ~ Why?
-~ To protect it from the ants.
+~ I'm picking out the ants.
 
 296
 00:36:25,548 --> 00:36:33,582
-~ What are you thinking?
-~ I'm scared to go shopping with Mom.
+~ What kind of idea is that?!
+~ I'm worried Mom would go shopping with us.
 
 297
 00:36:34,408 --> 00:36:40,427
-Just now that I'm starting to climb well, I don't want it all to come to a screeching halt.
+Now that we've just started to... you know... so that we don't have to stop.
 
 298
 00:36:41,448 --> 00:36:46,345
