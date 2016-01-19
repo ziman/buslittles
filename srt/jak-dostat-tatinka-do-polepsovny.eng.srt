@@ -2161,7 +2161,7 @@ Grandpa, help! Grandpa!
 
 486
 00:59:53,828 --> 00:59:58,219
-~ Dad's hanging on a rock.
+~ Dad's hanging on the rock.
 ~ Which one?
 
 487
@@ -2179,7 +2179,7 @@ Mom, help! Water Goblin!
 
 490
 01:00:11,268 --> 01:00:17,946
-I told you, Grandpa! This child of yours got a shock.
+I told you, Grandpa! The child got shocked by you!
 
 491
 01:01:04,308 --> 01:01:08,426
@@ -2191,15 +2191,15 @@ What is it?
 
 493
 01:01:19,448 --> 01:01:22,918
-A water goblin, and he called me Fanda?
+A water goblin, and he called me Fanda.
 
 494
 01:01:24,628 --> 01:01:29,918
-That guy scared me. What are you doing?
+Oh gosh, that boy scared me. What are you doing here?
 
 495
 01:01:30,048 --> 01:01:36,020
-No problem, I still had a rock in my hand. Still, I wish the boy'd listened to me.
+It was just a loose bit of rock in my hand. Fortunately the boy listened to me.
 
 496
 01:01:36,148 --> 01:01:41,222
@@ -2207,7 +2207,7 @@ Why would he listen? You disobey me, too!
 
 497
 01:01:41,348 --> 01:01:46,217
-Don't worry! Your jokes are stupid!
+Don't worry! Your jokes are so stupid!
 
 498
 01:01:46,348 --> 01:01:49,420
@@ -2215,17 +2215,17 @@ Damn! Our Mom!
 
 499
 01:01:49,548 --> 01:01:53,746
-Anna, honey! Where did you come from?
+Anna, honey! Where are you coming from?
 
 500
 01:01:55,028 --> 01:02:00,546
-~ You are nice scammers!
+~ You are such liars!
 ~ I'm not! I'm just a sprite!
 
 501
 01:02:00,668 --> 01:02:06,777
 ~ This is where you go shopping?
-~ No, we're on our way shopping!
+~ No, this is the way to the shop.
 
 502
 01:02:07,308 --> 01:02:10,823
@@ -2244,7 +2244,7 @@ What's this, clothesline? I forbade you to climb rocks. You promised!
 505
 01:02:29,068 --> 01:02:33,141
 ~ Don't shout!
-~ What was that?
+~ So what is it?
 
 506
 01:02:33,268 --> 01:02:36,704
@@ -2252,7 +2252,7 @@ I confess, I climbed up.
 
 507
 01:02:36,828 --> 01:02:44,640
-I wanted to show off in front of the kid. I'm a conceited idiot!
+I wanted to show off in front of the kid. I'm an egoistical idiot, you already told me!
 
 508
 01:02:45,368 --> 01:02:48,121
@@ -2268,16 +2268,16 @@ You expect me to believe that Vasek sat and just watched?
 
 511
 01:02:57,328 --> 01:03:00,826
-You should trust me. He's my child!
+You should trust me more. He's my child!
 
 512
 01:03:00,948 --> 01:03:04,360
-~ With me, nothing will happen to him!
+~ With me, nothing can happen to him!
 ~ Be reasonable!
 
 513
 01:03:04,408 --> 01:03:09,424
-If the boy had been up there, too, he wouldn't have needed any help.
+If the boy had been up there, too, he couldn't have come to get help.
 
 514
 01:03:09,548 --> 01:03:13,679
@@ -2285,20 +2285,20 @@ I believe you, Grandpa! And when you kill yourself on the rock, I won't care.
 
 515
 01:03:20,708 --> 01:03:25,507
-Don't be sad, Dad! Mom spoke the truth.
+Don't be sad, Dad! Mom didn't say the truth.
 
 516
 01:03:25,628 --> 01:03:32,523
 ~ Do you think she would shed a tear for me?
-~ A whole stream. Absolutely!
+~ A whole river. Absolutely!
 
 517
 01:03:40,928 --> 01:03:45,383
-I wonder how Anna now shall flow with you to the altar?
+I wonder how Anna will now rush with you to the altar?
 
 518
 01:03:46,208 --> 01:03:52,027
-Have you told her that you're leaving in the middle of the summer?
+Have you told her that you're leaving on Wednesday?
 
 519
 01:03:54,548 --> 01:03:56,220
@@ -2319,11 +2319,11 @@ Be careful, everyone. What do you see here?
 
 523
 01:04:14,908 --> 01:04:18,287
-Leave the cakes alone, or there won't be any for dinner.
+Leave the cakes alone, or you're not gonna eat the dinner.
 
 524
 01:04:18,308 --> 01:04:22,138
-Do you think I'm going to eat what they cook?
+Do you think it will be edible, what those two are cooking?
 
 525
 01:04:22,368 --> 01:04:27,181
@@ -2361,7 +2361,7 @@ What if mom gets lost?
 
 533
 01:05:03,508 --> 01:05:07,126
-It'll be best if the three of us all track her.
+It would be best if the three of us all tracked her.
 
 534
 01:05:07,248 --> 01:05:12,964
@@ -2386,7 +2386,7 @@ Don't tell me! I understand about your shopping and the ants.
 
 539
 01:05:42,068 --> 01:05:46,505
-Vasek followed you on the rocks every day! He gave you away.
+You climbed on the rock every day!
 
 540
 01:05:47,428 --> 01:05:53,139
@@ -2395,11 +2395,11 @@ Vasek followed you on the rocks every day! He gave you away.
 
 541
 01:05:53,268 --> 01:05:57,441
-After all, you climbed on the rocks for your pleasure, in this heat?
+Don't tell me you'd climb rocks for your pleasure, in this heat?
 
 542
 01:05:57,568 --> 01:06:04,997
-I feel guilty about what I did, but also for what I didn't do.
+If you knew how guilty I feel about what I did, but mostly for what I didn't do.
 
 543
 01:06:05,128 --> 01:06:08,803
@@ -2407,16 +2407,16 @@ I can never give back to Vasek what I owe him!
 
 544
 01:06:09,028 --> 01:06:11,361
-Eight years of life.
+Eight years of ordinary life.
 
 545
 01:06:15,188 --> 01:06:21,707
-In August, I'd go anywhere with you. Even on a bicycle to Krkonos Mountain.
+In August, I'll go anywhere with you. Even on a bicycle to Krkonose Mountains.
 
 546
 01:06:21,828 --> 01:06:27,343
 ~ I'd rather stay here with Grandpa.
-~ The wedding could be here on Tuesday!
+~ The wedding could also be here, in the village, on Tuesday...
 
 547
 01:06:27,468 --> 01:06:31,097
@@ -2424,11 +2424,11 @@ It doesn't matter where the wedding is.
 
 548
 01:06:31,628 --> 01:06:36,907
-It matters! Grandpa and the kid should be happy!
+It matters! Grandpa would be happy!
 
 549
 01:06:37,328 --> 01:06:41,643
-Today's Sunday, I'll write a letter to my mother on Monday. I'll have it off by noon.
+Today's Sunday, I'll write a letter to my mother on Monday. It'll arrive on Wednesday, ...
 
 550
 01:06:41,768 --> 01:06:46,819
@@ -2438,7 +2438,7 @@ Today's Sunday, I'll write a letter to my mother on Monday. I'll have it off by 
 551
 01:06:46,948 --> 01:06:57,966
 ~ Why?
-~ There's something you don't know. I'll explain all this!
+~ If you knew what you don't. I'll tell you... I have to tell you...
 
 552
 01:06:58,288 --> 01:07:00,882
@@ -2446,36 +2446,36 @@ Don't say anything now!
 
 553
 01:07:24,308 --> 01:07:29,826
-Grandpa, this is no game! Dad shouldn't give Mom any hints at all.
+Grandpa, this is no fair game! Dad isn't tracking Mom at all!
 
 554
 01:07:29,948 --> 01:07:33,060
-None, but he's carrying her.
+He's even carrying her.
 
 555
 01:07:33,188 --> 01:07:35,781
-So let them! In the evening we'll deduct points.
+So let them be! In the evening we'll deduct their points.
 
 556
 01:07:35,808 --> 01:07:42,784
-You broke the route. You should be at the crossroads, not the cemetery.
+You broke the route, too. You should be at the crossroads, not the cemetery.
 
 557
 01:07:42,808 --> 01:07:53,937
-Don't grumble, here's where grandma rests. Too bad she didn't live with luck.
+Don't yell, here's where grandma rests. Too bad she didn't live to see the treasure...
 
 558
 01:07:54,548 --> 01:07:56,584
-What luck?
+What treasure?
 
 559
 01:07:56,708 --> 01:08:02,781
-You have some luck, Grandpa? Hiding? Right?
+You have a treasure, Grandpa? Hidden?
 
 560
 01:08:08,668 --> 01:08:17,324
 ~ Grandpa! Grandpa!
-~ You see, I'm happy! The boy's pulling such a stunt.
+~ You see, the boy makes a silly thing out of everything.
 
 561
 01:08:18,268 --> 01:08:21,704
@@ -2483,7 +2483,7 @@ He probably is really ours!
 
 562
 01:08:25,468 --> 01:08:28,699
-Now I don't know what to think.
+Don't think about anything anymore.
 
 563
 01:08:31,668 --> 01:08:37,967
@@ -2498,7 +2498,7 @@ Somebody's breathing here.
 01:08:47,168 --> 01:08:58,361
 ~ Don't turn around! This isn't Colombo.
 ~ It's Pepa.
-~ It's not Pepa.
+~ This isn't Pepa.
 
 566
 01:08:59,008 --> 01:09:02,023
@@ -2506,7 +2506,7 @@ It's a wild boar!
 
 567
 01:09:08,668 --> 01:09:11,660
-Too bad it's not Venda.
+Too bad Venda's not here.
 
 568
 01:09:16,448 --> 01:09:21,337
