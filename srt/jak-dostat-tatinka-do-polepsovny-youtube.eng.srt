@@ -1656,7 +1656,7 @@ You know what I wish? That I could have those eight years back.
 373
 0:45:39,431 --> 0:45:46,444
 ~ Vasek didn't have a very great childhood with me.
-~ Finally a reasonable sentence. I'll tell you something, too...
+~ Finally something reasonable. I'll tell you something, too...
 
 374
 0:45:46,575 --> 0:45:53,290
@@ -1695,7 +1695,7 @@ But when you go shopping, someone always comes back with torn pants!
 
 382
 0:46:28,758 --> 0:46:38,035
-We've been waiting a long time for this moment. Are you sure you just want to talk?
+We've been waiting a long time for this moment. And you'd just talk to me!
 
 383
 0:46:38,263 --> 0:46:44,137
@@ -1709,11 +1709,11 @@ We've been waiting a long time for this moment. Are you sure you just want to ta
 
 385
 0:46:50,170 --> 0:46:56,613
-I know. You must sacrifice yourself so much to do all the silly stuff with our boy.
+I know. You must force yourself so much to do all the silly stuff with our boy.
 
 386
 0:46:57,034 --> 0:47:1,575
-I don't have to sacrifice myself at all.
+I don't have to force myself at all.
 
 387
 0:47:9,821 --> 0:47:13,721
@@ -1756,7 +1756,7 @@ Granddad, my dad invented a new game, we need a stopwatch!
 
 396
 0:48:11,555 --> 0:48:16,190
-When I whistle, leaves begin to fall from the trees.
+When I whistle, leaves start falling from the trees.
 
 397
 0:48:16,818 --> 0:48:21,691
@@ -1768,7 +1768,7 @@ That's nothing at all. When I whistle... slaps start coming.
 
 399
 0:48:27,884 --> 0:48:31,515
-~ Well, you win!
+~ Well, you're chosen!
 ~ Why not me?
 
 400
@@ -1778,12 +1778,12 @@ You could forget to come back and we'd stay hungry.
 401
 0:48:37,610 --> 0:48:42,926
 ~ Into the enemy camp we have to send...
-~ The most reliable!
+~ The most reliable one!
 
 402
 0:48:43,053 --> 0:48:50,008
 ~ Be careful not to get captured!
-~ Grandpa, who are we fighting against?
+~ Grandpa, whom are we fighting against?
 
 403
 0:48:50,137 --> 0:48:52,652
@@ -1794,11 +1794,11 @@ You could forget to come back and we'd stay hungry.
 0:48:52,778 --> 0:49:0,057
 ~ So mom will be our enemy!
 ~ I'm against that!
-~ I'm for!
+~ Don't worry Dad, I'm for!
 
 405
 0:49:0,803 --> 0:49:7,696
-I was talking with Kos. You can get married in the village. I'll write the wedding speech myself.
+I was talking to Kos. You can get married in the village. I'll write the wedding speech myself.
 
 406
 0:49:7,826 --> 0:49:13,346
@@ -1806,7 +1806,7 @@ I'll casually mention Venda and the rocks.
 
 407
 0:49:13,570 --> 0:49:19,424
-Anna will be thrilled to hear about the wedding speech, it's not necessary...
+Anna will be thrilled to hear about the wedding speech; it's not necessary...
 
 408
 0:49:19,553 --> 0:49:21,812
@@ -1840,7 +1840,7 @@ You're not staying even until the end of July? What does Anna say?
 415
 0:49:54,252 --> 0:49:59,569
 ~ Nothing!
-~ She still doesn't know anything?
+~ She doesn't know anything, again?
 ~ I don't want to ruin her last week.
 
 416
@@ -1881,7 +1881,7 @@ We have a new fighting game, and it has strict rules.
 424
 0:51:57,721 --> 0:52:4,196
 ~ Take what you'll eat and leave the rest at home!
-~ But they're hungry, too.
+~ But Dad and Grandpa are hungry, too.
 
 425
 0:52:4,324 --> 0:52:9,526
@@ -2373,8 +2373,8 @@ Oh! I understand!
 
 536
 1:5:18,726 --> 1:5:24,486
-~ What are you doing? Did you slice the cucumbers?
-~ My muffins.
+~ What are you doing? Where are you grating the cucumber?!
+~ Into my muffins!
 
 537
 1:5:29,532 --> 1:5:35,167
@@ -2511,12 +2511,12 @@ Too bad Venda's not here.
 568
 1:9:15,757 --> 1:9:20,649
 ~ Mom, we'll be walking to the wedding?
-~ So what? You'd rather we had to ride a bike?
+~ So what? You'd rather we rode a bike?
 
 569
 1:9:20,880 --> 1:9:28,403
 ~ That's not a bad idea!
-~ I'll do even better! I'll get you a great ride!
+~ I've got an even better idea! I'll get you a great ride!
 
 570
 1:9:28,624 --> 1:9:32,456
@@ -2529,22 +2529,21 @@ How's this? I've got a better idea!
 
 572
 1:9:36,549 --> 1:9:43,941
-~ But I don't know just what kind yet.
+~ But I don't know just what idea yet.
 ~ I'm relieved.
 
 573
 1:9:44,073 --> 1:9:50,084
-~ Lubos, save it for the wedding!
-~ But this left us just a few steps away from the top!
+~ Lubos, hold it until the wedding!
+~ But Grandpa, there are only a few steps left until the top.
 
 574
 1:9:50,216 --> 1:9:56,856
-~ There! And my dad won't try?
-~ Careful! Otherwise he'll carry you off to the pen with Pepa!
+~ No way! And if you, little brat, tempt Dad, I'll lock you up with Pepa!
 
 575
 1:9:57,180 --> 1:9:59,776
-And I warn you one last time!
+I warn you the last time!
 
 576
 1:10:7,026 --> 1:10:13,182
@@ -2552,16 +2551,16 @@ Grandpa! Have you seen the guys?
 
 577
 1:10:13,509 --> 1:10:16,129
-They went shopping in the morning but never even went to the store.
+They went shopping in the morning but they haven't made it to the shop yet.
 
 578
 1:10:16,151 --> 1:10:20,372
-~ I've got a letter for my mother.
+~ And they left the letter for Mom on the table.
 ~ How did you find your way to the village?
 
 579
 1:10:21,294 --> 1:10:27,054
-~ The road. There were ants in the sugar again.
+~ On the road. There were ants in the sugar again.
 ~ You know what?
 
 580
@@ -2571,7 +2570,7 @@ There's the mail box, the sugar, so go on home.
 581
 1:10:32,680 --> 1:10:35,259
 ~ What about the guys?
-~ We'll handle this alone.
+~ I'll deal with this myself.
 
 582
 1:10:35,381 --> 1:10:38,455
@@ -2579,7 +2578,7 @@ Mána's crew wishes good health to the bride.
 
 583
 1:10:38,583 --> 1:10:44,024
-~ I brought Voves.
+~ My names is Voves.
 ~ Wolf, the head of the pigs' nursery.
 
 584
@@ -2611,12 +2610,12 @@ We're here to be witnesses. Kos, our president.
 
 589
 1:11:7,579 --> 1:11:13,632
-~ Lubos didn't tell you? The whole village knows.
-~ What?
+~ You're joking, right? Lubos didn't tell you? The whole village knows.
+~ Tell me what?
 
 590
 1:11:14,163 --> 1:11:18,681
-~ He's leaving Wednesday.
+~ He's leaving on Wednesday.
 ~ Who?
 ~ Lubos, of course!
 
@@ -2632,7 +2631,7 @@ We're here to be witnesses. Kos, our president.
 
 593
 1:11:25,829 --> 1:11:31,545
-~ Mountaineers are having an exercise.
+~ Mountaineers are having a session.
 ~ In the Carpathians.
 
 594
@@ -2646,17 +2645,17 @@ He also said that there'll also be Poles, Germans, and Soviets.
 
 596
 1:11:41,818 --> 1:11:46,110
-~ How long will he be there, did he say?
+~ How long he'll be there, did he say?
 ~ They say until the end of the holidays.
 
 597
 1:11:46,341 --> 1:11:50,892
-~ He'll be back in September.
-~ Leave it, she doesn't know what's going on!
+~ He'll be back on the 3rd of September.
+~ Let it be, she doesn't know what's going on!
 
 598
 1:11:51,524 --> 1:11:55,500
-I guess I've spoken out of turn. Do you know about a mountaineering exercise?
+Oh I wonder if I've spilled a secret... Miss, do you know he is a mountaineer?
 
 599
 1:11:55,626 --> 1:11:59,940
@@ -2675,11 +2674,11 @@ Anna, I'll fix it! Everything will be fine.
 
 602
 1:12:15,877 --> 1:12:20,396
-Take the shortcut. The pub's to the right.
+Take the shortcut. To the right at the pub.
 
 603
 1:12:20,520 --> 1:12:22,876
-Not the shortcut!
+Not the shortcut! No!
 
 604
 1:12:23,001 --> 1:12:25,961
@@ -2702,17 +2701,17 @@ Come on, crank it up!
 
 608
 1:13:15,750 --> 1:13:18,310
-Look at this beauty!
+Why just "like"? Look at this beauty!
 
 609
 1:13:27,717 --> 1:13:34,671
-~ No signs, just the sun... ~ Rock...
+~ Noone anywere, just the sun... ~ Rock...
 ~ Dragon's Tooth... ~ And the two of us!
 
 610
 1:13:38,123 --> 1:13:44,657
 ~ Can you hear that, Dad, Mána!? Is there a fire?
-~ Yeah! Directly below us.
+~ Yeah, right under our asses.
 
 611
 1:13:45,367 --> 1:13:48,618
@@ -2738,7 +2737,7 @@ Guys, watch out, Mom!
 616
 1:14:5,738 --> 1:14:10,110
 ~ Grandpa, how will they get down?
-~ Down the rope.
+~ The way they got up, on the rope.
 
 617
 1:14:10,141 --> 1:14:15,376
@@ -2757,8 +2756,8 @@ No, Mom, not a ladder! We are climbers!
 
 620
 1:14:25,349 --> 1:14:30,551
-~ It will be chancy!
-~ The Conqueror of picturesque mountains on the ladder.
+~ This will be a thriller.
+~ The Conqueror of picturesque mountains on a ladder.
 
 621
 1:14:30,672 --> 1:14:37,195
@@ -2772,24 +2771,25 @@ No, Mom, not a ladder! We are climbers!
 
 623
 1:14:40,898 --> 1:14:46,316
-~ It doesn't work.
+~ It won't...
 ~ Why not?
 ~ It's stuck!
 
 624
 1:14:46,441 --> 1:14:53,521
-~ Turn it again.
+~ It's turning again...
 ~ But the other way around.
-~ What happened here? I do not know.
+~ What happened here?
+~ I do not know.
 
 625
 1:14:53,645 --> 1:14:59,883
-So! Someone says something and you spread it around the village via express.
+Someone says something and you spread it around the village immediately.
 
 626
 1:15:0,008 --> 1:15:5,802
 ~ We'll rescue the chief with the ladder.
-~ Lubos? The two of you?
+~ Rescuing Lubos? You two?
 
 627
 1:15:5,932 --> 1:15:13,570
@@ -2800,7 +2800,7 @@ So! Someone says something and you spread it around the village via express.
 628
 1:15:13,696 --> 1:15:21,138
 ~ Vasek, wait!
-~ Andrés, no! They deserve praise!
+~ Darling, no! He deserves praise for that feat!
 
 629
 1:15:21,260 --> 1:15:25,380
@@ -2816,11 +2816,11 @@ Lubos, down!
 
 632
 1:15:34,507 --> 1:15:42,126
-Now it will be exciting: if the storm gets even the chief.
+Now it will be exciting to see if the chief gets spanked, too.
 
 633
 1:15:42,452 --> 1:15:46,586
-~ The Mom looks pretty well?
+~ The Mom looks pretty well, too.
 ~ Yeah!
 
 634
@@ -2841,23 +2841,23 @@ Honey!
 
 638
 1:17:7,099 --> 1:17:12,592
-I promised Vasek! Nothing will happen to him!
+I promised Vasek! Nothing could have happened to him!
 
 639
 1:17:15,624 --> 1:17:18,238
-I take it on my conscience!
+I wouldn't be able to live with that!
 
 640
 1:17:23,428 --> 1:17:25,678
-He's my son!
+He's my son, after all!
 
 641
 1:17:27,290 --> 1:17:32,367
-Anna, forgive me! We'll never do it again.
+Anna, forgive me! I'll never do it again.
 
 642
 1:17:32,493 --> 1:17:41,767
-Don't do that! Vasek is looking forward to the fun, my dad's broken-hearted.
+No, don't do that! Vasek is looking forward to the fun, my dad will be broken-hearted.
 
 643
 1:17:41,898 --> 1:17:44,815
@@ -2873,20 +2873,20 @@ I didn't want to stay here, but I stayed!
 
 646
 1:17:54,185 --> 1:17:58,417
-I wanted to use and enjoy life at the stove!
+I wanted to enjoy the holidays and I mostly enjoyed cooking at the stove.
 
 647
 1:17:58,547 --> 1:18:2,305
-You fell in love with me, you can't live without me.
+You thought you would never fall in love.
 
 648
 1:18:2,430 --> 1:18:7,570
-~ So it doesn't matter whether the wedding's on Tuesday or Saturday.
+~ But now that you can't live without me, it doesn't make a difference which day the wedding's on.
 ~ Wedding? What wedding?
 
 649
 1:18:7,993 --> 1:18:10,189
-The wedding will never be!
+The wedding will never happen!
 
 650
 1:18:11,214 --> 1:18:16,292
@@ -2894,7 +2894,7 @@ You seemed to be a great dad. But you're a liar and a criminal.
 
 651
 1:18:18,218 --> 1:18:21,292
-Like any normal guy!
+Like any normal man!
 
 652
 1:18:30,865 --> 1:18:34,304
@@ -2902,12 +2902,12 @@ There you are! Not a letter, not a card, nothing!
 
 653
 1:18:34,728 --> 1:18:38,168
-~ And here I am, covered in thorns, and you don't even care!
+~ And that I'm here, worried stiff, you don't even care!
 ~ Don't get upset!
 
 654
 1:18:39,090 --> 1:18:43,005
-No, there was no point in coming --- the wedding's off.
+You didn't miss anything --- the wedding's off.
 
 655
 1:18:44,333 --> 1:18:49,586
@@ -2915,41 +2915,42 @@ Why off? The rascal won't marry you?
 
 656
 1:18:49,916 --> 1:18:52,273
-I don't want to!
+The rascal would like to.
 
 657
 1:18:52,617 --> 1:18:54,934
-Surely you can't do this to Vasek.
+You're crazy! Surely you can't do this to Vasek.
 
 658
 1:18:55,059 --> 1:19:0,758
-This all means his mom hasn't decided to get married yet?
+Do you want him to tell everyone in school that Mom hasn't decided yet whether to marry Dad?
 
 659
 1:19:1,582 --> 1:19:6,103
-I've decided! I don't care what Vasek will say!!
+I have decided already! I don't care what Vasek will say!!
 
 660
 1:19:6,425 --> 1:19:13,601
-But I want him to stay alive! No one may threaten the life of my children.
+But I want him to stay alive! No one may threaten the life of my children, even their own Dad!
 
 661
 1:19:14,229 --> 1:19:21,648
-What children? You specifically told him what you wanted!
+~ What children? Do you have children?
+~ I told him what I don't want and why.
 
 662
 1:19:21,774 --> 1:19:31,377
-~ But he ignored it. Instead he took him up the Dragon's Tooth!
-~ Above all, you love him.
+~ But he ignored it. Instead he takes him up the Dragon's Tooth!
+~ The most important question is if you love him.
 
 663
 1:19:32,099 --> 1:19:38,839
-I don't want to see him anymore. He let me down!
+Love... I don't want to see him anymore. He let me down!
 
 664
 1:19:39,383 --> 1:19:45,826
-~ When I saw them climbing rocks.
-~ You don't get it, girl!
+~ Why on Earth did I have to meet a climber!
+~ You don't get to choose, girl!
 
 665
 1:19:46,047 --> 1:19:48,747
@@ -2961,26 +2962,27 @@ Drivers or skydivers risk their lives every day.
 
 667
 1:19:55,052 --> 1:20:2,175
-~ In contrast, climbing is a safe sport.
-~ For bad men!
+~ In comparison, climbing is a safe sport.
+~ Lousy men!
 
 668
 1:20:2,296 --> 1:20:7,137
-~ They absolutely don't appreciate life.
+~ They absolutely can't value life!
 ~ It's not risky with Lubos.
 
 669
 1:20:7,259 --> 1:20:14,853
-There's only one dangerous profession. Being a male! The boy needs to learn how!
+He's just got a dangerous job. That's the male nature. And the boy inherited that from his father.
 
 670
 1:20:14,883 --> 1:20:21,044
-~ So embrace him!
-~ How? Along with broken ribs?
+~ You'll have to put up with it.
+~ With what? That he'll return with broken ribs one day?
 
 671
 1:20:21,167 --> 1:20:25,807
-He's never coming back at all? He'll never accept that.
+That he'll not return at all?
+I'm not going to accept that!
 
 672
 1:20:42,058 --> 1:20:49,291
@@ -2989,7 +2991,7 @@ He's never coming back at all? He'll never accept that.
 
 673
 1:20:51,363 --> 1:20:55,996
-~ So how did I do? Great?
+~ And what about me?!
 ~ You're the wisest.
 
 674
@@ -2998,7 +3000,7 @@ Prague has fifty schools and you find the right one!
 
 675
 1:21:0,989 --> 1:21:4,650
-Grandpa couldn't even find his way out of the station.
+Grandpa couldn't even find his way out of the station without me.
 
 676
 1:21:4,771 --> 1:21:6,124
@@ -3006,13 +3008,13 @@ Don't trust him, Vasek!
 
 677
 1:21:6,152 --> 1:21:12,844
-~ But now we have to correct the mistake.
+~ I waited for him at the platform so that we can make amends for what you two have done.
 ~ How's life at home?
 
 678
 1:21:13,175 --> 1:21:18,132
-~ I'm in hell! What about Pepa?
-~ Forget Pepa. What about Mom?
+~ It's hell at home! What about Pepa?
+~ Oh let Pepa be. What about Mom?
 
 679
 1:21:18,258 --> 1:21:21,889
@@ -3021,7 +3023,7 @@ Don't trust him, Vasek!
 
 680
 1:21:22,020 --> 1:21:26,255
-~ Does she talk with you?
+~ Does she talk to you?
 ~ Less and less!
 ~ Bloody hell!
 
@@ -3031,12 +3033,12 @@ In the morning, she gets up, goes to the bathroom and closes the door, and's in 
 
 682
 1:21:32,446 --> 1:21:37,918
-~ What's she doing for an hour?
-~ Sitting in the bath and sighing!
+~ What's she doing for an hour in the bathroom?
+~ Sitting in the bath, eating a dry roll, and sighing!
 
 683
 1:21:38,349 --> 1:21:46,004
-Then she comes out, looks at a calendar and says: "Oh yeah".
+Then she comes out, looks at a calendar and sighs: "Oh yeah".
 
 684
 1:21:46,034 --> 1:21:47,988
@@ -3044,7 +3046,7 @@ Maybe waiting for when you arrive.
 
 685
 1:21:48,115 --> 1:21:53,637
-In the evening it's even worse. We had three bad fish.
+In the evening it's even worse. We already had sour fish three times instead of steak.
 
 686
 1:21:53,858 --> 1:21:56,450
@@ -3053,11 +3055,12 @@ In the evening it's even worse. We had three bad fish.
 
 687
 1:21:56,580 --> 1:22:2,002
-It's women's tactics! I can't let things go on like this.
+Oh gosh, it's always trouble with women.
+You just touch them and they immediately get a nerve shock!
 
 688
 1:22:2,123 --> 1:22:7,100
-You said that the storm would clear. But I see you've cleared up nothing.
+You said that the storm would clear. But I see nothing has cleared so far.
 
 689
 1:22:7,326 --> 1:22:13,185
@@ -3089,7 +3092,7 @@ I've arrived!
 
 696
 1:23:0,495 --> 1:23:4,251
-Private business after the exercise!
+Private business after the rehearsal!
 
 697
 1:23:4,677 --> 1:23:6,957
@@ -3109,11 +3112,11 @@ Turn!
 
 701
 1:23:26,029 --> 1:23:32,623
-Mom, I'm sorry! I forced him to, every day!
+Mom, don't be angry at Dad! I forced him to, every day!
 
 702
 1:23:33,053 --> 1:23:36,384
-Dad didn't want to climb rocks! Not really!
+Dad didn't want to climb rocks! He really didn't!
 
 703
 1:23:37,616 --> 1:23:42,888
@@ -3126,25 +3129,25 @@ If only you knew how sorry Dad is! Really!
 
 705
 1:23:46,501 --> 1:23:51,478
-Look! When you listen to a kid, you get it across the ass.
+Look, if a child does not behave, you can spank him.
 
 706
 1:23:51,904 --> 1:23:56,180
-Since you won't listen to grownups, you can't do anything.
+When an adult does not behave, there's nothing you can do.
 
 707
 1:23:56,206 --> 1:24:1,598
-~ And it doesn't help your Dad or anybody else.
+~ And in the case of your Dad, not even a correctional centre will help.
 ~ Forgive us, Mom!
 
 708
 1:24:2,229 --> 1:24:7,765
-I can forgive all the dirty tricks, but this is something else.
+I can forgive all the little tricks, but this is something else.
 
 709
 1:24:8,393 --> 1:24:15,536
-~ I don't understand you.
-~ Maybe you don't want us to be happy again?
+~ You can't understand this.
+~ You don't want us to be alone again?
 
 710
 1:24:16,157 --> 1:24:21,710
@@ -3152,11 +3155,11 @@ We once were three, but it can never be two again!
 
 711
 1:24:21,840 --> 1:24:27,181
-Mom, Dad is here! With seven climbers. You call him!
+Mom, Dad is here! At the Seven Climbers' Pub. He wants you to call him!
 
 712
 1:24:27,303 --> 1:24:35,062
-He's here! He wants to come home! Call him! Mommy!
+He's here! He wants to come home to me! Call him! Mommy!
 
 713
 1:24:57,640 --> 1:25:1,017
@@ -3173,7 +3176,7 @@ It would be sad for you. I know that!
 
 716
 1:25:11,328 --> 1:25:15,865
-I was sad, too, when I went there myself!
+I was sad, too, when I was here alone.
 
 717
 1:25:18,672 --> 1:25:26,194
@@ -3181,16 +3184,16 @@ You're my little scruff. I'll tell you a secret. Do you want me to?
 
 718
 1:25:27,517 --> 1:25:31,996
-What would you say if a stork flew in for us in March?
+What would you say if a stork came to us in March?
 
 719
 1:25:32,419 --> 1:25:37,275
-I don't want a stork! I want my own Dad to come home.
+I don't want a stork in March! I want my own Dad to come home, now!
 
 720
 1:25:37,402 --> 1:25:42,164
-~ Home! Now, now!
-~ I'm going to have a baby.
+~ Oh come on, it's just a metaphor!
+~ We're going to have a baby.
 
 721
 1:25:42,285 --> 1:25:47,179
@@ -3203,7 +3206,7 @@ Here, Colombo. I arranged everything. Absolutely!
 
 723
 1:25:56,413 --> 1:26:5,336
-Tomorrow at exactly nine! Three rings! Password: kangaroo will arrive in March.
+Tomorrow at exactly nine! Ring three times! Password: kangaroo will arrive in March.
 
 724
 1:26:8,259 --> 1:26:15,853
@@ -3218,12 +3221,12 @@ Tomorrow at exactly nine! Three rings! Password: kangaroo will arrive in March.
 
 726
 1:26:27,690 --> 1:26:30,246
-Don't leave! You're here!
+Don't leave! You're staying here!
 
 727
 1:26:30,372 --> 1:26:38,168
 ~ Password? Password?
-~ Kangaroo will arrive in April.
+~ Kangaroo will arrive in Tuesday. Erm, in April!
 ~ In March!
 
 728
@@ -3252,43 +3255,43 @@ But it's enough if two people love each other.
 
 733
 1:27:6,812 --> 1:27:12,485
-~ That's why your mother and I have you?
-~ Yeah, I followed you.
+~ Do you think that Mom and I love each other?
+~ Of course, I tracked you the whole holiday!
 
 734
 1:27:12,515 --> 1:27:16,866
-If we're not careful, you could have a little brother!
+If you weren't so thorough, you could actually get the brother!
 
 735
 1:27:16,997 --> 1:27:22,057
-She's not even married but she'll have two kids!
+Jesus Christ, they're not even married once but they're going to have two children!
 
 736
 1:27:22,180 --> 1:27:28,839
-~ You're not making sense!
-~ My mom's telling the truth.
-~ You're lying!
+~ You're a little quacker...
+~ My mom always tells the truth.
+~ But you're lying!
 
 737
 1:27:29,665 --> 1:27:35,144
-Grandpa, how about we put our boy under the pump in a blanket?
+Grandpa, it would be best to put our boy under the pump soon after birth.
 
 738
 1:27:35,268 --> 1:27:38,785
 ~ Why?
-~ Let's see if he's tough!
+~ To see if he's tough enough!
 
 739
 1:27:40,010 --> 1:27:44,468
-And when there's four of us, we'll take him rock-climbing!
+And when he starts crawling, we'll put him on a rock to see if he can hold on.
 
 740
 1:27:45,493 --> 1:27:52,315
-You're so confused. It won't be a boy, but a girl!
+You're way off. The boy you think will be born for your amusement will be a girl.
 
 741
 1:27:53,098 --> 1:28:0,196
-Honey, don't you want me to say that we'll have two children wearing a kangaroo?
+Honey, are you trying to tell me that our children are brought to us by a kangaroo?
 
 742
 1:28:3,944 --> 1:28:8,019
@@ -3296,11 +3299,11 @@ How could the two of us have a girl?
 
 743
 1:28:8,226 --> 1:28:14,524
-That together we'll have a second child, we really will.
+Given that we're expecting a second child, we haven't had too much fun together yet...
 
 744
 1:28:14,549 --> 1:28:17,702
-~ Right?
+~ Oh, really...
 ~ Oh, yes!
 
 745
@@ -3327,4 +3330,3 @@ Anna!
 750
 1:28:47,027 --> 1:28:51,069
 Dad, Mom!
-
