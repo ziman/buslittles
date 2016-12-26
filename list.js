@@ -44,5 +44,6 @@ window.SRTS = [
   "vrchni prchni-kinobox.txt",
   "Vrchni Prchni-Kinobox.txt",
   "Nothing-to-Declare(0000180315).srt",
-  "Tais.Toi.FRENCH.DVDRip.DivX-ULYSSE.srt"
+  "Tais.Toi.FRENCH.DVDRip.DivX-ULYSSE.srt",
+  "mastickar.eng.srt"
 ];
