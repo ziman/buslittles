@@ -10,7 +10,6 @@ window.SRTS = [
   "Pelisky.1999.1080p.BluRay.DTS-HDMA.x264.srt",
   "perinbaba.txt",
   "popelka.srt",
-  "Princezna se zlatou hvezdou.srt",
   "s-tebou-me-bavi-svet.srt",
   "Three Wishes Of Cinderella (Tri Orisky Pro Popelku) (1973) Kinobox.srt",
   "vesnicko.eng.srt",
@@ -45,5 +44,7 @@ window.SRTS = [
   "Vrchni Prchni-Kinobox.txt",
   "Nothing-to-Declare(0000180315).srt",
   "Tais.Toi.FRENCH.DVDRip.DivX-ULYSSE.srt",
-  "mastickar.eng.srt"
+  "mastickar.eng.srt",
+  "mysi-kozisek.cz.srt",
+  "mysi-kozisek.en.srt"
 ];
