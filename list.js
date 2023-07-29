@@ -46,5 +46,9 @@ window.SRTS = [
   "Tais.Toi.FRENCH.DVDRip.DivX-ULYSSE.srt",
   "mastickar.eng.srt",
   "mysi-kozisek.cz.srt",
-  "mysi-kozisek.en.srt"
+  "mysi-kozisek.en.srt",
+  "pysna-princezna-1.srt",
+  "princezna-se-zlatou-hvezdou.srt",
+  "princezna-se-zlatou-hvezdou-2.srt",
+  "tokajik.srt"
 ];

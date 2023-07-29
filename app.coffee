@@ -10,7 +10,7 @@ parseSrt = (txt) ->
   console.error "could not recognise srt format"
 
 parseSrt_typeB = (txt) ->
-  lines = txt.replace('\r', '').split('\n')
+  lines = txt.replace('\r', ' ').split('\n')
   console.log "#{lines.length} lines"
 
   fps = 25.0
