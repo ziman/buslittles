@@ -50,5 +50,6 @@ window.SRTS = [
   "pysna-princezna-1.srt",
   "princezna-se-zlatou-hvezdou.srt",
   "princezna-se-zlatou-hvezdou-2.srt",
-  "tokajik.srt"
+  "tokajik-en.srt",
+  "tokajik-fr.srt"
 ];
